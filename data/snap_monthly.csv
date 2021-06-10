@@ -1,0 +1,3667 @@
+"state","with_kids","low_income","month","n_snap","month_num"
+"Alabama",0,0,"april",16675.0402217911,4
+"Alabama",0,0,"august",18213.9816159044,8
+"Alabama",0,0,"december",11919.27005745,12
+"Alabama",0,0,"february",16631.7906778337,2
+"Alabama",0,0,"january",20760.4482778713,1
+"Alabama",0,0,"july",18669.9345332378,7
+"Alabama",0,0,"june",19186.7944989033,6
+"Alabama",0,0,"march",18097.58923454,3
+"Alabama",0,0,"may",18187.6989914689,5
+"Alabama",0,0,"november",16633.6549251433,11
+"Alabama",0,0,"october",15566.2616743317,10
+"Alabama",0,0,"september",18458.9255477862,9
+"Alabama",0,1,"april",52599.3917830544,4
+"Alabama",0,1,"august",61564.6053036944,8
+"Alabama",0,1,"december",35663.72689345,12
+"Alabama",0,1,"february",44606.0916322589,2
+"Alabama",0,1,"january",44494.8211610922,1
+"Alabama",0,1,"july",57745.9783247156,7
+"Alabama",0,1,"june",58028.1893820822,6
+"Alabama",0,1,"march",47700.0322790544,3
+"Alabama",0,1,"may",55623.7167933322,5
+"Alabama",0,1,"november",66555.8878560967,11
+"Alabama",0,1,"october",62806.6418392383,10
+"Alabama",0,1,"september",62521.953841885,9
+"Alabama",0,NA,"april",13235.4858897778,4
+"Alabama",0,NA,"august",20404.4917684489,8
+"Alabama",0,NA,"december",16377.55524505,12
+"Alabama",0,NA,"february",9715.57753935556,2
+"Alabama",0,NA,"january",9102.97516438889,1
+"Alabama",0,NA,"july",15422.3299507489,7
+"Alabama",0,NA,"june",14832.3182883933,6
+"Alabama",0,NA,"march",9923.87056796667,3
+"Alabama",0,NA,"may",14132.98680424,5
+"Alabama",0,NA,"november",14149.2396004333,11
+"Alabama",0,NA,"october",12916.220361165,10
+"Alabama",0,NA,"september",13390.0891834663,9
+"Alabama",1,0,"april",19402.5972813222,4
+"Alabama",1,0,"august",20375.98535048,8
+"Alabama",1,0,"december",16843.4796598,12
+"Alabama",1,0,"february",13626.3367461811,2
+"Alabama",1,0,"january",13080.3657635589,1
+"Alabama",1,0,"july",20787.1043174578,7
+"Alabama",1,0,"june",19574.7966440778,6
+"Alabama",1,0,"march",14514.7432732033,3
+"Alabama",1,0,"may",22567.0048165911,5
+"Alabama",1,0,"november",28681.0709887633,11
+"Alabama",1,0,"october",22152.6359361333,10
+"Alabama",1,0,"september",21977.0676362363,9
+"Alabama",1,1,"april",95493.2476752511,4
+"Alabama",1,1,"august",105967.429583408,8
+"Alabama",1,1,"december",33890.48943362,12
+"Alabama",1,1,"february",79090.4211757733,2
+"Alabama",1,1,"january",79063.6545071311,1
+"Alabama",1,1,"july",100663.045473038,7
+"Alabama",1,1,"june",99169.9749665767,6
+"Alabama",1,1,"march",86121.6449799956,3
+"Alabama",1,1,"may",96298.4034641111,5
+"Alabama",1,1,"november",135178.650952973,11
+"Alabama",1,1,"october",109206.808620272,10
+"Alabama",1,1,"september",107488.265643524,9
+"Alabama",1,NA,"april",46285.4671844211,4
+"Alabama",1,NA,"august",50597.4740541278,8
+"Alabama",1,NA,"december",24647.5206448,12
+"Alabama",1,NA,"february",32636.6059676911,2
+"Alabama",1,NA,"january",32932.7322935911,1
+"Alabama",1,NA,"july",48100.5487111767,7
+"Alabama",1,NA,"june",46562.4061567322,6
+"Alabama",1,NA,"march",37791.4018443011,3
+"Alabama",1,NA,"may",44257.1844067567,5
+"Alabama",1,NA,"november",40185.2503474333,11
+"Alabama",1,NA,"october",70050.6923404,10
+"Alabama",1,NA,"september",53807.2711987063,9
+"Alaska",0,0,"april",2814.68080293933,4
+"Alaska",0,0,"august",3213.42366932189,8
+"Alaska",0,0,"december",2105.2855684095,12
+"Alaska",0,0,"february",2144.59486456278,2
+"Alaska",0,0,"january",2052.95208535389,1
+"Alaska",0,0,"july",3058.081355421,7
+"Alaska",0,0,"june",2901.22044225433,6
+"Alaska",0,0,"march",2694.50943088767,3
+"Alaska",0,0,"may",2865.83752818322,5
+"Alaska",0,0,"november",3082.02201047533,11
+"Alaska",0,0,"october",3016.7178299155,10
+"Alaska",0,0,"september",3138.741230519,9
+"Alaska",0,1,"april",8171.315975516,4
+"Alaska",0,1,"august",9319.7869192,8
+"Alaska",0,1,"december",3920.4384841635,12
+"Alaska",0,1,"february",7417.89414549278,2
+"Alaska",0,1,"january",7115.02342074278,1
+"Alaska",0,1,"july",8761.34238216867,7
+"Alaska",0,1,"june",8750.83862598867,6
+"Alaska",0,1,"march",7861.352488375,3
+"Alaska",0,1,"may",8240.49267843822,5
+"Alaska",0,1,"november",8553.39974271567,11
+"Alaska",0,1,"october",9437.53586144967,10
+"Alaska",0,1,"september",9037.52929587462,9
+"Alaska",0,NA,"april",987.066770723375,4
+"Alaska",0,NA,"august",1185.85008448713,8
+"Alaska",0,NA,"december",850.218428894,12
+"Alaska",0,NA,"february",622.615186752125,2
+"Alaska",0,NA,"january",690.530483568143,1
+"Alaska",0,NA,"july",1295.35645228386,7
+"Alaska",0,NA,"june",1225.28270595962,6
+"Alaska",0,NA,"march",951.420584177125,3
+"Alaska",0,NA,"may",1066.82516867962,5
+"Alaska",0,NA,"november",565.316629156667,11
+"Alaska",0,NA,"october",1008.4549231872,10
+"Alaska",0,NA,"september",931.893216308375,9
+"Alaska",1,0,"april",1923.93531628378,4
+"Alaska",1,0,"august",2252.88667654256,8
+"Alaska",1,0,"december",4058.5575422,12
+"Alaska",1,0,"february",1273.559829771,2
+"Alaska",1,0,"january",1051.08876222656,1
+"Alaska",1,0,"july",1765.71396962433,7
+"Alaska",1,0,"june",1932.92751885211,6
+"Alaska",1,0,"march",1453.86775671922,3
+"Alaska",1,0,"may",1709.23892833822,5
+"Alaska",1,0,"november",2363.29802275667,11
+"Alaska",1,0,"october",2355.676572976,10
+"Alaska",1,0,"september",2738.1235639125,9
+"Alaska",1,1,"april",10811.2511774212,4
+"Alaska",1,1,"august",12226.4267491724,8
+"Alaska",1,1,"december",10969.4498739685,12
+"Alaska",1,1,"february",9500.13471392511,2
+"Alaska",1,1,"january",9592.29506772956,1
+"Alaska",1,1,"july",11700.996098152,7
+"Alaska",1,1,"june",11232.8065672231,6
+"Alaska",1,1,"march",9877.45141248244,3
+"Alaska",1,1,"may",11438.3881858996,5
+"Alaska",1,1,"november",12526.7811027137,11
+"Alaska",1,1,"october",11374.7951503123,10
+"Alaska",1,1,"september",13137.3117679564,9
+"Alaska",1,NA,"april",5340.47243952767,4
+"Alaska",1,NA,"august",6381.71494083522,8
+"Alaska",1,NA,"december",7089.29469485,12
+"Alaska",1,NA,"february",4278.31481176656,2
+"Alaska",1,NA,"january",4348.21294185389,1
+"Alaska",1,NA,"july",5901.85520435967,7
+"Alaska",1,NA,"june",5484.402055153,6
+"Alaska",1,NA,"march",5027.04076903878,3
+"Alaska",1,NA,"may",5851.82362589967,5
+"Alaska",1,NA,"november",6807.93697971033,11
+"Alaska",1,NA,"october",6293.2026529165,10
+"Alaska",1,NA,"september",6894.09159831962,9
+"Arizona",0,0,"april",44181.7827704411,4
+"Arizona",0,0,"august",55616.7582154022,8
+"Arizona",0,0,"december",53172.046008615,12
+"Arizona",0,0,"february",34645.60607428,2
+"Arizona",0,0,"january",32757.6853542189,1
+"Arizona",0,0,"july",55663.8222239422,7
+"Arizona",0,0,"june",54250.93727203,6
+"Arizona",0,0,"march",36438.0687131189,3
+"Arizona",0,0,"may",52450.5172569856,5
+"Arizona",0,0,"november",70264.9480793833,11
+"Arizona",0,0,"october",63822.745741665,10
+"Arizona",0,0,"september",58592.692899965,9
+"Arizona",0,1,"april",88619.8993401,4
+"Arizona",0,1,"august",96817.9152561644,8
+"Arizona",0,1,"december",68688.61394877,12
+"Arizona",0,1,"february",77704.42878676,2
+"Arizona",0,1,"january",76313.8809169378,1
+"Arizona",0,1,"july",94992.6572611344,7
+"Arizona",0,1,"june",94056.9739912556,6
+"Arizona",0,1,"march",83711.5474653989,3
+"Arizona",0,1,"may",91857.2592113489,5
+"Arizona",0,1,"november",105879.05403981,11
+"Arizona",0,1,"october",98708.5696204017,10
+"Arizona",0,1,"september",89968.2632217838,9
+"Arizona",0,NA,"april",24255.5049101111,4
+"Arizona",0,NA,"august",26897.2307657389,8
+"Arizona",0,NA,"december",9051.327681765,12
+"Arizona",0,NA,"february",15880.1250399778,2
+"Arizona",0,NA,"january",15880.1250399778,1
+"Arizona",0,NA,"july",28143.9550521611,7
+"Arizona",0,NA,"june",27962.8430576556,6
+"Arizona",0,NA,"march",18739.2192346333,3
+"Arizona",0,NA,"may",25263.7874737911,5
+"Arizona",0,NA,"november",17657.1535595233,11
+"Arizona",0,NA,"october",22422.7735314133,10
+"Arizona",0,NA,"september",21444.2240816375,9
+"Arizona",1,0,"april",24774.4691582667,4
+"Arizona",1,0,"august",37466.3799714289,8
+"Arizona",1,0,"december",20974.995585935,12
+"Arizona",1,0,"february",18200.05913412,2
+"Arizona",1,0,"january",16970.3239756089,1
+"Arizona",1,0,"july",32379.6439007222,7
+"Arizona",1,0,"june",32507.6840239089,6
+"Arizona",1,0,"march",20630.8942088756,3
+"Arizona",1,0,"may",28333.9537346744,5
+"Arizona",1,0,"november",33405.06212213,11
+"Arizona",1,0,"october",26940.8221348933,10
+"Arizona",1,0,"september",31928.9887868813,9
+"Arizona",1,1,"april",120732.717920934,4
+"Arizona",1,1,"august",131634.784484458,8
+"Arizona",1,1,"december",61699.570319255,12
+"Arizona",1,1,"february",97865.4277149856,2
+"Arizona",1,1,"january",94792.7705968544,1
+"Arizona",1,1,"july",131010.386195712,7
+"Arizona",1,1,"june",129239.894296902,6
+"Arizona",1,1,"march",107156.878173186,3
+"Arizona",1,1,"may",125587.861422597,5
+"Arizona",1,1,"november",129404.456601647,11
+"Arizona",1,1,"october",118556.876032208,10
+"Arizona",1,1,"september",120951.919271815,9
+"Arizona",1,NA,"april",51262.39895709,4
+"Arizona",1,NA,"august",57236.7538805056,8
+"Arizona",1,NA,"december",43395.4744428,12
+"Arizona",1,NA,"february",43292.4864129789,2
+"Arizona",1,NA,"january",42009.5152375233,1
+"Arizona",1,NA,"july",59674.7886748056,7
+"Arizona",1,NA,"june",56329.8445741256,6
+"Arizona",1,NA,"march",49014.8390503456,3
+"Arizona",1,NA,"may",54822.9790599744,5
+"Arizona",1,NA,"november",57895.0689205,11
+"Arizona",1,NA,"october",50051.4745745483,10
+"Arizona",1,NA,"september",62533.5132224812,9
+"Arkansas",0,0,"april",6242.15102377222,4
+"Arkansas",0,0,"august",8361.99219694,8
+"Arkansas",0,0,"december",2323.85950202,12
+"Arkansas",0,0,"february",6421.17188754,2
+"Arkansas",0,0,"january",6349.859754305,1
+"Arkansas",0,0,"july",8497.65114033778,7
+"Arkansas",0,0,"june",7358.05153990333,6
+"Arkansas",0,0,"march",6553.623858015,3
+"Arkansas",0,0,"may",6791.94137226333,5
+"Arkansas",0,0,"november",8687.36830182667,11
+"Arkansas",0,0,"october",6679.50787569,10
+"Arkansas",0,0,"september",7154.29508155625,9
+"Arkansas",0,1,"april",39856.2699320167,4
+"Arkansas",0,1,"august",47335.6894299622,8
+"Arkansas",0,1,"december",26458.350332475,12
+"Arkansas",0,1,"february",36102.84804873,2
+"Arkansas",0,1,"january",35888.2688917567,1
+"Arkansas",0,1,"july",45725.2498789078,7
+"Arkansas",0,1,"june",43203.7334322556,6
+"Arkansas",0,1,"march",38441.3961512122,3
+"Arkansas",0,1,"may",41853.4091996522,5
+"Arkansas",0,1,"november",54268.6927934967,11
+"Arkansas",0,1,"october",48905.9261361717,10
+"Arkansas",0,1,"september",51976.4486380238,9
+"Arkansas",0,NA,"april",8810.03448160625,4
+"Arkansas",0,NA,"august",11737.2469078644,8
+"Arkansas",0,NA,"december",1389.0259265,12
+"Arkansas",0,NA,"february",6441.05058395875,2
+"Arkansas",0,NA,"january",7489.73036503375,1
+"Arkansas",0,NA,"july",11805.6588404887,7
+"Arkansas",0,NA,"june",11838.4960164188,6
+"Arkansas",0,NA,"march",7993.52110863625,3
+"Arkansas",0,NA,"may",11103.8624520687,5
+"Arkansas",0,NA,"november",8465.76405017667,11
+"Arkansas",0,NA,"october",8792.14312124333,10
+"Arkansas",0,NA,"september",10701.9087452825,9
+"Arkansas",1,0,"april",4248.04835766286,4
+"Arkansas",1,0,"august",6461.67467090375,8
+"Arkansas",1,0,"december",3206.68453355,12
+"Arkansas",1,0,"february",3052.44780704714,2
+"Arkansas",1,0,"january",2951.87914836625,1
+"Arkansas",1,0,"july",6149.07475955625,7
+"Arkansas",1,0,"june",4983.17167185,6
+"Arkansas",1,0,"march",3850.98575728143,3
+"Arkansas",1,0,"may",4283.23565206286,5
+"Arkansas",1,0,"november",4688.68514568333,11
+"Arkansas",1,0,"october",5535.762177212,10
+"Arkansas",1,0,"september",4770.09760264714,9
+"Arkansas",1,1,"april",48212.0877577089,4
+"Arkansas",1,1,"august",55072.45554046,8
+"Arkansas",1,1,"december",24846.365202005,12
+"Arkansas",1,1,"february",40530.6355323233,2
+"Arkansas",1,1,"january",41213.1013054678,1
+"Arkansas",1,1,"july",56767.27799859,7
+"Arkansas",1,1,"june",54770.2473335644,6
+"Arkansas",1,1,"march",44610.7986761078,3
+"Arkansas",1,1,"may",50931.64934646,5
+"Arkansas",1,1,"november",51030.9388448233,11
+"Arkansas",1,1,"october",53222.3882637083,10
+"Arkansas",1,1,"september",56201.6602563275,9
+"Arkansas",1,NA,"april",24035.3450366044,4
+"Arkansas",1,NA,"august",26775.1374908989,8
+"Arkansas",1,NA,"december",15232.59180725,12
+"Arkansas",1,NA,"february",21421.7151002675,2
+"Arkansas",1,NA,"january",21385.738798505,1
+"Arkansas",1,NA,"july",25578.9138876456,7
+"Arkansas",1,NA,"june",24232.7166322711,6
+"Arkansas",1,NA,"march",21272.9870004078,3
+"Arkansas",1,NA,"may",24629.1402502822,5
+"Arkansas",1,NA,"november",20140.5908967,11
+"Arkansas",1,NA,"october",24431.1543711283,10
+"Arkansas",1,NA,"september",29721.65147108,9
+"California",0,0,"april",242858.527538154,4
+"California",0,0,"august",271799.008694971,8
+"California",0,0,"december",208526.17984568,12
+"California",0,0,"february",162254.140122616,2
+"California",0,0,"january",157719.720397411,1
+"California",0,0,"july",268201.164508953,7
+"California",0,0,"june",263223.084832864,6
+"California",0,0,"march",216609.186180517,3
+"California",0,0,"may",254403.650297636,5
+"California",0,0,"november",348268.325398713,11
+"California",0,0,"october",311470.088566772,10
+"California",0,0,"september",291906.156111154,9
+"California",0,1,"april",460484.661541399,4
+"California",0,1,"august",530117.224324017,8
+"California",0,1,"december",403524.27991127,12
+"California",0,1,"february",389248.076597259,2
+"California",0,1,"january",383722.742130047,1
+"California",0,1,"july",509343.166133026,7
+"California",0,1,"june",500741.341504546,6
+"California",0,1,"march",449278.870978619,3
+"California",0,1,"may",482473.825596712,5
+"California",0,1,"november",516055.016730023,11
+"California",0,1,"october",462036.249315195,10
+"California",0,1,"september",517752.301729824,9
+"California",0,NA,"april",160262.951737757,4
+"California",0,NA,"august",173757.862608818,8
+"California",0,NA,"december",127564.486659065,12
+"California",0,NA,"february",127777.882469189,2
+"California",0,NA,"january",115988.533631982,1
+"California",0,NA,"july",162387.916599618,7
+"California",0,NA,"june",195928.562267267,6
+"California",0,NA,"march",134295.239543197,3
+"California",0,NA,"may",157028.266843798,5
+"California",0,NA,"november",197026.63212034,11
+"California",0,NA,"october",202440.087745177,10
+"California",0,NA,"september",188570.747388626,9
+"California",1,0,"april",177315.838044144,4
+"California",1,0,"august",237797.058818546,8
+"California",1,0,"december",130335.959259565,12
+"California",1,0,"february",136409.544518722,2
+"California",1,0,"january",130357.643912572,1
+"California",1,0,"july",226258.885718749,7
+"California",1,0,"june",223115.690293391,6
+"California",1,0,"march",159443.299273374,3
+"California",1,0,"may",196854.54222333,5
+"California",1,0,"november",208507.659409517,11
+"California",1,0,"october",204648.858074757,10
+"California",1,0,"september",226242.903520891,9
+"California",1,1,"april",596680.518502642,4
+"California",1,1,"august",646565.806692093,8
+"California",1,1,"december",502916.261470865,12
+"California",1,1,"february",521464.263828621,2
+"California",1,1,"january",533005.599943459,1
+"California",1,1,"july",666840.714968026,7
+"California",1,1,"june",647640.61617267,6
+"California",1,1,"march",562367.020521276,3
+"California",1,1,"may",635395.798515928,5
+"California",1,1,"november",749538.614697787,11
+"California",1,1,"october",634514.626603957,10
+"California",1,1,"september",635807.227149407,9
+"California",1,NA,"april",255406.613764919,4
+"California",1,NA,"august",309354.682037453,8
+"California",1,NA,"december",116378.69664206,12
+"California",1,NA,"february",208933.234160222,2
+"California",1,NA,"january",218804.854103796,1
+"California",1,NA,"july",298934.214749604,7
+"California",1,NA,"june",284624.876993761,6
+"California",1,NA,"march",233328.389572868,3
+"California",1,NA,"may",274458.45433775,5
+"California",1,NA,"november",219099.58999965,11
+"California",1,NA,"october",230529.902041583,10
+"California",1,NA,"september",274134.946147298,9
+"Colorado",0,0,"april",35838.3958125096,4
+"Colorado",0,0,"august",46171.4846331673,8
+"Colorado",0,0,"december",49806.7253848,12
+"Colorado",0,0,"february",24088.8766979067,2
+"Colorado",0,0,"january",22194.9126576467,1
+"Colorado",0,0,"july",42533.637067114,7
+"Colorado",0,0,"june",41304.0375051529,6
+"Colorado",0,0,"march",26066.0120228996,3
+"Colorado",0,0,"may",37978.7740432607,5
+"Colorado",0,0,"november",47985.6366627767,11
+"Colorado",0,0,"october",48819.655540045,10
+"Colorado",0,0,"september",49531.4324585382,9
+"Colorado",0,1,"april",58890.9868414633,4
+"Colorado",0,1,"august",63040.9154918722,8
+"Colorado",0,1,"december",25550.651593825,12
+"Colorado",0,1,"february",51397.1457782767,2
+"Colorado",0,1,"january",49161.9699334933,1
+"Colorado",0,1,"july",62022.8752326344,7
+"Colorado",0,1,"june",61490.7867373833,6
+"Colorado",0,1,"march",56843.1600308144,3
+"Colorado",0,1,"may",59030.3879172089,5
+"Colorado",0,1,"november",68143.3638163233,11
+"Colorado",0,1,"october",60085.147128785,10
+"Colorado",0,1,"september",61410.5996418225,9
+"Colorado",0,NA,"april",6378.43879301375,4
+"Colorado",0,NA,"august",8133.30466696,8
+"Colorado",0,NA,"december",2735.186224605,12
+"Colorado",0,NA,"february",5213.20243554714,2
+"Colorado",0,NA,"january",5309.33570679714,1
+"Colorado",0,NA,"july",7741.03965198222,7
+"Colorado",0,NA,"june",7692.82048402667,6
+"Colorado",0,NA,"march",5248.11417758875,3
+"Colorado",0,NA,"may",6378.43879301375,5
+"Colorado",0,NA,"november",4829.21817474333,11
+"Colorado",0,NA,"october",7275.79796958833,10
+"Colorado",0,NA,"september",7976.01366690625,9
+"Colorado",1,0,"april",25833.8690375778,4
+"Colorado",1,0,"august",31105.5405815656,8
+"Colorado",1,0,"december",4519.41565336,12
+"Colorado",1,0,"february",16886.9916587137,2
+"Colorado",1,0,"january",17120.5476359013,1
+"Colorado",1,0,"july",29824.6493583533,7
+"Colorado",1,0,"june",28640.6659934378,6
+"Colorado",1,0,"march",22693.6075334133,3
+"Colorado",1,0,"may",28291.6517773244,5
+"Colorado",1,0,"november",28296.0708755133,11
+"Colorado",1,0,"october",28744.549170745,10
+"Colorado",1,0,"september",31490.4187102413,9
+"Colorado",1,1,"april",70626.1033834911,4
+"Colorado",1,1,"august",77975.7968102322,8
+"Colorado",1,1,"december",56256.9561452,12
+"Colorado",1,1,"february",62574.7301794133,2
+"Colorado",1,1,"january",60110.1075588889,1
+"Colorado",1,1,"july",76318.0151324678,7
+"Colorado",1,1,"june",75187.2487302578,6
+"Colorado",1,1,"march",66612.9485482633,3
+"Colorado",1,1,"may",71849.8179559811,5
+"Colorado",1,1,"november",94084.9755500133,11
+"Colorado",1,1,"october",91523.9767953533,10
+"Colorado",1,1,"september",75223.6546737537,9
+"Colorado",1,NA,"april",23158.8608588167,4
+"Colorado",1,NA,"august",34920.1563437678,8
+"Colorado",1,NA,"december",11763.613156595,12
+"Colorado",1,NA,"february",17321.4754395167,2
+"Colorado",1,NA,"january",18862.7026060233,1
+"Colorado",1,NA,"july",36671.8933861744,7
+"Colorado",1,NA,"june",32142.68564255,6
+"Colorado",1,NA,"march",21283.8253020911,3
+"Colorado",1,NA,"may",29206.0918789789,5
+"Colorado",1,NA,"november",26493.81638335,11
+"Colorado",1,NA,"october",32971.79778848,10
+"Colorado",1,NA,"september",32928.7995238837,9
+"Connecticut",0,0,"april",20745.4684124267,4
+"Connecticut",0,0,"august",24107.6527636611,8
+"Connecticut",0,0,"december",7057.8200836,12
+"Connecticut",0,0,"february",18673.7254467889,2
+"Connecticut",0,0,"january",18470.6771770144,1
+"Connecticut",0,0,"july",22509.8541097811,7
+"Connecticut",0,0,"june",21740.2850609444,6
+"Connecticut",0,0,"march",19655.3842754722,3
+"Connecticut",0,0,"may",21744.69105124,5
+"Connecticut",0,0,"november",14648.3313639667,11
+"Connecticut",0,0,"october",14801.9226016567,10
+"Connecticut",0,0,"september",19588.0076278125,9
+"Connecticut",0,1,"april",40392.4310921078,4
+"Connecticut",0,1,"august",41242.4363732533,8
+"Connecticut",0,1,"december",27568.248492495,12
+"Connecticut",0,1,"february",34263.2868085622,2
+"Connecticut",0,1,"january",34468.8930674878,1
+"Connecticut",0,1,"july",42365.8366947644,7
+"Connecticut",0,1,"june",43624.8965794978,6
+"Connecticut",0,1,"march",35770.6530020689,3
+"Connecticut",0,1,"may",43302.4491871578,5
+"Connecticut",0,1,"november",52149.0345447,11
+"Connecticut",0,1,"october",39162.6322888033,10
+"Connecticut",0,1,"september",43609.7161540175,9
+"Connecticut",0,NA,"april",6118.86869137111,4
+"Connecticut",0,NA,"august",7024.09760841625,8
+"Connecticut",0,NA,"december",436.92797058,12
+"Connecticut",0,NA,"february",4905.63696317556,2
+"Connecticut",0,NA,"january",4264.33730379778,1
+"Connecticut",0,NA,"july",5887.20681216625,7
+"Connecticut",0,NA,"june",6506.0810761975,6
+"Connecticut",0,NA,"march",5630.76893490667,3
+"Connecticut",0,NA,"may",6314.60513711556,5
+"Connecticut",0,NA,"november",3679.70121454667,11
+"Connecticut",0,NA,"october",11391.521160054,10
+"Connecticut",0,NA,"september",7895.55388576714,9
+"Connecticut",1,0,"april",14864.3576553933,4
+"Connecticut",1,0,"august",18966.41532448,8
+"Connecticut",1,0,"december",12702.78961027,12
+"Connecticut",1,0,"february",10093.9813848022,2
+"Connecticut",1,0,"january",9457.28072983111,1
+"Connecticut",1,0,"july",20291.9844298422,7
+"Connecticut",1,0,"june",19387.1418385233,6
+"Connecticut",1,0,"march",11215.5314634744,3
+"Connecticut",1,0,"may",20478.5087914,5
+"Connecticut",1,0,"november",13712.4454022433,11
+"Connecticut",1,0,"october",18972.433589258,10
+"Connecticut",1,0,"september",16986.9848089112,9
+"Connecticut",1,1,"april",52367.9564669833,4
+"Connecticut",1,1,"august",53550.3861050178,8
+"Connecticut",1,1,"december",31403.429945515,12
+"Connecticut",1,1,"february",42220.7381041033,2
+"Connecticut",1,1,"january",42451.1517202933,1
+"Connecticut",1,1,"july",51804.0079453944,7
+"Connecticut",1,1,"june",54249.2343983411,6
+"Connecticut",1,1,"march",44339.2800302211,3
+"Connecticut",1,1,"may",49090.8503172356,5
+"Connecticut",1,1,"november",46192.24407999,11
+"Connecticut",1,1,"october",46392.8053355317,10
+"Connecticut",1,1,"september",48927.7493657587,9
+"Connecticut",1,NA,"april",19857.2347448167,4
+"Connecticut",1,NA,"august",22203.7955753511,8
+"Connecticut",1,NA,"december",10049.05839943,12
+"Connecticut",1,NA,"february",17314.7140565833,2
+"Connecticut",1,NA,"january",16608.7690734389,1
+"Connecticut",1,NA,"july",19511.1283182289,7
+"Connecticut",1,NA,"june",19574.6864509933,6
+"Connecticut",1,NA,"march",18442.1789695722,3
+"Connecticut",1,NA,"may",19624.8198507056,5
+"Connecticut",1,NA,"november",22087.3395642367,11
+"Connecticut",1,NA,"october",21010.1538486917,10
+"Connecticut",1,NA,"september",20945.6933878562,9
+"Delaware",0,0,"april",4780.56887115289,4
+"Delaware",0,0,"august",5553.23421989511,8
+"Delaware",0,0,"december",4909.44478418,12
+"Delaware",0,0,"february",3407.16729954511,2
+"Delaware",0,0,"january",3308.390457424,1
+"Delaware",0,0,"july",5382.98981758289,7
+"Delaware",0,0,"june",4865.95914712178,6
+"Delaware",0,0,"march",4380.38165204956,3
+"Delaware",0,0,"may",4703.62152349622,5
+"Delaware",0,0,"november",3495.77044918,11
+"Delaware",0,0,"october",4375.68233922667,10
+"Delaware",0,0,"september",5680.96207896075,9
+"Delaware",0,1,"april",7215.92298766533,4
+"Delaware",0,1,"august",8357.72443611978,8
+"Delaware",0,1,"december",4648.895849315,12
+"Delaware",0,1,"february",7056.87518180422,2
+"Delaware",0,1,"january",6326.01564482311,1
+"Delaware",0,1,"july",8049.04943323756,7
+"Delaware",0,1,"june",8123.628133092,6
+"Delaware",0,1,"march",6971.723656602,3
+"Delaware",0,1,"may",7610.09562189089,5
+"Delaware",0,1,"november",8888.73238159,11
+"Delaware",0,1,"october",7218.719728345,10
+"Delaware",0,1,"september",8185.123975095,9
+"Delaware",0,NA,"april",1982.95061266444,4
+"Delaware",0,NA,"august",2229.75271817778,8
+"Delaware",0,NA,"december",1600.65416775,12
+"Delaware",0,NA,"february",1757.54840971667,2
+"Delaware",0,NA,"january",1600.26025651111,1
+"Delaware",0,NA,"july",2733.83743898444,7
+"Delaware",0,NA,"june",2297.65064901444,6
+"Delaware",0,NA,"march",1757.54840971667,3
+"Delaware",0,NA,"may",2340.70837713444,5
+"Delaware",0,NA,"november",3506.29792822333,11
+"Delaware",0,NA,"october",2550.20863325167,10
+"Delaware",0,NA,"september",2264.16442707,9
+"Delaware",1,0,"april",5437.19767181722,4
+"Delaware",1,0,"august",7770.08076448167,8
+"Delaware",1,0,"december",2331.489951275,12
+"Delaware",1,0,"february",3265.22992804444,2
+"Delaware",1,0,"january",2898.79511649,1
+"Delaware",1,0,"july",5746.94188954889,7
+"Delaware",1,0,"june",6982.39017701589,6
+"Delaware",1,0,"march",3946.41453416722,3
+"Delaware",1,0,"may",5905.152712777,5
+"Delaware",1,0,"november",9034.93150198667,11
+"Delaware",1,0,"october",7653.02244242917,10
+"Delaware",1,0,"september",8217.50342034687,9
+"Delaware",1,1,"april",17812.5462699238,4
+"Delaware",1,1,"august",18547.5628919964,8
+"Delaware",1,1,"december",11167.24389222,12
+"Delaware",1,1,"february",14284.9181079104,2
+"Delaware",1,1,"january",14265.3971289316,1
+"Delaware",1,1,"july",18223.9832168509,7
+"Delaware",1,1,"june",18845.5790786998,6
+"Delaware",1,1,"march",17192.3535039849,3
+"Delaware",1,1,"may",18796.1495119198,5
+"Delaware",1,1,"november",23400.24055075,11
+"Delaware",1,1,"october",21877.605677884,10
+"Delaware",1,1,"september",20297.2626678305,9
+"Delaware",1,NA,"april",5973.32728722111,4
+"Delaware",1,NA,"august",7481.8767655,8
+"Delaware",1,NA,"december",2602.77658306,12
+"Delaware",1,NA,"february",5432.04193907778,2
+"Delaware",1,NA,"january",5934.31348246222,1
+"Delaware",1,NA,"july",7224.02595446333,7
+"Delaware",1,NA,"june",6708.56809221111,6
+"Delaware",1,NA,"march",6471.02153511333,3
+"Delaware",1,NA,"may",6139.13806876333,5
+"Delaware",1,NA,"november",4679.34868572,11
+"Delaware",1,NA,"october",6111.07131536833,10
+"Delaware",1,NA,"september",7294.313009285,9
+"District of Columbia",0,0,"april",3114.59896010011,4
+"District of Columbia",0,0,"august",4674.277028588,8
+"District of Columbia",0,0,"december",1326.744109035,12
+"District of Columbia",0,0,"february",2515.54263226689,2
+"District of Columbia",0,0,"january",2642.57901142689,1
+"District of Columbia",0,0,"july",4338.30828412233,7
+"District of Columbia",0,0,"june",4065.28791407233,6
+"District of Columbia",0,0,"march",2860.245014616,3
+"District of Columbia",0,0,"may",3633.92320287478,5
+"District of Columbia",0,0,"november",3426.13282165333,11
+"District of Columbia",0,0,"october",3662.19773563517,10
+"District of Columbia",0,0,"september",4640.51558066987,9
+"District of Columbia",0,1,"april",8969.32296149556,4
+"District of Columbia",0,1,"august",9851.22807750956,8
+"District of Columbia",0,1,"december",7184.29395508,12
+"District of Columbia",0,1,"february",7518.97015401556,2
+"District of Columbia",0,1,"january",6935.52586966444,1
+"District of Columbia",0,1,"july",9578.85783654622,7
+"District of Columbia",0,1,"june",9093.66062359956,6
+"District of Columbia",0,1,"march",7500.1640938,3
+"District of Columbia",0,1,"may",9107.92026353456,5
+"District of Columbia",0,1,"november",12450.17538916,11
+"District of Columbia",0,1,"october",10368.0473927233,10
+"District of Columbia",0,1,"september",9906.42555152912,9
+"District of Columbia",0,NA,"april",2992.31280676511,4
+"District of Columbia",0,NA,"august",3483.10539544644,8
+"District of Columbia",0,NA,"december",4425.75975536,12
+"District of Columbia",0,NA,"february",2199.27522474,2
+"District of Columbia",0,NA,"january",2413.70933055111,1
+"District of Columbia",0,NA,"july",3725.71530954433,7
+"District of Columbia",0,NA,"june",3410.36004904756,6
+"District of Columbia",0,NA,"march",2483.01128096222,3
+"District of Columbia",0,NA,"may",3207.99531597678,5
+"District of Columbia",0,NA,"november",4129.77767144667,11
+"District of Columbia",0,NA,"october",2819.20716070667,10
+"District of Columbia",0,NA,"september",3142.187711487,9
+"District of Columbia",1,0,"april",3407.97880311233,4
+"District of Columbia",1,0,"august",6588.14254051778,8
+"District of Columbia",1,0,"december",919.430957215,12
+"District of Columbia",1,0,"february",2425.17873098,2
+"District of Columbia",1,0,"january",2270.60309584667,1
+"District of Columbia",1,0,"july",6685.201076195,7
+"District of Columbia",1,0,"june",5432.04600288389,6
+"District of Columbia",1,0,"march",3055.36716276789,3
+"District of Columbia",1,0,"may",3355.29368490456,5
+"District of Columbia",1,0,"november",7984.94062949,11
+"District of Columbia",1,0,"october",7669.548889765,10
+"District of Columbia",1,0,"september",6734.28750925675,9
+"District of Columbia",1,1,"april",15645.0388055419,4
+"District of Columbia",1,1,"august",20265.583884953,8
+"District of Columbia",1,1,"december",7774.9518687485,12
+"District of Columbia",1,1,"february",13988.1885870308,2
+"District of Columbia",1,1,"january",14475.0553183574,1
+"District of Columbia",1,1,"july",18990.6550972886,7
+"District of Columbia",1,1,"june",19194.870478623,6
+"District of Columbia",1,1,"march",14661.6670841874,3
+"District of Columbia",1,1,"may",17273.4067025241,5
+"District of Columbia",1,1,"november",13924.0320870223,11
+"District of Columbia",1,1,"october",16905.8346925412,10
+"District of Columbia",1,1,"september",19423.2044507034,9
+"District of Columbia",1,NA,"april",5954.86162024278,4
+"District of Columbia",1,NA,"august",7646.36782238389,8
+"District of Columbia",1,NA,"december",4355.349026875,12
+"District of Columbia",1,NA,"february",4139.17001857278,2
+"District of Columbia",1,NA,"january",4090.20954941056,1
+"District of Columbia",1,NA,"july",8032.69646850611,7
+"District of Columbia",1,NA,"june",7279.86570085611,6
+"District of Columbia",1,NA,"march",4996.60028455944,3
+"District of Columbia",1,NA,"may",6529.21720549389,5
+"District of Columbia",1,NA,"november",7366.64515225,11
+"District of Columbia",1,NA,"october",7570.15328811833,10
+"District of Columbia",1,NA,"september",6950.83952652712,9
+"Florida",0,0,"april",184068.992486146,4
+"Florida",0,0,"august",263460.560640919,8
+"Florida",0,0,"december",139419.74646889,12
+"Florida",0,0,"february",111410.379953368,2
+"Florida",0,0,"january",110108.548475857,1
+"Florida",0,0,"july",258332.211477522,7
+"Florida",0,0,"june",252770.483764146,6
+"Florida",0,0,"march",135144.382287646,3
+"Florida",0,0,"may",236072.914634934,5
+"Florida",0,0,"november",271069.0826922,11
+"Florida",0,0,"october",235957.492644207,10
+"Florida",0,0,"september",280186.047303286,9
+"Florida",0,1,"april",310331.555173234,4
+"Florida",0,1,"august",341602.01326729,8
+"Florida",0,1,"december",196311.68500599,12
+"Florida",0,1,"february",246092.466047806,2
+"Florida",0,1,"january",252905.40553917,1
+"Florida",0,1,"july",347319.941130938,7
+"Florida",0,1,"june",347178.484099976,6
+"Florida",0,1,"march",272143.069565959,3
+"Florida",0,1,"may",327221.06243706,5
+"Florida",0,1,"november",337097.706102067,11
+"Florida",0,1,"october",321973.936006077,10
+"Florida",0,1,"september",330758.17416913,9
+"Florida",0,NA,"april",129762.086649907,4
+"Florida",0,NA,"august",156803.091299812,8
+"Florida",0,NA,"december",107512.67648805,12
+"Florida",0,NA,"february",100044.179203596,2
+"Florida",0,NA,"january",96095.1572800955,1
+"Florida",0,NA,"july",151164.643003923,7
+"Florida",0,NA,"june",139579.232491823,6
+"Florida",0,NA,"march",111111.952657296,3
+"Florida",0,NA,"may",129407.649370057,5
+"Florida",0,NA,"november",131132.191733487,11
+"Florida",0,NA,"october",169040.81173976,10
+"Florida",0,NA,"september",166915.370130931,9
+"Florida",1,0,"april",80040.4646695911,4
+"Florida",1,0,"august",125983.536872613,8
+"Florida",1,0,"december",70865.72883515,12
+"Florida",1,0,"february",50581.7672072544,2
+"Florida",1,0,"january",51120.0696106622,1
+"Florida",1,0,"july",121609.383131551,7
+"Florida",1,0,"june",121388.733783859,6
+"Florida",1,0,"march",60304.1761891678,3
+"Florida",1,0,"may",109060.76669407,5
+"Florida",1,0,"november",113414.061912977,11
+"Florida",1,0,"october",102430.617461008,10
+"Florida",1,0,"september",115888.490634664,9
+"Florida",1,1,"april",480539.327351376,4
+"Florida",1,1,"august",590962.952491148,8
+"Florida",1,1,"december",175942.82818718,12
+"Florida",1,1,"february",376471.805600548,2
+"Florida",1,1,"january",380897.20326587,1
+"Florida",1,1,"july",582070.32202246,7
+"Florida",1,1,"june",582994.933207742,6
+"Florida",1,1,"march",443902.886409272,3
+"Florida",1,1,"may",522634.578645241,5
+"Florida",1,1,"november",489045.937512687,11
+"Florida",1,1,"october",481189.026056305,10
+"Florida",1,1,"september",579125.73857485,9
+"Florida",1,NA,"april",199609.293424917,4
+"Florida",1,NA,"august",250265.51860959,8
+"Florida",1,NA,"december",54247.0268128,12
+"Florida",1,NA,"february",127687.007521549,2
+"Florida",1,NA,"january",130159.23683162,1
+"Florida",1,NA,"july",235764.448951612,7
+"Florida",1,NA,"june",232091.104013154,6
+"Florida",1,NA,"march",176738.223531842,3
+"Florida",1,NA,"may",210996.56327473,5
+"Florida",1,NA,"november",216538.661314433,11
+"Florida",1,NA,"october",207176.94112645,10
+"Florida",1,NA,"september",225698.579243988,9
+"Georgia",0,0,"april",69788.2840585211,4
+"Georgia",0,0,"august",89073.7841255667,8
+"Georgia",0,0,"december",102020.80290611,12
+"Georgia",0,0,"february",50440.2422499222,2
+"Georgia",0,0,"january",45739.7548377111,1
+"Georgia",0,0,"july",89066.3873714567,7
+"Georgia",0,0,"june",80385.4305636356,6
+"Georgia",0,0,"march",54642.0020376889,3
+"Georgia",0,0,"may",80421.4751558667,5
+"Georgia",0,0,"november",85009.5871691033,11
+"Georgia",0,0,"october",91996.26235218,10
+"Georgia",0,0,"september",89463.2051494437,9
+"Georgia",0,1,"april",105779.420976592,4
+"Georgia",0,1,"august",115867.275832461,8
+"Georgia",0,1,"december",75532.39776995,12
+"Georgia",0,1,"february",84641.8896759655,2
+"Georgia",0,1,"january",85957.2073393833,1
+"Georgia",0,1,"july",114542.094941547,7
+"Georgia",0,1,"june",108173.958132963,6
+"Georgia",0,1,"march",97346.9912690878,3
+"Georgia",0,1,"may",110815.297526396,5
+"Georgia",0,1,"november",130214.52789606,11
+"Georgia",0,1,"october",104706.547464777,10
+"Georgia",0,1,"september",106865.80528815,9
+"Georgia",0,NA,"april",36065.1085321889,4
+"Georgia",0,NA,"august",37163.33637568,8
+"Georgia",0,NA,"december",17251.9747994,12
+"Georgia",0,NA,"february",24361.676769075,2
+"Georgia",0,NA,"january",23190.6209021175,1
+"Georgia",0,NA,"july",37057.5897270667,7
+"Georgia",0,NA,"june",49066.2030785667,6
+"Georgia",0,NA,"march",28114.1770590333,3
+"Georgia",0,NA,"may",34676.93285,5
+"Georgia",0,NA,"november",22273.9444562333,11
+"Georgia",0,NA,"october",32429.1806857833,10
+"Georgia",0,NA,"september",35815.3448944775,9
+"Georgia",1,0,"april",44811.0206586753,4
+"Georgia",1,0,"august",62917.5119214553,8
+"Georgia",1,0,"december",62077.94683185,12
+"Georgia",1,0,"february",30623.9839457344,2
+"Georgia",1,0,"january",30247.8828804389,1
+"Georgia",1,0,"july",57293.2669870209,7
+"Georgia",1,0,"june",52597.962690622,6
+"Georgia",1,0,"march",37066.7482376212,3
+"Georgia",1,0,"may",48556.3316609687,5
+"Georgia",1,0,"november",70472.159790877,11
+"Georgia",1,0,"october",47866.979625708,10
+"Georgia",1,0,"september",58307.062334721,9
+"Georgia",1,1,"april",234529.926532982,4
+"Georgia",1,1,"august",286040.035887461,8
+"Georgia",1,1,"december",180914.34945383,12
+"Georgia",1,1,"february",176499.858705951,2
+"Georgia",1,1,"january",177565.070292578,1
+"Georgia",1,1,"july",285425.586840386,7
+"Georgia",1,1,"june",264713.64694288,6
+"Georgia",1,1,"march",195749.689858697,3
+"Georgia",1,1,"may",249246.357383764,5
+"Georgia",1,1,"november",266373.176606973,11
+"Georgia",1,1,"october",250092.258872405,10
+"Georgia",1,1,"september",280478.067529073,9
+"Georgia",1,NA,"april",124189.285943108,4
+"Georgia",1,NA,"august",133988.350388106,8
+"Georgia",1,NA,"december",22641.36997586,12
+"Georgia",1,NA,"february",97429.3957127211,2
+"Georgia",1,NA,"january",95335.5174804656,1
+"Georgia",1,NA,"july",136558.275445821,7
+"Georgia",1,NA,"june",136546.647555744,6
+"Georgia",1,NA,"march",110436.326756143,3
+"Georgia",1,NA,"may",122337.908670541,5
+"Georgia",1,NA,"november",81941.4249905067,11
+"Georgia",1,NA,"october",117995.809008397,10
+"Georgia",1,NA,"september",140058.119411475,9
+"Hawaii",0,0,"april",10585.652106642,4
+"Hawaii",0,0,"august",11350.1423352009,8
+"Hawaii",0,0,"december",4730.65991581,12
+"Hawaii",0,0,"february",5195.61863717444,2
+"Hawaii",0,0,"january",5611.3972798325,1
+"Hawaii",0,0,"july",11234.663704862,7
+"Hawaii",0,0,"june",11449.5771976731,6
+"Hawaii",0,0,"march",6380.20788037222,3
+"Hawaii",0,0,"may",10726.1082593731,5
+"Hawaii",0,0,"november",8388.50684712667,11
+"Hawaii",0,0,"october",12582.7088718967,10
+"Hawaii",0,0,"september",9951.43035824225,9
+"Hawaii",0,1,"april",16521.0132671502,4
+"Hawaii",0,1,"august",20298.7420492091,8
+"Hawaii",0,1,"december",9984.518410615,12
+"Hawaii",0,1,"february",14198.5943626202,2
+"Hawaii",0,1,"january",15336.2647653517,1
+"Hawaii",0,1,"july",18743.6354207036,7
+"Hawaii",0,1,"june",18740.6530038369,6
+"Hawaii",0,1,"march",15445.7484579936,3
+"Hawaii",0,1,"may",17748.2109131292,5
+"Hawaii",0,1,"november",21345.55650323,11
+"Hawaii",0,1,"october",18448.5025642003,10
+"Hawaii",0,1,"september",21200.7041609065,9
+"Hawaii",0,NA,"april",2815.63813532222,4
+"Hawaii",0,NA,"august",3562.58819341,8
+"Hawaii",0,NA,"december",6225.83903433,12
+"Hawaii",0,NA,"february",2814.7614124675,2
+"Hawaii",0,NA,"january",2814.7614124675,1
+"Hawaii",0,NA,"july",3239.04542891788,7
+"Hawaii",0,NA,"june",2982.78468006,6
+"Hawaii",0,NA,"march",2699.77281567222,3
+"Hawaii",0,NA,"may",2937.13931925222,5
+"Hawaii",0,NA,"november",6309.02947304333,11
+"Hawaii",0,NA,"october",4679.0449821175,10
+"Hawaii",0,NA,"september",3507.55655671,9
+"Hawaii",1,0,"april",5958.68887366111,4
+"Hawaii",1,0,"august",10678.2762855111,8
+"Hawaii",1,0,"december",9534.726939225,12
+"Hawaii",1,0,"february",4109.05725888375,2
+"Hawaii",1,0,"january",3888.41178085625,1
+"Hawaii",1,0,"july",8419.29387011778,7
+"Hawaii",1,0,"june",7097.56685897778,6
+"Hawaii",1,0,"march",4984.21659687111,3
+"Hawaii",1,0,"may",6265.83152400333,5
+"Hawaii",1,0,"november",10930.7688407,11
+"Hawaii",1,0,"october",10171.289752775,10
+"Hawaii",1,0,"september",8678.36535341375,9
+"Hawaii",1,1,"april",23990.6616903549,4
+"Hawaii",1,1,"august",27662.7398150282,8
+"Hawaii",1,1,"december",20427.15900536,12
+"Hawaii",1,1,"february",20268.0062601227,2
+"Hawaii",1,1,"january",20401.9735013993,1
+"Hawaii",1,1,"july",25524.4864135549,7
+"Hawaii",1,1,"june",25174.7926545916,6
+"Hawaii",1,1,"march",25093.7055818938,3
+"Hawaii",1,1,"may",24731.4841506238,5
+"Hawaii",1,1,"november",34896.8108754767,11
+"Hawaii",1,1,"october",34200.6767815067,10
+"Hawaii",1,1,"september",28744.7370143855,9
+"Hawaii",1,NA,"april",12802.8242340878,4
+"Hawaii",1,NA,"august",15720.56332095,8
+"Hawaii",1,NA,"december",9488.32233941,12
+"Hawaii",1,NA,"february",10610.1171544489,2
+"Hawaii",1,NA,"january",11709.22876527,1
+"Hawaii",1,NA,"july",16352.9400585878,7
+"Hawaii",1,NA,"june",15874.94371322,6
+"Hawaii",1,NA,"march",11964.0515690889,3
+"Hawaii",1,NA,"may",13964.1227215311,5
+"Hawaii",1,NA,"november",18705.81032671,11
+"Hawaii",1,NA,"october",13994.2298969617,10
+"Hawaii",1,NA,"september",14927.3781993738,9
+"Idaho",0,0,"april",3871.26128031222,4
+"Idaho",0,0,"august",4154.64711148222,8
+"Idaho",0,0,"december",3197.9323677,12
+"Idaho",0,0,"february",3180.40571785667,2
+"Idaho",0,0,"january",3192.92963056222,1
+"Idaho",0,0,"july",3944.40317701333,7
+"Idaho",0,0,"june",4066.85725328667,6
+"Idaho",0,0,"march",3359.78292160778,3
+"Idaho",0,0,"may",3862.55295050333,5
+"Idaho",0,0,"november",3794.80884560333,11
+"Idaho",0,0,"october",3998.64395758833,10
+"Idaho",0,0,"september",4314.8471546225,9
+"Idaho",0,1,"april",15509.5220657674,4
+"Idaho",0,1,"august",17950.5295835086,8
+"Idaho",0,1,"december",18761.033206675,12
+"Idaho",0,1,"february",14405.7320454114,2
+"Idaho",0,1,"january",14242.5472921737,1
+"Idaho",0,1,"july",16615.7941492041,7
+"Idaho",0,1,"june",17337.2876616741,6
+"Idaho",0,1,"march",14859.7630854192,3
+"Idaho",0,1,"may",16847.7999061508,5
+"Idaho",0,1,"november",22275.0151552033,11
+"Idaho",0,1,"october",18328.9629698333,10
+"Idaho",0,1,"september",18083.3291793093,9
+"Idaho",0,NA,"april",3263.28991392444,4
+"Idaho",0,NA,"august",3539.31271796889,8
+"Idaho",0,NA,"december",2899.52957495,12
+"Idaho",0,NA,"february",3506.34859331625,2
+"Idaho",0,NA,"january",3395.07600834375,1
+"Idaho",0,NA,"july",3344.17392413556,7
+"Idaho",0,NA,"june",3323.50202412444,6
+"Idaho",0,NA,"march",3263.28991392444,3
+"Idaho",0,NA,"may",3306.23599753222,5
+"Idaho",0,NA,"november",4981.71788042667,11
+"Idaho",0,NA,"october",3375.657834685,10
+"Idaho",0,NA,"september",3291.903148125,9
+"Idaho",1,0,"april",5333.82702783,4
+"Idaho",1,0,"august",6236.77744498333,8
+"Idaho",1,0,"december",4610.4581704,12
+"Idaho",1,0,"february",4178.66839010556,2
+"Idaho",1,0,"january",4178.66839010556,1
+"Idaho",1,0,"july",6221.33882742111,7
+"Idaho",1,0,"june",5650.24946002333,6
+"Idaho",1,0,"march",4887.77178988111,3
+"Idaho",1,0,"may",5703.42766273222,5
+"Idaho",1,0,"november",6419.90150144,11
+"Idaho",1,0,"october",7406.6497721,10
+"Idaho",1,0,"september",7774.44025022675,9
+"Idaho",1,1,"april",28515.6835651112,4
+"Idaho",1,1,"august",33385.7893650234,8
+"Idaho",1,1,"december",32892.5269100655,12
+"Idaho",1,1,"february",24862.9246648968,2
+"Idaho",1,1,"january",25546.1128343212,1
+"Idaho",1,1,"july",32303.3077970034,7
+"Idaho",1,1,"june",30150.7773500946,6
+"Idaho",1,1,"march",26635.6305786568,3
+"Idaho",1,1,"may",29172.7725845834,5
+"Idaho",1,1,"november",44992.1747797507,11
+"Idaho",1,1,"october",38649.7050782387,10
+"Idaho",1,1,"september",38397.0514414739,9
+"Idaho",1,NA,"april",8842.81261671667,4
+"Idaho",1,NA,"august",10488.7275275222,8
+"Idaho",1,NA,"december",5168.4981313,12
+"Idaho",1,NA,"february",6383.49457622778,2
+"Idaho",1,NA,"january",6827.43444408778,1
+"Idaho",1,NA,"july",10198.5623983956,7
+"Idaho",1,NA,"june",8939.67882240333,6
+"Idaho",1,NA,"march",7568.31126197,3
+"Idaho",1,NA,"may",8851.75682944111,5
+"Idaho",1,NA,"november",6646.79999383,11
+"Idaho",1,NA,"october",7367.05959828833,10
+"Idaho",1,NA,"september",9848.4241908725,9
+"Illinois",0,0,"april",77724.6301084484,4
+"Illinois",0,0,"august",102005.018134295,8
+"Illinois",0,0,"december",57088.08591237,12
+"Illinois",0,0,"february",55795.8997288,2
+"Illinois",0,0,"january",55572.7647575689,1
+"Illinois",0,0,"july",95172.2035651951,7
+"Illinois",0,0,"june",90208.8294160707,6
+"Illinois",0,0,"march",62363.5457794556,3
+"Illinois",0,0,"may",87396.4172253184,5
+"Illinois",0,0,"november",93563.75309609,11
+"Illinois",0,0,"october",113057.191063773,10
+"Illinois",0,0,"september",101921.872083098,9
+"Illinois",0,1,"april",161057.5249385,4
+"Illinois",0,1,"august",173842.520420379,8
+"Illinois",0,1,"december",68498.31245684,12
+"Illinois",0,1,"february",134784.078722095,2
+"Illinois",0,1,"january",135764.365258425,1
+"Illinois",0,1,"july",172150.047199175,7
+"Illinois",0,1,"june",166916.167066755,6
+"Illinois",0,1,"march",153389.287390347,3
+"Illinois",0,1,"may",166522.254230666,5
+"Illinois",0,1,"november",163035.829511757,11
+"Illinois",0,1,"october",174655.803011694,10
+"Illinois",0,1,"september",172918.752437782,9
+"Illinois",0,NA,"april",56173.0965626933,4
+"Illinois",0,NA,"august",66942.09761896,8
+"Illinois",0,NA,"december",50273.57209765,12
+"Illinois",0,NA,"february",51638.0221092044,2
+"Illinois",0,NA,"january",53540.6536496822,1
+"Illinois",0,NA,"july",62202.0799998044,7
+"Illinois",0,NA,"june",58193.8934161156,6
+"Illinois",0,NA,"march",58069.1704443156,3
+"Illinois",0,NA,"may",59799.0618839044,5
+"Illinois",0,NA,"november",99801.677137,11
+"Illinois",0,NA,"october",70159.48064315,10
+"Illinois",0,NA,"september",66347.993394775,9
+"Illinois",1,0,"april",61587.6833717378,4
+"Illinois",1,0,"august",86809.56971067,8
+"Illinois",1,0,"december",163660.57786111,12
+"Illinois",1,0,"february",46269.8467845067,2
+"Illinois",1,0,"january",46521.6782967178,1
+"Illinois",1,0,"july",80922.7476263611,7
+"Illinois",1,0,"june",74221.8807576878,6
+"Illinois",1,0,"march",56348.84286836,3
+"Illinois",1,0,"may",65151.40637432,5
+"Illinois",1,0,"november",110995.660269437,11
+"Illinois",1,0,"october",90325.2831529267,10
+"Illinois",1,0,"september",89386.8784297075,9
+"Illinois",1,1,"april",256193.850793968,4
+"Illinois",1,1,"august",294493.992617473,8
+"Illinois",1,1,"december",145001.31930482,12
+"Illinois",1,1,"february",212611.274677257,2
+"Illinois",1,1,"january",215882.15063256,1
+"Illinois",1,1,"july",278375.382727188,7
+"Illinois",1,1,"june",271961.30362078,6
+"Illinois",1,1,"march",238836.476476161,3
+"Illinois",1,1,"may",269015.980218692,5
+"Illinois",1,1,"november",288085.927113943,11
+"Illinois",1,1,"october",275266.014913533,10
+"Illinois",1,1,"september",282418.856091972,9
+"Illinois",1,NA,"april",118156.9082544,4
+"Illinois",1,NA,"august",130512.294194947,8
+"Illinois",1,NA,"december",79268.9320794,12
+"Illinois",1,NA,"february",88673.2843175778,2
+"Illinois",1,NA,"january",90684.3889803222,1
+"Illinois",1,NA,"july",131353.155590902,7
+"Illinois",1,NA,"june",133703.916597647,6
+"Illinois",1,NA,"march",101151.903933467,3
+"Illinois",1,NA,"may",130866.221946069,5
+"Illinois",1,NA,"november",156638.969425633,11
+"Illinois",1,NA,"october",126094.200349117,10
+"Illinois",1,NA,"september",126804.699967063,9
+"Indiana",0,0,"april",23070.0380469989,4
+"Indiana",0,0,"august",28340.3685843111,8
+"Indiana",0,0,"december",26450.82711285,12
+"Indiana",0,0,"february",17777.5338155256,2
+"Indiana",0,0,"january",18087.3117651178,1
+"Indiana",0,0,"july",26077.9817239667,7
+"Indiana",0,0,"june",23428.9960222778,6
+"Indiana",0,0,"march",21334.4449110811,3
+"Indiana",0,0,"may",23322.6892804889,5
+"Indiana",0,0,"november",39631.21680346,11
+"Indiana",0,0,"october",23829.32171661,10
+"Indiana",0,0,"september",29363.575719715,9
+"Indiana",0,1,"april",74627.1088297421,4
+"Indiana",0,1,"august",81019.6280303565,8
+"Indiana",0,1,"december",60537.38187226,12
+"Indiana",0,1,"february",65746.5056203477,2
+"Indiana",0,1,"january",61135.4600087777,1
+"Indiana",0,1,"july",83863.9421543743,7
+"Indiana",0,1,"june",84815.1361855077,6
+"Indiana",0,1,"march",70288.0941364143,3
+"Indiana",0,1,"may",79724.2185090188,5
+"Indiana",0,1,"november",107477.682454037,11
+"Indiana",0,1,"october",80504.1375626417,10
+"Indiana",0,1,"september",78127.6602017562,9
+"Indiana",0,NA,"april",10895.7606419263,4
+"Indiana",0,NA,"august",11777.5218381533,8
+"Indiana",0,NA,"december",18489.399447,12
+"Indiana",0,NA,"february",9484.94629053875,2
+"Indiana",0,NA,"january",9484.94629053875,1
+"Indiana",0,NA,"july",11644.3781494978,7
+"Indiana",0,NA,"june",12210.3673005422,6
+"Indiana",0,NA,"march",11949.9565621638,3
+"Indiana",0,NA,"may",11535.4949481887,5
+"Indiana",0,NA,"november",31606.6399602,11
+"Indiana",0,NA,"october",19402.6272079167,10
+"Indiana",0,NA,"september",16883.7136415475,9
+"Indiana",1,0,"april",16935.8978131689,4
+"Indiana",1,0,"august",19849.21063173,8
+"Indiana",1,0,"december",24098.21959962,12
+"Indiana",1,0,"february",12759.2438710778,2
+"Indiana",1,0,"january",11626.5047018556,1
+"Indiana",1,0,"july",17832.6841207544,7
+"Indiana",1,0,"june",17212.0656480344,6
+"Indiana",1,0,"march",14289.4336890533,3
+"Indiana",1,0,"may",16097.5785718833,5
+"Indiana",1,0,"november",16514.7662656587,11
+"Indiana",1,0,"october",18306.9090378517,10
+"Indiana",1,0,"september",20320.9247653037,9
+"Indiana",1,1,"april",100816.221360873,4
+"Indiana",1,1,"august",123846.190041013,8
+"Indiana",1,1,"december",49468.81737449,12
+"Indiana",1,1,"february",88007.8333025911,2
+"Indiana",1,1,"january",85861.1788032578,1
+"Indiana",1,1,"july",109557.315022372,7
+"Indiana",1,1,"june",109422.440425879,6
+"Indiana",1,1,"march",97503.8391384389,3
+"Indiana",1,1,"may",105243.657795714,5
+"Indiana",1,1,"november",134660.22281379,11
+"Indiana",1,1,"october",105675.586181993,10
+"Indiana",1,1,"september",109224.133845777,9
+"Indiana",1,NA,"april",33562.2217526644,4
+"Indiana",1,NA,"august",38683.94753752,8
+"Indiana",1,NA,"december",12028.37656615,12
+"Indiana",1,NA,"february",27935.1684119944,2
+"Indiana",1,NA,"january",27556.4925118278,1
+"Indiana",1,NA,"july",42578.0798800089,7
+"Indiana",1,NA,"june",40047.2016474756,6
+"Indiana",1,NA,"march",30993.7439712167,3
+"Indiana",1,NA,"may",38188.65002662,5
+"Indiana",1,NA,"november",45575.2927864367,11
+"Indiana",1,NA,"october",43857.9057005183,10
+"Indiana",1,NA,"september",43567.8790484325,9
+"Iowa",0,0,"april",9812.60298439555,4
+"Iowa",0,0,"august",12658.2383183978,8
+"Iowa",0,0,"december",10735.408961005,12
+"Iowa",0,0,"february",9172.02701192667,2
+"Iowa",0,0,"january",9329.394770125,1
+"Iowa",0,0,"july",14274.13676937,7
+"Iowa",0,0,"june",11155.5590958512,6
+"Iowa",0,0,"march",9208.53665026778,3
+"Iowa",0,0,"may",9957.09128838444,5
+"Iowa",0,0,"november",18552.4333922533,11
+"Iowa",0,0,"october",14708.26067516,10
+"Iowa",0,0,"september",12530.2370242075,9
+"Iowa",0,1,"april",36412.8702103033,4
+"Iowa",0,1,"august",41237.05448878,8
+"Iowa",0,1,"december",27779.31514238,12
+"Iowa",0,1,"february",34288.6994213456,2
+"Iowa",0,1,"january",35382.3447134611,1
+"Iowa",0,1,"july",40133.8931609511,7
+"Iowa",0,1,"june",39350.4721632889,6
+"Iowa",0,1,"march",36677.7298174178,3
+"Iowa",0,1,"may",40149.6590838444,5
+"Iowa",0,1,"november",46667.0494318,11
+"Iowa",0,1,"october",45634.18778492,10
+"Iowa",0,1,"september",44202.683189255,9
+"Iowa",0,NA,"april",9082.99532348555,4
+"Iowa",0,NA,"august",10879.2071336833,8
+"Iowa",0,NA,"december",1213.1365179,12
+"Iowa",0,NA,"february",7862.64997315444,2
+"Iowa",0,NA,"january",7562.24449169889,1
+"Iowa",0,NA,"july",10286.5436274333,7
+"Iowa",0,NA,"june",10347.81256964,6
+"Iowa",0,NA,"march",8303.83254733,3
+"Iowa",0,NA,"may",9190.48319327444,5
+"Iowa",0,NA,"november",11956.3754094967,11
+"Iowa",0,NA,"october",10746.59468121,10
+"Iowa",0,NA,"september",12028.7547077675,9
+"Iowa",1,0,"april",11257.47388747,4
+"Iowa",1,0,"august",15297.3381949878,8
+"Iowa",1,0,"december",11831.074744465,12
+"Iowa",1,0,"february",9114.28330729889,2
+"Iowa",1,0,"january",9347.86676892556,1
+"Iowa",1,0,"july",14281.0583069267,7
+"Iowa",1,0,"june",11792.7334623367,6
+"Iowa",1,0,"march",10517.6634627567,3
+"Iowa",1,0,"may",11380.5057592367,5
+"Iowa",1,0,"november",24104.5656956433,11
+"Iowa",1,0,"october",14789.409275045,10
+"Iowa",1,0,"september",13428.1768547288,9
+"Iowa",1,1,"april",50210.9746238056,4
+"Iowa",1,1,"august",58656.1546897133,8
+"Iowa",1,1,"december",33746.6953664,12
+"Iowa",1,1,"february",45750.8350751011,2
+"Iowa",1,1,"january",47842.8460127167,1
+"Iowa",1,1,"july",50768.3674231544,7
+"Iowa",1,1,"june",48655.1412005789,6
+"Iowa",1,1,"march",48061.2875066333,3
+"Iowa",1,1,"may",49854.0168876222,5
+"Iowa",1,1,"november",82459.0465052167,11
+"Iowa",1,1,"october",63354.0882922633,10
+"Iowa",1,1,"september",60411.70915662,9
+"Iowa",1,NA,"april",12894.0029432744,4
+"Iowa",1,NA,"august",14624.79677117,8
+"Iowa",1,NA,"december",14613.0624157,12
+"Iowa",1,NA,"february",13836.7339478275,2
+"Iowa",1,NA,"january",14004.6631556263,1
+"Iowa",1,NA,"july",15949.3073059422,7
+"Iowa",1,NA,"june",14484.7400638578,6
+"Iowa",1,NA,"march",12992.2132506111,3
+"Iowa",1,NA,"may",13386.9695838144,5
+"Iowa",1,NA,"november",22444.2472783633,11
+"Iowa",1,NA,"october",17470.766848756,10
+"Iowa",1,NA,"september",14467.1420158313,9
+"Kansas",0,0,"april",4420.23480006222,4
+"Kansas",0,0,"august",5389.41256677111,8
+"Kansas",0,0,"december",5232.6307585,12
+"Kansas",0,0,"february",3976.18372726,2
+"Kansas",0,0,"january",3943.87943393333,1
+"Kansas",0,0,"july",5509.61309377556,7
+"Kansas",0,0,"june",4927.27468234444,6
+"Kansas",0,0,"march",4164.06536327333,3
+"Kansas",0,0,"may",5003.31925172,5
+"Kansas",0,0,"november",5398.08982013,11
+"Kansas",0,0,"october",5892.99332483,10
+"Kansas",0,0,"september",6159.5472519525,9
+"Kansas",0,1,"april",20665.0532387767,4
+"Kansas",0,1,"august",23260.0719799856,8
+"Kansas",0,1,"december",12882.489144265,12
+"Kansas",0,1,"february",18969.83652943,2
+"Kansas",0,1,"january",19019.2331396589,1
+"Kansas",0,1,"july",22590.6556200233,7
+"Kansas",0,1,"june",22999.80780885,6
+"Kansas",0,1,"march",19400.9440203222,3
+"Kansas",0,1,"may",21653.1249206133,5
+"Kansas",0,1,"november",27544.3728115267,11
+"Kansas",0,1,"october",25957.9375944083,10
+"Kansas",0,1,"september",24101.4339936138,9
+"Kansas",0,NA,"april",5011.38746277,4
+"Kansas",0,NA,"august",8839.67932885125,8
+"Kansas",0,NA,"december",22605.37701029,12
+"Kansas",0,NA,"february",4089.0297793575,2
+"Kansas",0,NA,"january",4774.9322520575,1
+"Kansas",0,NA,"july",9174.43078081375,7
+"Kansas",0,NA,"june",5414.85472692,6
+"Kansas",0,NA,"march",5382.877795895,3
+"Kansas",0,NA,"may",5011.38746277,5
+"Kansas",0,NA,"november",14528.04910143,11
+"Kansas",0,NA,"october",11049.512400428,10
+"Kansas",0,NA,"september",9733.53039976667,9
+"Kansas",1,0,"april",4476.08921239625,4
+"Kansas",1,0,"august",4929.55159199444,8
+"Kansas",1,0,"december",3385.22804791,12
+"Kansas",1,0,"february",3309.19636245286,2
+"Kansas",1,0,"january",3309.19636245286,1
+"Kansas",1,0,"july",5574.11028018778,7
+"Kansas",1,0,"june",4769.10058024778,6
+"Kansas",1,0,"march",4319.38425152714,3
+"Kansas",1,0,"may",4379.91891655778,5
+"Kansas",1,0,"november",8144.51062713667,11
+"Kansas",1,0,"october",5779.419690345,10
+"Kansas",1,0,"september",5653.8955186025,9
+"Kansas",1,1,"april",28671.1826582878,4
+"Kansas",1,1,"august",35622.20840782,8
+"Kansas",1,1,"december",27038.835316735,12
+"Kansas",1,1,"february",23100.3982731922,2
+"Kansas",1,1,"january",21651.4707064233,1
+"Kansas",1,1,"july",32988.1290053378,7
+"Kansas",1,1,"june",31763.7223244867,6
+"Kansas",1,1,"march",25421.8782824089,3
+"Kansas",1,1,"may",29470.7849666356,5
+"Kansas",1,1,"november",45171.90520464,11
+"Kansas",1,1,"october",36693.1939604883,10
+"Kansas",1,1,"september",37371.5390958463,9
+"Kansas",1,NA,"april",15547.9881012222,4
+"Kansas",1,NA,"august",18323.3102282722,8
+"Kansas",1,NA,"december",6183.3254877,12
+"Kansas",1,NA,"february",13005.43801603,2
+"Kansas",1,NA,"january",13943.0365811967,1
+"Kansas",1,NA,"july",17057.0650049167,7
+"Kansas",1,NA,"june",16871.6380758944,6
+"Kansas",1,NA,"march",13960.2346482611,3
+"Kansas",1,NA,"may",16044.5787099444,5
+"Kansas",1,NA,"november",18617.9589452733,11
+"Kansas",1,NA,"october",18899.0848879817,10
+"Kansas",1,NA,"september",20208.3743197375,9
+"Kentucky",0,0,"april",19842.0570875889,4
+"Kentucky",0,0,"august",24166.0845185167,8
+"Kentucky",0,0,"december",28009.9509289,12
+"Kentucky",0,0,"february",17533.19861379,2
+"Kentucky",0,0,"january",17383.2576982456,1
+"Kentucky",0,0,"july",23110.9646434489,7
+"Kentucky",0,0,"june",20047.7932393044,6
+"Kentucky",0,0,"march",20302.8299601778,3
+"Kentucky",0,0,"may",21845.5340937922,5
+"Kentucky",0,0,"november",28906.4370942667,11
+"Kentucky",0,0,"october",35215.3320550283,10
+"Kentucky",0,0,"september",29658.5571856187,9
+"Kentucky",0,1,"april",48515.8444490822,4
+"Kentucky",0,1,"august",58528.14449399,8
+"Kentucky",0,1,"december",41263.441011655,12
+"Kentucky",0,1,"february",42776.4346205367,2
+"Kentucky",0,1,"january",42131.3392212844,1
+"Kentucky",0,1,"july",53470.3008887278,7
+"Kentucky",0,1,"june",53561.0418290111,6
+"Kentucky",0,1,"march",44465.0457216256,3
+"Kentucky",0,1,"may",50511.8738521433,5
+"Kentucky",0,1,"november",59548.0868959933,11
+"Kentucky",0,1,"october",50444.9475912717,10
+"Kentucky",0,1,"september",52185.2303377738,9
+"Kentucky",0,NA,"april",10267.59394774,4
+"Kentucky",0,NA,"august",14192.2807859475,8
+"Kentucky",0,NA,"december",17424.12520378,12
+"Kentucky",0,NA,"february",8685.56420942111,2
+"Kentucky",0,NA,"january",8726.10887044,1
+"Kentucky",0,NA,"july",13375.5676552413,7
+"Kentucky",0,NA,"june",11964.3305188033,6
+"Kentucky",0,NA,"march",9476.44898634222,3
+"Kentucky",0,NA,"may",11964.3305188033,5
+"Kentucky",0,NA,"november",25238.9416562533,11
+"Kentucky",0,NA,"october",15939.8356126267,10
+"Kentucky",0,NA,"september",13702.2470236675,9
+"Kentucky",1,0,"april",16685.2570791822,4
+"Kentucky",1,0,"august",19155.8365709567,8
+"Kentucky",1,0,"december",7025.64094909,12
+"Kentucky",1,0,"february",7536.90691172286,2
+"Kentucky",1,0,"january",7368.01960699429,1
+"Kentucky",1,0,"july",17362.6606451889,7
+"Kentucky",1,0,"june",13961.7783878578,6
+"Kentucky",1,0,"march",12479.5894496356,3
+"Kentucky",1,0,"may",18966.6799754533,5
+"Kentucky",1,0,"november",43333.8060414533,11
+"Kentucky",1,0,"october",21406.21242733,10
+"Kentucky",1,0,"september",20209.3438575913,9
+"Kentucky",1,1,"april",72968.8696064489,4
+"Kentucky",1,1,"august",87407.2210927744,8
+"Kentucky",1,1,"december",48977.237850335,12
+"Kentucky",1,1,"february",51667.9626349556,2
+"Kentucky",1,1,"january",52614.0699575489,1
+"Kentucky",1,1,"july",76236.7948529922,7
+"Kentucky",1,1,"june",77761.39994296,6
+"Kentucky",1,1,"march",61346.9401600511,3
+"Kentucky",1,1,"may",76165.2858148256,5
+"Kentucky",1,1,"november",108918.31872515,11
+"Kentucky",1,1,"october",76726.3595344533,10
+"Kentucky",1,1,"september",85138.2359580538,9
+"Kentucky",1,NA,"april",36521.7674534622,4
+"Kentucky",1,NA,"august",38705.3139560289,8
+"Kentucky",1,NA,"december",38563.30156945,12
+"Kentucky",1,NA,"february",31928.3538609233,2
+"Kentucky",1,NA,"january",28955.4014303567,1
+"Kentucky",1,NA,"july",42578.6812334289,7
+"Kentucky",1,NA,"june",46941.8094713178,6
+"Kentucky",1,NA,"march",34735.7736772567,3
+"Kentucky",1,NA,"may",39457.5108696289,5
+"Kentucky",1,NA,"november",49730.4197929067,11
+"Kentucky",1,NA,"october",38711.8653530683,10
+"Kentucky",1,NA,"september",39404.5620833,9
+"Louisiana",0,0,"april",23435.7072024844,4
+"Louisiana",0,0,"august",30975.7906741433,8
+"Louisiana",0,0,"december",11298.680072565,12
+"Louisiana",0,0,"february",18016.0703351344,2
+"Louisiana",0,0,"january",17630.0857939122,1
+"Louisiana",0,0,"july",30681.4543348222,7
+"Louisiana",0,0,"june",30046.89984002,6
+"Louisiana",0,0,"march",15944.19404666,3
+"Louisiana",0,0,"may",26445.15356751,5
+"Louisiana",0,0,"november",39975.07369425,11
+"Louisiana",0,0,"october",35531.0862257883,10
+"Louisiana",0,0,"september",34039.0600453125,9
+"Louisiana",0,1,"april",60542.5508687504,4
+"Louisiana",0,1,"august",78444.2523724749,8
+"Louisiana",0,1,"december",47490.543873755,12
+"Louisiana",0,1,"february",52790.0899066449,2
+"Louisiana",0,1,"january",53178.8406970193,1
+"Louisiana",0,1,"july",73018.3230418927,7
+"Louisiana",0,1,"june",69628.3843603327,6
+"Louisiana",0,1,"march",57630.3354591638,3
+"Louisiana",0,1,"may",66075.6738608771,5
+"Louisiana",0,1,"november",60491.2565322267,11
+"Louisiana",0,1,"october",68188.4330817433,10
+"Louisiana",0,1,"september",69457.1173202518,9
+"Louisiana",0,NA,"april",22704.3136840333,4
+"Louisiana",0,NA,"august",27123.0740425889,8
+"Louisiana",0,NA,"december",30047.60457234,12
+"Louisiana",0,NA,"february",23324.1813233125,2
+"Louisiana",0,NA,"january",22681.300089925,1
+"Louisiana",0,NA,"july",25133.1014946,7
+"Louisiana",0,NA,"june",24483.9940836111,6
+"Louisiana",0,NA,"march",22529.7172460444,3
+"Louisiana",0,NA,"may",24311.5507575889,5
+"Louisiana",0,NA,"november",39147.6261906267,11
+"Louisiana",0,NA,"october",30138.0734941667,10
+"Louisiana",0,NA,"september",28872.6818794125,9
+"Louisiana",1,0,"april",15160.92881105,4
+"Louisiana",1,0,"august",21024.7979334433,8
+"Louisiana",1,0,"december",21724.86598295,12
+"Louisiana",1,0,"february",8039.42861358778,2
+"Louisiana",1,0,"january",8506.84465168445,1
+"Louisiana",1,0,"july",17674.97157908,7
+"Louisiana",1,0,"june",19334.1559160633,6
+"Louisiana",1,0,"march",11848.9649365522,3
+"Louisiana",1,0,"may",17354.3911889956,5
+"Louisiana",1,0,"november",41292.7579469967,11
+"Louisiana",1,0,"october",23274.0562851817,10
+"Louisiana",1,0,"september",24784.7703041837,9
+"Louisiana",1,1,"april",134418.388243353,4
+"Louisiana",1,1,"august",149485.750085502,8
+"Louisiana",1,1,"december",74899.34690422,12
+"Louisiana",1,1,"february",116275.113948572,2
+"Louisiana",1,1,"january",112756.891258861,1
+"Louisiana",1,1,"july",140842.761792724,7
+"Louisiana",1,1,"june",137525.112820839,6
+"Louisiana",1,1,"march",129236.445863281,3
+"Louisiana",1,1,"may",132383.906632048,5
+"Louisiana",1,1,"november",148528.16918781,11
+"Louisiana",1,1,"october",147150.786659448,10
+"Louisiana",1,1,"september",151297.445908471,9
+"Louisiana",1,NA,"april",50688.3467779167,4
+"Louisiana",1,NA,"august",59004.7796090044,8
+"Louisiana",1,NA,"december",28936.46922632,12
+"Louisiana",1,NA,"february",47334.9558787322,2
+"Louisiana",1,NA,"january",50215.1488374989,1
+"Louisiana",1,NA,"july",56623.2234300022,7
+"Louisiana",1,NA,"june",52112.0847660856,6
+"Louisiana",1,NA,"march",49162.8964638711,3
+"Louisiana",1,NA,"may",52327.6447952811,5
+"Louisiana",1,NA,"november",70173.62136307,11
+"Louisiana",1,NA,"october",70626.3751763867,10
+"Louisiana",1,NA,"september",70313.6350636038,9
+"Maine",0,0,"april",5419.08552962856,4
+"Maine",0,0,"august",6164.64354829889,8
+"Maine",0,0,"december",5782.501002535,12
+"Maine",0,0,"february",4106.47240529778,2
+"Maine",0,0,"january",3994.45410893111,1
+"Maine",0,0,"july",6127.44074579222,7
+"Maine",0,0,"june",6550.54578115889,6
+"Maine",0,0,"march",5501.10993325667,3
+"Maine",0,0,"may",5842.27768763856,5
+"Maine",0,0,"november",4880.42635127233,11
+"Maine",0,0,"october",6164.7938854495,10
+"Maine",0,0,"september",5795.52365827463,9
+"Maine",0,1,"april",19130.81125324,4
+"Maine",0,1,"august",21095.1831598056,8
+"Maine",0,1,"december",13847.71688562,12
+"Maine",0,1,"february",18772.52616404,2
+"Maine",0,1,"january",18175.1137315978,1
+"Maine",0,1,"july",21323.20040573,7
+"Maine",0,1,"june",19819.2608979433,6
+"Maine",0,1,"march",19150.3589297822,3
+"Maine",0,1,"may",19170.5613254389,5
+"Maine",0,1,"november",17776.3639853067,11
+"Maine",0,1,"october",17420.6902223933,10
+"Maine",0,1,"september",19616.4558306688,9
+"Maine",0,NA,"april",3557.77457377667,4
+"Maine",0,NA,"august",4098.91770629667,8
+"Maine",0,NA,"december",2058.7547284,12
+"Maine",0,NA,"february",3667.86066510625,2
+"Maine",0,NA,"january",3667.86066510625,1
+"Maine",0,NA,"july",4062.33040438,7
+"Maine",0,NA,"june",4002.97557951667,6
+"Maine",0,NA,"march",3412.19608988333,3
+"Maine",0,NA,"may",4046.86116110556,5
+"Maine",0,NA,"november",4217.01235247,11
+"Maine",0,NA,"october",3770.80592547667,10
+"Maine",0,NA,"september",4216.228869775,9
+"Maine",1,0,"april",5597.01449098625,4
+"Maine",1,0,"august",6302.17942005125,8
+"Maine",1,0,"december",3264.61677374,12
+"Maine",1,0,"february",5095.575682045,2
+"Maine",1,0,"january",4703.643163645,1
+"Maine",1,0,"july",5525.66656187,7
+"Maine",1,0,"june",5165.0597841875,6
+"Maine",1,0,"march",5454.38084031625,3
+"Maine",1,0,"may",5672.61327208125,5
+"Maine",1,0,"november",5529.16285167667,11
+"Maine",1,0,"october",6744.4933064,10
+"Maine",1,0,"september",6112.21906403143,9
+"Maine",1,1,"april",28251.5762557189,4
+"Maine",1,1,"august",28577.4013649333,8
+"Maine",1,1,"december",19474.21482743,12
+"Maine",1,1,"february",24511.76496582,2
+"Maine",1,1,"january",24511.76496582,1
+"Maine",1,1,"july",29601.7265852411,7
+"Maine",1,1,"june",29001.9902441311,6
+"Maine",1,1,"march",26668.8227821822,3
+"Maine",1,1,"may",28883.1347393278,5
+"Maine",1,1,"november",48092.9642586133,11
+"Maine",1,1,"october",31742.2631131733,10
+"Maine",1,1,"september",29986.0333348513,9
+"Maine",1,NA,"april",8925.48849722667,4
+"Maine",1,NA,"august",8649.22227220222,8
+"Maine",1,NA,"december",2733.05555279,12
+"Maine",1,NA,"february",7217.49518236889,2
+"Maine",1,NA,"january",7217.49518236889,1
+"Maine",1,NA,"july",8345.97314439556,7
+"Maine",1,NA,"june",8303.27696541778,6
+"Maine",1,NA,"march",7610.40113660444,3
+"Maine",1,NA,"may",8577.77279609333,5
+"Maine",1,NA,"november",10902.96399526,11
+"Maine",1,NA,"october",8086.85061421333,10
+"Maine",1,NA,"september",9152.14650814,9
+"Maryland",0,0,"april",41355.5068262956,4
+"Maryland",0,0,"august",52748.7135131122,8
+"Maryland",0,0,"december",41274.0348255,12
+"Maryland",0,0,"february",23860.4190623367,2
+"Maryland",0,0,"january",23776.3514562044,1
+"Maryland",0,0,"july",49861.2209753053,7
+"Maryland",0,0,"june",50440.0097539531,6
+"Maryland",0,0,"march",27219.2118284044,3
+"Maryland",0,0,"may",45659.2826136533,5
+"Maryland",0,0,"november",52502.4443353767,11
+"Maryland",0,0,"october",43798.3879362437,10
+"Maryland",0,0,"september",47925.3564924188,9
+"Maryland",0,1,"april",75138.8785244844,4
+"Maryland",0,1,"august",83386.9786501933,8
+"Maryland",0,1,"december",47093.3427026,12
+"Maryland",0,1,"february",59301.8331394844,2
+"Maryland",0,1,"january",60147.58207338,1
+"Maryland",0,1,"july",85743.3081099667,7
+"Maryland",0,1,"june",82191.4521981722,6
+"Maryland",0,1,"march",57709.0201608211,3
+"Maryland",0,1,"may",75387.7343045756,5
+"Maryland",0,1,"november",76691.199345,11
+"Maryland",0,1,"october",87861.7153552317,10
+"Maryland",0,1,"september",78733.5177892687,9
+"Maryland",0,NA,"april",15451.45941385,4
+"Maryland",0,NA,"august",21499.2135256944,8
+"Maryland",0,NA,"december",33751.51568805,12
+"Maryland",0,NA,"february",13083.6935194167,2
+"Maryland",0,NA,"january",14408.5509269344,1
+"Maryland",0,NA,"july",20617.3308959611,7
+"Maryland",0,NA,"june",19682.9662284278,6
+"Maryland",0,NA,"march",13393.1048068833,3
+"Maryland",0,NA,"may",17430.3985342056,5
+"Maryland",0,NA,"november",26923.2828366033,11
+"Maryland",0,NA,"october",15595.2366395067,10
+"Maryland",0,NA,"september",20382.115648285,9
+"Maryland",1,0,"april",38561.3943532756,4
+"Maryland",1,0,"august",55891.0823015027,8
+"Maryland",1,0,"december",38050.38988998,12
+"Maryland",1,0,"february",27275.2034356978,2
+"Maryland",1,0,"january",27271.0223234689,1
+"Maryland",1,0,"july",58971.1069560349,7
+"Maryland",1,0,"june",54610.7900567493,6
+"Maryland",1,0,"march",34012.90095341,3
+"Maryland",1,0,"may",47581.7026877256,5
+"Maryland",1,0,"november",54340.2150122233,11
+"Maryland",1,0,"october",46666.8511179517,10
+"Maryland",1,0,"september",52098.7267418042,9
+"Maryland",1,1,"april",109394.391233649,4
+"Maryland",1,1,"august",132778.782866396,8
+"Maryland",1,1,"december",52829.25337672,12
+"Maryland",1,1,"february",88056.1679529569,2
+"Maryland",1,1,"january",88122.7558738447,1
+"Maryland",1,1,"july",126970.111130689,7
+"Maryland",1,1,"june",123415.541319112,6
+"Maryland",1,1,"march",100484.184584554,3
+"Maryland",1,1,"may",114863.91697974,5
+"Maryland",1,1,"november",142123.09263259,11
+"Maryland",1,1,"october",115281.007150466,10
+"Maryland",1,1,"september",129820.402810428,9
+"Maryland",1,NA,"april",49155.43159313,4
+"Maryland",1,NA,"august",61695.0578641178,8
+"Maryland",1,NA,"december",24801.40929577,12
+"Maryland",1,NA,"february",43550.7603067811,2
+"Maryland",1,NA,"january",40887.8197735144,1
+"Maryland",1,NA,"july",57970.7935700433,7
+"Maryland",1,NA,"june",58286.3056189,6
+"Maryland",1,NA,"march",48604.72500329,3
+"Maryland",1,NA,"may",51785.0463212589,5
+"Maryland",1,NA,"november",40728.9151972667,11
+"Maryland",1,NA,"october",54894.107183865,10
+"Maryland",1,NA,"september",54049.15331856,9
+"Massachusetts",0,0,"april",41253.0542362934,4
+"Massachusetts",0,0,"august",49227.0607051756,8
+"Massachusetts",0,0,"december",22470.59601787,12
+"Massachusetts",0,0,"february",34715.1737257289,2
+"Massachusetts",0,0,"january",33947.7525250067,1
+"Massachusetts",0,0,"july",48694.4725484656,7
+"Massachusetts",0,0,"june",43759.4739913089,6
+"Massachusetts",0,0,"march",40000.4722724146,3
+"Massachusetts",0,0,"may",46000.9959718523,5
+"Massachusetts",0,0,"november",52318.3853450667,11
+"Massachusetts",0,0,"october",52290.2302214633,10
+"Massachusetts",0,0,"september",56761.3706264912,9
+"Massachusetts",0,1,"april",71840.3669572267,4
+"Massachusetts",0,1,"august",78528.9973783856,8
+"Massachusetts",0,1,"december",57683.373062195,12
+"Massachusetts",0,1,"february",58575.4686624467,2
+"Massachusetts",0,1,"january",62488.7468739544,1
+"Massachusetts",0,1,"july",77157.4183324611,7
+"Massachusetts",0,1,"june",75087.03640259,6
+"Massachusetts",0,1,"march",65382.99029293,3
+"Massachusetts",0,1,"may",73460.6125960711,5
+"Massachusetts",0,1,"november",91334.1418209467,11
+"Massachusetts",0,1,"october",81141.2086964333,10
+"Massachusetts",0,1,"september",81860.1564665125,9
+"Massachusetts",0,NA,"april",18522.3151248044,4
+"Massachusetts",0,NA,"august",20869.5346559633,8
+"Massachusetts",0,NA,"december",17029.44135128,12
+"Massachusetts",0,NA,"february",15447.4964762933,2
+"Massachusetts",0,NA,"january",15640.2383579822,1
+"Massachusetts",0,NA,"july",19305.64159765,7
+"Massachusetts",0,NA,"june",19754.1753207567,6
+"Massachusetts",0,NA,"march",16425.8700107711,3
+"Massachusetts",0,NA,"may",19405.5655864467,5
+"Massachusetts",0,NA,"november",32120.59115095,11
+"Massachusetts",0,NA,"october",31706.266953195,10
+"Massachusetts",0,NA,"september",21242.6642003687,9
+"Massachusetts",1,0,"april",32732.42366266,4
+"Massachusetts",1,0,"august",45679.1113363278,8
+"Massachusetts",1,0,"december",19181.835632585,12
+"Massachusetts",1,0,"february",23026.5776655922,2
+"Massachusetts",1,0,"january",23284.2405935244,1
+"Massachusetts",1,0,"july",43209.83977407,7
+"Massachusetts",1,0,"june",43453.9095726856,6
+"Massachusetts",1,0,"march",27551.0468616856,3
+"Massachusetts",1,0,"may",36001.06669971,5
+"Massachusetts",1,0,"november",27154.71527014,11
+"Massachusetts",1,0,"october",43546.50457295,10
+"Massachusetts",1,0,"september",52448.4722109838,9
+"Massachusetts",1,1,"april",71810.5034780233,4
+"Massachusetts",1,1,"august",91917.3780766533,8
+"Massachusetts",1,1,"december",50046.90059803,12
+"Massachusetts",1,1,"february",58464.1180397011,2
+"Massachusetts",1,1,"january",61099.2680605811,1
+"Massachusetts",1,1,"july",88441.3331116867,7
+"Massachusetts",1,1,"june",91681.3822888322,6
+"Massachusetts",1,1,"march",63800.8942138278,3
+"Massachusetts",1,1,"may",84048.8493108056,5
+"Massachusetts",1,1,"november",97077.3526850433,11
+"Massachusetts",1,1,"october",93727.5411220717,10
+"Massachusetts",1,1,"september",94843.96299832,9
+"Massachusetts",1,NA,"april",47857.2329220756,4
+"Massachusetts",1,NA,"august",55922.2890030622,8
+"Massachusetts",1,NA,"december",35367.76277315,12
+"Massachusetts",1,NA,"february",39112.9287607078,2
+"Massachusetts",1,NA,"january",36525.1543857522,1
+"Massachusetts",1,NA,"july",50566.1883348244,7
+"Massachusetts",1,NA,"june",52578.0934752111,6
+"Massachusetts",1,NA,"march",41592.4984712944,3
+"Massachusetts",1,NA,"may",47536.90751683,5
+"Massachusetts",1,NA,"november",30928.3318930267,11
+"Massachusetts",1,NA,"october",47631.9756848167,10
+"Massachusetts",1,NA,"september",53906.9656793175,9
+"Michigan",0,0,"april",54809.7433667978,4
+"Michigan",0,0,"august",63400.8623278593,8
+"Michigan",0,0,"december",21418.87326935,12
+"Michigan",0,0,"february",46505.4746980311,2
+"Michigan",0,0,"january",49480.17089045,1
+"Michigan",0,0,"july",65263.0797065382,7
+"Michigan",0,0,"june",64564.3030201927,6
+"Michigan",0,0,"march",50158.14582422,3
+"Michigan",0,0,"may",64824.2102766089,5
+"Michigan",0,0,"november",76930.95341698,11
+"Michigan",0,0,"october",65874.5101706183,10
+"Michigan",0,0,"september",64061.130147805,9
+"Michigan",0,1,"april",124391.513709966,4
+"Michigan",0,1,"august",127935.399628069,8
+"Michigan",0,1,"december",84348.598432125,12
+"Michigan",0,1,"february",104781.109979046,2
+"Michigan",0,1,"january",103381.545821912,1
+"Michigan",0,1,"july",124029.122782148,7
+"Michigan",0,1,"june",129016.631820926,6
+"Michigan",0,1,"march",119946.573198634,3
+"Michigan",0,1,"may",131182.103027223,5
+"Michigan",0,1,"november",141001.150470413,11
+"Michigan",0,1,"october",118650.690827198,10
+"Michigan",0,1,"september",118875.557023701,9
+"Michigan",0,NA,"april",44020.3488971336,4
+"Michigan",0,NA,"august",45767.6966327802,8
+"Michigan",0,NA,"december",18127.4247596,12
+"Michigan",0,NA,"february",39965.5355701891,2
+"Michigan",0,NA,"january",55356.5049602002,1
+"Michigan",0,NA,"july",46449.3959107469,7
+"Michigan",0,NA,"june",47687.0344737024,6
+"Michigan",0,NA,"march",43834.9026225891,3
+"Michigan",0,NA,"may",48056.3274303558,5
+"Michigan",0,NA,"november",29201.4876371033,11
+"Michigan",0,NA,"october",36150.418245085,10
+"Michigan",0,NA,"september",45380.8101147902,9
+"Michigan",1,0,"april",31935.8812770956,4
+"Michigan",1,0,"august",36482.5022354322,8
+"Michigan",1,0,"december",10592.248140935,12
+"Michigan",1,0,"february",16377.2522288478,2
+"Michigan",1,0,"january",14140.9534051989,1
+"Michigan",1,0,"july",32745.60038652,7
+"Michigan",1,0,"june",38086.6939021367,6
+"Michigan",1,0,"march",24487.0265121178,3
+"Michigan",1,0,"may",35137.8067091356,5
+"Michigan",1,0,"november",38818.2800221367,11
+"Michigan",1,0,"october",36994.2451702933,10
+"Michigan",1,0,"september",38276.1058724937,9
+"Michigan",1,1,"april",178485.394309815,4
+"Michigan",1,1,"august",182319.450492122,8
+"Michigan",1,1,"december",112406.685721855,12
+"Michigan",1,1,"february",145996.044774535,2
+"Michigan",1,1,"january",142622.941150642,1
+"Michigan",1,1,"july",176155.835674214,7
+"Michigan",1,1,"june",184191.266636799,6
+"Michigan",1,1,"march",170820.146901837,3
+"Michigan",1,1,"may",188419.247682152,5
+"Michigan",1,1,"november",197529.897674783,11
+"Michigan",1,1,"october",186334.378550249,10
+"Michigan",1,1,"september",187744.288780845,9
+"Michigan",1,NA,"april",51401.6748991033,4
+"Michigan",1,NA,"august",58634.3748868289,8
+"Michigan",1,NA,"december",67232.60830415,12
+"Michigan",1,NA,"february",36965.3135200756,2
+"Michigan",1,NA,"january",40795.3725435533,1
+"Michigan",1,NA,"july",56973.0459990667,7
+"Michigan",1,NA,"june",54805.3733220556,6
+"Michigan",1,NA,"march",42980.2422728422,3
+"Michigan",1,NA,"may",55924.2194472256,5
+"Michigan",1,NA,"november",74756.8264517333,11
+"Michigan",1,NA,"october",57821.6850087,10
+"Michigan",1,NA,"september",56500.6291032863,9
+"Minnesota",0,0,"april",13461.6774693811,4
+"Minnesota",0,0,"august",17069.6170608744,8
+"Minnesota",0,0,"december",18239.9438992,12
+"Minnesota",0,0,"february",11946.3765371178,2
+"Minnesota",0,0,"january",11197.9563623233,1
+"Minnesota",0,0,"july",15227.9162354922,7
+"Minnesota",0,0,"june",14370.2983300533,6
+"Minnesota",0,0,"march",12262.0698542144,3
+"Minnesota",0,0,"may",13793.4410497256,5
+"Minnesota",0,0,"november",19597.4022038067,11
+"Minnesota",0,0,"october",17327.6134731183,10
+"Minnesota",0,0,"september",17565.7795201875,9
+"Minnesota",0,1,"april",34396.2510436778,4
+"Minnesota",0,1,"august",39595.7671061522,8
+"Minnesota",0,1,"december",37854.042225535,12
+"Minnesota",0,1,"february",29983.5371298444,2
+"Minnesota",0,1,"january",30729.4974406333,1
+"Minnesota",0,1,"july",36803.9375911822,7
+"Minnesota",0,1,"june",36301.9921713011,6
+"Minnesota",0,1,"march",33947.0515438011,3
+"Minnesota",0,1,"may",36977.8068779589,5
+"Minnesota",0,1,"november",45612.24253374,11
+"Minnesota",0,1,"october",37558.23392304,10
+"Minnesota",0,1,"september",33849.8450437862,9
+"Minnesota",0,NA,"april",10627.4271478189,4
+"Minnesota",0,NA,"august",11883.9895778962,8
+"Minnesota",0,NA,"december",9941.2938404,12
+"Minnesota",0,NA,"february",8710.95887904625,2
+"Minnesota",0,NA,"january",9185.08976928375,1
+"Minnesota",0,NA,"july",11883.9895778962,7
+"Minnesota",0,NA,"june",11714.1098816712,6
+"Minnesota",0,NA,"march",11673.1157397338,3
+"Minnesota",0,NA,"may",12108.9027185088,5
+"Minnesota",0,NA,"november",22603.3572759767,11
+"Minnesota",0,NA,"october",17804.252627226,10
+"Minnesota",0,NA,"september",13035.7355659286,9
+"Minnesota",1,0,"april",11501.9279950278,4
+"Minnesota",1,0,"august",19279.0272585289,8
+"Minnesota",1,0,"december",18993.724138715,12
+"Minnesota",1,0,"february",15146.481763565,2
+"Minnesota",1,0,"january",13869.7383202438,1
+"Minnesota",1,0,"july",16612.7349760367,7
+"Minnesota",1,0,"june",14765.4304818578,6
+"Minnesota",1,0,"march",11361.4601325356,3
+"Minnesota",1,0,"may",12408.0776369244,5
+"Minnesota",1,0,"november",19982.45865242,11
+"Minnesota",1,0,"october",13224.0791640717,10
+"Minnesota",1,0,"september",15509.8504679725,9
+"Minnesota",1,1,"april",43048.0181053102,4
+"Minnesota",1,1,"august",51470.9624849913,8
+"Minnesota",1,1,"december",34457.15169455,12
+"Minnesota",1,1,"february",33648.7771027436,2
+"Minnesota",1,1,"january",33048.272515618,1
+"Minnesota",1,1,"july",53365.1561984278,7
+"Minnesota",1,1,"june",50336.0106147189,6
+"Minnesota",1,1,"march",39671.2838119124,3
+"Minnesota",1,1,"may",45088.4535890767,5
+"Minnesota",1,1,"november",48280.4150767,11
+"Minnesota",1,1,"october",44840.0271868633,10
+"Minnesota",1,1,"september",46775.563531474,9
+"Minnesota",1,NA,"april",22525.62033748,4
+"Minnesota",1,NA,"august",26332.8202590144,8
+"Minnesota",1,NA,"december",45872.1640053,12
+"Minnesota",1,NA,"february",20610.6311975878,2
+"Minnesota",1,NA,"january",20610.6311975878,1
+"Minnesota",1,NA,"july",19974.1620195133,7
+"Minnesota",1,NA,"june",23996.0268198911,6
+"Minnesota",1,NA,"march",19962.2312770133,3
+"Minnesota",1,NA,"may",20511.6351783022,5
+"Minnesota",1,NA,"november",24229.8671632233,11
+"Minnesota",1,NA,"october",24149.409438154,10
+"Minnesota",1,NA,"september",26131.8195716125,9
+"Mississippi",0,0,"april",5256.94138841889,4
+"Mississippi",0,0,"august",7984.10732535,8
+"Mississippi",0,0,"december",10687.686005,12
+"Mississippi",0,0,"february",4752.93284809333,2
+"Mississippi",0,0,"january",4752.93284809333,1
+"Mississippi",0,0,"july",6600.51209558333,7
+"Mississippi",0,0,"june",6310.66921482222,6
+"Mississippi",0,0,"march",4993.95139445222,3
+"Mississippi",0,0,"may",5802.89640136111,5
+"Mississippi",0,0,"november",8278.58242163333,11
+"Mississippi",0,0,"october",8440.55874139167,10
+"Mississippi",0,0,"september",7792.83037531625,9
+"Mississippi",0,1,"april",41120.0573760111,4
+"Mississippi",0,1,"august",48800.4717122867,8
+"Mississippi",0,1,"december",62548.03641748,12
+"Mississippi",0,1,"february",35734.5990491144,2
+"Mississippi",0,1,"january",35272.9194880278,1
+"Mississippi",0,1,"july",43794.4414382922,7
+"Mississippi",0,1,"june",44299.2211348033,6
+"Mississippi",0,1,"march",39524.7620587233,3
+"Mississippi",0,1,"may",44319.7446852433,5
+"Mississippi",0,1,"november",85107.8591605667,11
+"Mississippi",0,1,"october",55230.07120299,10
+"Mississippi",0,1,"september",51263.0963619675,9
+"Mississippi",0,NA,"april",11094.701391128,4
+"Mississippi",0,NA,"august",9578.710194805,8
+"Mississippi",0,NA,"february",7094.311528988,2
+"Mississippi",0,NA,"january",6832.515504278,1
+"Mississippi",0,NA,"july",10766.3113113233,7
+"Mississippi",0,NA,"june",11219.595431428,6
+"Mississippi",0,NA,"march",9653.72916732333,3
+"Mississippi",0,NA,"may",11366.795067958,5
+"Mississippi",0,NA,"november",5598.6718157,11
+"Mississippi",0,NA,"october",6358.0584659,10
+"Mississippi",0,NA,"september",7299.39787434857,9
+"Mississippi",1,0,"april",10223.44902508,4
+"Mississippi",1,0,"august",20334.9830452733,8
+"Mississippi",1,0,"december",10570.16330595,12
+"Mississippi",1,0,"february",9556.40354884778,2
+"Mississippi",1,0,"january",9510.15203199111,1
+"Mississippi",1,0,"july",16034.4163705722,7
+"Mississippi",1,0,"june",13486.86822055,6
+"Mississippi",1,0,"march",10070.4583810244,3
+"Mississippi",1,0,"may",12993.9930799689,5
+"Mississippi",1,0,"november",7745.31049413333,11
+"Mississippi",1,0,"october",13968.0139561033,10
+"Mississippi",1,0,"september",17344.45717721,9
+"Mississippi",1,1,"april",70012.3967206126,4
+"Mississippi",1,1,"august",78084.291256657,8
+"Mississippi",1,1,"december",75598.963388,12
+"Mississippi",1,1,"february",60430.4770668137,2
+"Mississippi",1,1,"january",61043.3168657803,1
+"Mississippi",1,1,"july",71878.2685181326,7
+"Mississippi",1,1,"june",70239.9477258037,6
+"Mississippi",1,1,"march",66635.315730577,3
+"Mississippi",1,1,"may",69739.8312795603,5
+"Mississippi",1,1,"november",75922.5369598733,11
+"Mississippi",1,1,"october",76619.86823108,10
+"Mississippi",1,1,"september",76660.0292007216,9
+"Mississippi",1,NA,"april",25089.9237314022,4
+"Mississippi",1,NA,"august",29009.9821644433,8
+"Mississippi",1,NA,"december",39016.18704626,12
+"Mississippi",1,NA,"february",22171.2855889175,2
+"Mississippi",1,NA,"january",22096.1074480812,1
+"Mississippi",1,NA,"july",26946.5611198867,7
+"Mississippi",1,NA,"june",26559.4521998222,6
+"Mississippi",1,NA,"march",28400.7435543425,3
+"Mississippi",1,NA,"may",27688.6055226556,5
+"Mississippi",1,NA,"november",31065.3324909333,11
+"Mississippi",1,NA,"october",36483.8103929433,10
+"Mississippi",1,NA,"september",28168.40569343,9
+"Missouri",0,0,"april",22416.9326411367,4
+"Missouri",0,0,"august",28878.3711083033,8
+"Missouri",0,0,"december",11810.7906631,12
+"Missouri",0,0,"february",15914.3557282133,2
+"Missouri",0,0,"january",15434.0385157578,1
+"Missouri",0,0,"july",31288.4406368089,7
+"Missouri",0,0,"june",29678.3629641978,6
+"Missouri",0,0,"march",20671.5289565244,3
+"Missouri",0,0,"may",27702.12576637,5
+"Missouri",0,0,"november",19183.9581010367,11
+"Missouri",0,0,"october",21025.93209885,10
+"Missouri",0,0,"september",29470.3951281575,9
+"Missouri",0,1,"april",63889.4012082511,4
+"Missouri",0,1,"august",70376.3666017589,8
+"Missouri",0,1,"december",55651.77120357,12
+"Missouri",0,1,"february",50666.3017902078,2
+"Missouri",0,1,"january",51447.57877193,1
+"Missouri",0,1,"july",64477.9466599867,7
+"Missouri",0,1,"june",67146.7878943489,6
+"Missouri",0,1,"march",60230.1764995567,3
+"Missouri",0,1,"may",67184.0293072311,5
+"Missouri",0,1,"november",90296.323557,11
+"Missouri",0,1,"october",73440.601480825,10
+"Missouri",0,1,"september",67306.1897304537,9
+"Missouri",0,NA,"april",19879.4586283525,4
+"Missouri",0,NA,"august",21742.0576680657,8
+"Missouri",0,NA,"december",4185.50297505,12
+"Missouri",0,NA,"february",15154.57615996,2
+"Missouri",0,NA,"january",15154.57615996,1
+"Missouri",0,NA,"july",23481.0905636029,7
+"Missouri",0,NA,"june",22758.3848841457,6
+"Missouri",0,NA,"march",15154.57615996,3
+"Missouri",0,NA,"may",21966.9388797171,5
+"Missouri",0,NA,"november",41078.1934021333,11
+"Missouri",0,NA,"october",24401.65018798,10
+"Missouri",0,NA,"september",20461.2219078671,9
+"Missouri",1,0,"april",19291.8106715624,4
+"Missouri",1,0,"august",23170.8149592732,8
+"Missouri",1,0,"december",33432.9742256,12
+"Missouri",1,0,"february",12374.3434311561,2
+"Missouri",1,0,"january",11598.0665914166,1
+"Missouri",1,0,"july",21804.6782329332,7
+"Missouri",1,0,"june",20798.6862845777,6
+"Missouri",1,0,"march",12459.9184724999,3
+"Missouri",1,0,"may",21406.1061620332,5
+"Missouri",1,0,"november",20832.9995100167,11
+"Missouri",1,0,"october",19857.4049538665,10
+"Missouri",1,0,"september",21349.2612509986,9
+"Missouri",1,1,"april",100300.332353354,4
+"Missouri",1,1,"august",116231.420146072,8
+"Missouri",1,1,"december",54145.663359095,12
+"Missouri",1,1,"february",82046.2353226656,2
+"Missouri",1,1,"january",79230.2882646211,1
+"Missouri",1,1,"july",113595.675218932,7
+"Missouri",1,1,"june",109615.788196411,6
+"Missouri",1,1,"march",94586.0307677322,3
+"Missouri",1,1,"may",103755.302342561,5
+"Missouri",1,1,"november",109991.03469536,11
+"Missouri",1,1,"october",95542.6007029317,10
+"Missouri",1,1,"september",109493.605058339,9
+"Missouri",1,NA,"april",29857.4432458711,4
+"Missouri",1,NA,"august",35637.6832439378,8
+"Missouri",1,NA,"december",18003.6893218,12
+"Missouri",1,NA,"february",26380.6366831911,2
+"Missouri",1,NA,"january",28175.7647171356,1
+"Missouri",1,NA,"july",35245.9163672467,7
+"Missouri",1,NA,"june",31886.1832611767,6
+"Missouri",1,NA,"march",26041.6777746933,3
+"Missouri",1,NA,"may",30131.9754370267,5
+"Missouri",1,NA,"november",43200.1525959,11
+"Missouri",1,NA,"october",33515.85534087,10
+"Missouri",1,NA,"september",33587.4108614987,9
+"Montana",0,0,"april",2661.08077448111,4
+"Montana",0,0,"august",3432.56499899778,8
+"Montana",0,0,"december",1766.53267396,12
+"Montana",0,0,"february",2240.96562726889,2
+"Montana",0,0,"january",2120.36458633222,1
+"Montana",0,0,"july",3488.58964854333,7
+"Montana",0,0,"june",3082.72664851222,6
+"Montana",0,0,"march",2377.03455859444,3
+"Montana",0,0,"may",2778.70178359889,5
+"Montana",0,0,"november",2565.76711237,11
+"Montana",0,0,"october",2426.87856325333,10
+"Montana",0,0,"september",3487.4386142775,9
+"Montana",0,1,"april",14895.5238277567,4
+"Montana",0,1,"august",15863.5364192633,8
+"Montana",0,1,"december",6750.688639315,12
+"Montana",0,1,"february",13219.1666449278,2
+"Montana",0,1,"january",12185.1258657022,1
+"Montana",0,1,"july",15465.6460113067,7
+"Montana",0,1,"june",15790.7493415278,6
+"Montana",0,1,"march",14363.3476677989,3
+"Montana",0,1,"may",14962.70618829,5
+"Montana",0,1,"november",20861.7972040233,11
+"Montana",0,1,"october",15382.5525212533,10
+"Montana",0,1,"september",15956.6052681337,9
+"Montana",0,NA,"april",4012.05173497125,4
+"Montana",0,NA,"august",4095.01373769,8
+"Montana",0,NA,"december",1750.58091334,12
+"Montana",0,NA,"february",3918.7920045625,2
+"Montana",0,NA,"january",3801.54034962375,1
+"Montana",0,NA,"july",4012.05173497125,7
+"Montana",0,NA,"june",4012.05173497125,6
+"Montana",0,NA,"march",3918.7920045625,3
+"Montana",0,NA,"may",4012.05173497125,5
+"Montana",0,NA,"november",2063.384813115,11
+"Montana",0,NA,"october",4530.889785068,10
+"Montana",0,NA,"september",4127.01362926571,9
+"Montana",1,0,"april",2274.89209962889,4
+"Montana",1,0,"august",4538.32760792,8
+"Montana",1,0,"december",3791.87855508,12
+"Montana",1,0,"february",1463.48602222333,2
+"Montana",1,0,"january",1310.60460830222,1
+"Montana",1,0,"july",3672.51006371333,7
+"Montana",1,0,"june",3223.76208542444,6
+"Montana",1,0,"march",1964.37855004333,3
+"Montana",1,0,"may",2536.56329076444,5
+"Montana",1,0,"november",3605.33124839333,11
+"Montana",1,0,"october",4311.74205690833,10
+"Montana",1,0,"september",4509.7872285625,9
+"Montana",1,1,"april",14872.7878730267,4
+"Montana",1,1,"august",16534.0946392778,8
+"Montana",1,1,"december",12035.291015845,12
+"Montana",1,1,"february",13756.5026087956,2
+"Montana",1,1,"january",13444.0630808833,1
+"Montana",1,1,"july",16061.3417393556,7
+"Montana",1,1,"june",15227.9497108556,6
+"Montana",1,1,"march",15375.9026189133,3
+"Montana",1,1,"may",14960.4617849667,5
+"Montana",1,1,"november",19179.66813349,11
+"Montana",1,1,"october",15067.367323835,10
+"Montana",1,1,"september",16442.36564491,9
+"Montana",1,NA,"april",8097.02124720667,4
+"Montana",1,NA,"august",7932.61056023556,8
+"Montana",1,NA,"december",13744.0341501,12
+"Montana",1,NA,"february",7827.93330751625,2
+"Montana",1,NA,"january",7851.51147207875,1
+"Montana",1,NA,"july",8061.24716750555,7
+"Montana",1,NA,"june",8402.38055817667,6
+"Montana",1,NA,"march",8732.22814862,3
+"Montana",1,NA,"may",8284.74312218778,5
+"Montana",1,NA,"november",10212.66957524,11
+"Montana",1,NA,"october",9049.290501526,10
+"Montana",1,NA,"september",7549.658983155,9
+"Nebraska",0,0,"april",3280.92557287333,4
+"Nebraska",0,0,"august",3940.11810952,8
+"Nebraska",0,0,"december",2459.14430558,12
+"Nebraska",0,0,"february",2893.85898178875,2
+"Nebraska",0,0,"january",2893.85898178875,1
+"Nebraska",0,0,"july",3823.98036174111,7
+"Nebraska",0,0,"june",3724.56152137667,6
+"Nebraska",0,0,"march",3265.34213871222,3
+"Nebraska",0,0,"may",3440.21902773667,5
+"Nebraska",0,0,"november",4457.35956814333,11
+"Nebraska",0,0,"october",4287.96115951833,10
+"Nebraska",0,0,"september",4117.003265545,9
+"Nebraska",0,1,"april",13773.5424020789,4
+"Nebraska",0,1,"august",16070.18857805,8
+"Nebraska",0,1,"december",9384.529982045,12
+"Nebraska",0,1,"february",12474.0831841544,2
+"Nebraska",0,1,"january",12455.72446353,1
+"Nebraska",0,1,"july",14860.5486641556,7
+"Nebraska",0,1,"june",14160.6354655756,6
+"Nebraska",0,1,"march",13009.3619095567,3
+"Nebraska",0,1,"may",13602.7413343011,5
+"Nebraska",0,1,"november",18681.6041250767,11
+"Nebraska",0,1,"october",17573.9715461283,10
+"Nebraska",0,1,"september",14742.5988807875,9
+"Nebraska",0,NA,"april",3720.27158371875,4
+"Nebraska",0,NA,"august",4176.45424824125,8
+"Nebraska",0,NA,"december",3220.58455952,12
+"Nebraska",0,NA,"february",2928.9260469125,2
+"Nebraska",0,NA,"january",2756.0586875875,1
+"Nebraska",0,NA,"july",4128.78782540625,7
+"Nebraska",0,NA,"june",3707.63168434375,6
+"Nebraska",0,NA,"march",3059.2915913025,3
+"Nebraska",0,NA,"may",3009.69591544375,5
+"Nebraska",0,NA,"november",3686.96179025333,11
+"Nebraska",0,NA,"october",3788.00708944,10
+"Nebraska",0,NA,"september",4945.35556387857,9
+"Nebraska",1,0,"april",4322.17485195111,4
+"Nebraska",1,0,"august",6040.92889876222,8
+"Nebraska",1,0,"december",6936.337715535,12
+"Nebraska",1,0,"february",3208.17495236222,2
+"Nebraska",1,0,"january",3036.26255066889,1
+"Nebraska",1,0,"july",5195.10567751333,7
+"Nebraska",1,0,"june",4804.69959530222,6
+"Nebraska",1,0,"march",3843.88299408667,3
+"Nebraska",1,0,"may",4387.45531718667,5
+"Nebraska",1,0,"november",8066.68386578667,11
+"Nebraska",1,0,"october",7062.60876689333,10
+"Nebraska",1,0,"september",6534.52454792,9
+"Nebraska",1,1,"april",23183.8853605056,4
+"Nebraska",1,1,"august",27811.1660626089,8
+"Nebraska",1,1,"december",25880.466113095,12
+"Nebraska",1,1,"february",19533.7532364044,2
+"Nebraska",1,1,"january",20035.8338828689,1
+"Nebraska",1,1,"july",25856.9223550844,7
+"Nebraska",1,1,"june",23729.0217082578,6
+"Nebraska",1,1,"march",21561.8175487967,3
+"Nebraska",1,1,"may",23653.1238622544,5
+"Nebraska",1,1,"november",36853.0932818067,11
+"Nebraska",1,1,"october",28437.1195637133,10
+"Nebraska",1,1,"september",28043.9190128088,9
+"Nebraska",1,NA,"april",8533.039018285,4
+"Nebraska",1,NA,"august",11659.7806594625,8
+"Nebraska",1,NA,"december",5347.612391215,12
+"Nebraska",1,NA,"february",7661.75833021222,2
+"Nebraska",1,NA,"january",7561.57248825125,1
+"Nebraska",1,NA,"july",11938.1123347189,7
+"Nebraska",1,NA,"june",10559.1731988433,6
+"Nebraska",1,NA,"march",8474.27617837667,3
+"Nebraska",1,NA,"may",9459.88934241,5
+"Nebraska",1,NA,"november",7738.45638174667,11
+"Nebraska",1,NA,"october",7960.36612717333,10
+"Nebraska",1,NA,"september",9477.5159115625,9
+"Nevada",0,0,"april",18972.9585169256,4
+"Nevada",0,0,"august",24613.7839937044,8
+"Nevada",0,0,"december",25524.61098177,12
+"Nevada",0,0,"february",14775.3191749889,2
+"Nevada",0,0,"january",13457.7749438867,1
+"Nevada",0,0,"july",21739.0540266378,7
+"Nevada",0,0,"june",22521.0496649133,6
+"Nevada",0,0,"march",17381.5598860567,3
+"Nevada",0,0,"may",21416.9013066956,5
+"Nevada",0,0,"november",24508.1996772867,11
+"Nevada",0,0,"october",26007.749179755,10
+"Nevada",0,0,"september",25145.5011019863,9
+"Nevada",0,1,"april",46441.5122304656,4
+"Nevada",0,1,"august",49491.8627748311,8
+"Nevada",0,1,"december",19737.921174695,12
+"Nevada",0,1,"february",36623.1590783256,2
+"Nevada",0,1,"january",36187.37422058,1
+"Nevada",0,1,"july",49377.7666464278,7
+"Nevada",0,1,"june",48893.6656178567,6
+"Nevada",0,1,"march",44959.1965363778,3
+"Nevada",0,1,"may",47495.2212355233,5
+"Nevada",0,1,"november",35448.2955439933,11
+"Nevada",0,1,"october",43847.36244173,10
+"Nevada",0,1,"september",48372.5164356575,9
+"Nevada",0,NA,"april",6966.64740617889,4
+"Nevada",0,NA,"august",9799.02376014111,8
+"Nevada",0,NA,"december",16563.93950611,12
+"Nevada",0,NA,"february",5438.45204598111,2
+"Nevada",0,NA,"january",5371.30709398778,1
+"Nevada",0,NA,"july",9819.94901346444,7
+"Nevada",0,NA,"june",7877.53115722,6
+"Nevada",0,NA,"march",6631.97274237222,3
+"Nevada",0,NA,"may",7590.49133268667,5
+"Nevada",0,NA,"november",10524.0479373233,11
+"Nevada",0,NA,"october",7001.10780781833,10
+"Nevada",0,NA,"september",9986.15376783375,9
+"Nevada",1,0,"april",17026.1305425467,4
+"Nevada",1,0,"august",23001.6856913256,8
+"Nevada",1,0,"december",17546.55268979,12
+"Nevada",1,0,"february",9672.69725237111,2
+"Nevada",1,0,"january",9868.45817757667,1
+"Nevada",1,0,"july",20541.59741652,7
+"Nevada",1,0,"june",18651.8551236478,6
+"Nevada",1,0,"march",13276.1344738211,3
+"Nevada",1,0,"may",17569.8293879756,5
+"Nevada",1,0,"november",28332.7480837867,11
+"Nevada",1,0,"october",24325.8721656417,10
+"Nevada",1,0,"september",27334.5912665087,9
+"Nevada",1,1,"april",59862.4349687244,4
+"Nevada",1,1,"august",68439.0675903667,8
+"Nevada",1,1,"december",35243.7350264,12
+"Nevada",1,1,"february",45513.7673669567,2
+"Nevada",1,1,"january",45713.72886033,1
+"Nevada",1,1,"july",60326.2597434356,7
+"Nevada",1,1,"june",63827.5310124578,6
+"Nevada",1,1,"march",52462.4410019556,3
+"Nevada",1,1,"may",61763.2565124878,5
+"Nevada",1,1,"november",68570.1894939633,11
+"Nevada",1,1,"october",76327.8564626333,10
+"Nevada",1,1,"september",74564.1613878012,9
+"Nevada",1,NA,"april",23644.7581935578,4
+"Nevada",1,NA,"august",28823.3462774556,8
+"Nevada",1,NA,"december",24352.50027081,12
+"Nevada",1,NA,"february",16568.4710388222,2
+"Nevada",1,NA,"january",17305.9160989744,1
+"Nevada",1,NA,"july",28664.9540849833,7
+"Nevada",1,NA,"june",25190.6870207033,6
+"Nevada",1,NA,"march",21678.2358508133,3
+"Nevada",1,NA,"may",24528.4393200911,5
+"Nevada",1,NA,"november",37438.9699192967,11
+"Nevada",1,NA,"october",29385.00114008,10
+"Nevada",1,NA,"september",30924.8335155462,9
+"New Hampshire",0,0,"april",3702.60498625,4
+"New Hampshire",0,0,"august",4377.16017495444,8
+"New Hampshire",0,0,"december",2312.30361067,12
+"New Hampshire",0,0,"february",2749.31064518111,2
+"New Hampshire",0,0,"january",2790.10066358333,1
+"New Hampshire",0,0,"july",4440.09462776889,7
+"New Hampshire",0,0,"june",4446.27898193,6
+"New Hampshire",0,0,"march",2915.64963673333,3
+"New Hampshire",0,0,"may",4183.30354626111,5
+"New Hampshire",0,0,"november",1533.96387897667,11
+"New Hampshire",0,0,"october",2754.763065915,10
+"New Hampshire",0,0,"september",4181.69331153625,9
+"New Hampshire",0,1,"april",7160.58465690556,4
+"New Hampshire",0,1,"august",7585.60618891111,8
+"New Hampshire",0,1,"december",3726.150353825,12
+"New Hampshire",0,1,"february",7094.94597487444,2
+"New Hampshire",0,1,"january",7335.86522360889,1
+"New Hampshire",0,1,"july",7338.84284529222,7
+"New Hampshire",0,1,"june",7263.28549073333,6
+"New Hampshire",0,1,"march",7363.89101571444,3
+"New Hampshire",0,1,"may",7529.82023338222,5
+"New Hampshire",0,1,"november",8036.39353835,11
+"New Hampshire",0,1,"october",7984.76001357333,10
+"New Hampshire",0,1,"september",8347.0317155125,9
+"New Hampshire",0,NA,"april",4043.59798424875,4
+"New Hampshire",0,NA,"august",3916.07980646714,8
+"New Hampshire",0,NA,"february",1849.84279820286,2
+"New Hampshire",0,NA,"january",2106.78671534571,1
+"New Hampshire",0,NA,"july",4167.29428348143,7
+"New Hampshire",0,NA,"june",3977.20012835571,6
+"New Hampshire",0,NA,"march",1951.04044031143,3
+"New Hampshire",0,NA,"may",4007.45635282714,5
+"New Hampshire",0,NA,"november",13513.23130803,11
+"New Hampshire",0,NA,"october",5639.46629892,10
+"New Hampshire",0,NA,"september",4123.10671112,9
+"New Hampshire",1,0,"april",4040.75547309125,4
+"New Hampshire",1,0,"august",4286.7935789175,8
+"New Hampshire",1,0,"december",8500.46144045,12
+"New Hampshire",1,0,"february",3874.18607057857,2
+"New Hampshire",1,0,"january",3866.61145119,1
+"New Hampshire",1,0,"july",4063.94193401375,7
+"New Hampshire",1,0,"june",3959.767700375,6
+"New Hampshire",1,0,"march",3373.06226619875,3
+"New Hampshire",1,0,"may",3961.85165674875,5
+"New Hampshire",1,0,"november",5750.90052486667,11
+"New Hampshire",1,0,"october",4029.75544919,10
+"New Hampshire",1,0,"september",3877.2193615125,9
+"New Hampshire",1,1,"april",14089.5942541789,4
+"New Hampshire",1,1,"august",14156.0857423178,8
+"New Hampshire",1,1,"december",3678.00490866,12
+"New Hampshire",1,1,"february",12822.2793270656,2
+"New Hampshire",1,1,"january",12615.8853551956,1
+"New Hampshire",1,1,"july",15083.1824432244,7
+"New Hampshire",1,1,"june",14674.6233587078,6
+"New Hampshire",1,1,"march",13390.2310871567,3
+"New Hampshire",1,1,"may",14490.75867354,5
+"New Hampshire",1,1,"november",12567.4953130133,11
+"New Hampshire",1,1,"october",13399.3103074917,10
+"New Hampshire",1,1,"september",14467.8722065987,9
+"New Hampshire",1,NA,"april",3525.51808045625,4
+"New Hampshire",1,NA,"august",3410.034493005,8
+"New Hampshire",1,NA,"december",7671.05297005,12
+"New Hampshire",1,NA,"february",3129.70172443125,2
+"New Hampshire",1,NA,"january",3129.70172443125,1
+"New Hampshire",1,NA,"july",3368.03586356375,7
+"New Hampshire",1,NA,"june",3525.51808045625,6
+"New Hampshire",1,NA,"march",3260.79162800875,3
+"New Hampshire",1,NA,"may",3525.51808045625,5
+"New Hampshire",1,NA,"november",5279.68432576,11
+"New Hampshire",1,NA,"october",5189.052122558,10
+"New Hampshire",1,NA,"september",3028.6510106275,9
+"New Jersey",0,0,"april",29015.5679972733,4
+"New Jersey",0,0,"august",37985.2585142511,8
+"New Jersey",0,0,"december",36838.0969574,12
+"New Jersey",0,0,"february",22963.03633135,2
+"New Jersey",0,0,"january",20427.3152553611,1
+"New Jersey",0,0,"july",36439.7694042956,7
+"New Jersey",0,0,"june",35339.3400434733,6
+"New Jersey",0,0,"march",25551.9242519178,3
+"New Jersey",0,0,"may",28896.0339681289,5
+"New Jersey",0,0,"november",47794.3149412167,11
+"New Jersey",0,0,"october",38760.1849905117,10
+"New Jersey",0,0,"september",42829.4428310088,9
+"New Jersey",0,1,"april",43768.3542396678,4
+"New Jersey",0,1,"august",51661.1355364711,8
+"New Jersey",0,1,"december",63752.7861175,12
+"New Jersey",0,1,"february",36465.9737013744,2
+"New Jersey",0,1,"january",34560.3578811522,1
+"New Jersey",0,1,"july",50798.6879871656,7
+"New Jersey",0,1,"june",50907.9827263544,6
+"New Jersey",0,1,"march",42402.9531095611,3
+"New Jersey",0,1,"may",45621.7831533189,5
+"New Jersey",0,1,"november",80296.3070678933,11
+"New Jersey",0,1,"october",59301.7430269383,10
+"New Jersey",0,1,"september",55370.7871637125,9
+"New Jersey",0,NA,"april",13136.3881657838,4
+"New Jersey",0,NA,"august",14287.8077196562,8
+"New Jersey",0,NA,"december",11207.878886,12
+"New Jersey",0,NA,"february",13434.6847975338,2
+"New Jersey",0,NA,"january",14609.9779123963,1
+"New Jersey",0,NA,"july",14771.7862999437,7
+"New Jersey",0,NA,"june",14022.5358815712,6
+"New Jersey",0,NA,"march",13434.6847975338,3
+"New Jersey",0,NA,"may",14104.9106704713,5
+"New Jersey",0,NA,"november",17671.1112233,11
+"New Jersey",0,NA,"october",18735.190179665,10
+"New Jersey",0,NA,"september",19443.6091248571,9
+"New Jersey",1,0,"april",21971.7967252022,4
+"New Jersey",1,0,"august",30639.1343936489,8
+"New Jersey",1,0,"december",22241.5940702,12
+"New Jersey",1,0,"february",13749.3867770022,2
+"New Jersey",1,0,"january",15858.3781305167,1
+"New Jersey",1,0,"july",31968.88529035,7
+"New Jersey",1,0,"june",30665.6265765689,6
+"New Jersey",1,0,"march",24489.05422398,3
+"New Jersey",1,0,"may",28330.6047228022,5
+"New Jersey",1,0,"november",41387.61064523,11
+"New Jersey",1,0,"october",30782.5777839167,10
+"New Jersey",1,0,"september",25904.23412609,9
+"New Jersey",1,1,"april",88412.6668581833,4
+"New Jersey",1,1,"august",102682.583992912,8
+"New Jersey",1,1,"december",52887.33900355,12
+"New Jersey",1,1,"february",70967.07394675,2
+"New Jersey",1,1,"january",69200.9067100833,1
+"New Jersey",1,1,"july",103363.658584487,7
+"New Jersey",1,1,"june",97283.1479111222,6
+"New Jersey",1,1,"march",88604.1112156389,3
+"New Jersey",1,1,"may",93529.6960817533,5
+"New Jersey",1,1,"november",116112.333407507,11
+"New Jersey",1,1,"october",108639.861001212,10
+"New Jersey",1,1,"september",106418.232263466,9
+"New Jersey",1,NA,"april",56943.9305567778,4
+"New Jersey",1,NA,"august",59040.5533502744,8
+"New Jersey",1,NA,"december",36696.4148868,12
+"New Jersey",1,NA,"february",42609.0182185444,2
+"New Jersey",1,NA,"january",40958.7077750333,1
+"New Jersey",1,NA,"july",58383.7205500222,7
+"New Jersey",1,NA,"june",51025.2281186667,6
+"New Jersey",1,NA,"march",43812.3970689556,3
+"New Jersey",1,NA,"may",52665.5879917444,5
+"New Jersey",1,NA,"november",48506.3361342667,11
+"New Jersey",1,NA,"october",49208.59405975,10
+"New Jersey",1,NA,"september",56550.2549644087,9
+"New Mexico",0,0,"april",16214.4796740233,4
+"New Mexico",0,0,"august",21305.2557351267,8
+"New Mexico",0,0,"december",15224.181583975,12
+"New Mexico",0,0,"february",11808.7155093867,2
+"New Mexico",0,0,"january",11001.0934447922,1
+"New Mexico",0,0,"july",19661.8484348633,7
+"New Mexico",0,0,"june",19124.5643913767,6
+"New Mexico",0,0,"march",14641.3179155878,3
+"New Mexico",0,0,"may",16727.58360083,5
+"New Mexico",0,0,"november",27523.2093471733,11
+"New Mexico",0,0,"october",21418.33105317,10
+"New Mexico",0,0,"september",19902.9072737312,9
+"New Mexico",0,1,"april",36713.2039895922,4
+"New Mexico",0,1,"august",39828.5544611878,8
+"New Mexico",0,1,"december",22038.900704785,12
+"New Mexico",0,1,"february",30435.2037404622,2
+"New Mexico",0,1,"january",29618.3041280711,1
+"New Mexico",0,1,"july",40962.0666591356,7
+"New Mexico",0,1,"june",38073.4603738089,6
+"New Mexico",0,1,"march",33020.10271321,3
+"New Mexico",0,1,"may",37665.8538950144,5
+"New Mexico",0,1,"november",41328.9341774733,11
+"New Mexico",0,1,"october",40307.3644991417,10
+"New Mexico",0,1,"september",38875.9446011563,9
+"New Mexico",0,NA,"april",16883.7067074244,4
+"New Mexico",0,NA,"august",18053.1502212956,8
+"New Mexico",0,NA,"december",11892.85321242,12
+"New Mexico",0,NA,"february",15846.2361117411,2
+"New Mexico",0,NA,"january",13536.2107231822,1
+"New Mexico",0,NA,"july",17694.2685201167,7
+"New Mexico",0,NA,"june",17316.1598791611,6
+"New Mexico",0,NA,"march",16523.1355553133,3
+"New Mexico",0,NA,"may",16932.5897144167,5
+"New Mexico",0,NA,"november",19230.26495757,11
+"New Mexico",0,NA,"october",18159.9246899267,10
+"New Mexico",0,NA,"september",16434.2815030175,9
+"New Mexico",1,0,"april",24356.5073765167,4
+"New Mexico",1,0,"august",30968.4632790389,8
+"New Mexico",1,0,"december",22574.214362775,12
+"New Mexico",1,0,"february",15217.1878568267,2
+"New Mexico",1,0,"january",15166.3179010578,1
+"New Mexico",1,0,"july",28626.1647369156,7
+"New Mexico",1,0,"june",26802.9692355067,6
+"New Mexico",1,0,"march",18283.2951613378,3
+"New Mexico",1,0,"may",25574.1374421678,5
+"New Mexico",1,0,"november",40202.0495034133,11
+"New Mexico",1,0,"october",36675.7939568817,10
+"New Mexico",1,0,"september",35043.2211409525,9
+"New Mexico",1,1,"april",77671.4947550778,4
+"New Mexico",1,1,"august",87471.2313190044,8
+"New Mexico",1,1,"december",54172.93722968,12
+"New Mexico",1,1,"february",60867.4898773356,2
+"New Mexico",1,1,"january",61102.1737694778,1
+"New Mexico",1,1,"july",83371.2533755256,7
+"New Mexico",1,1,"june",84497.7541439522,6
+"New Mexico",1,1,"march",71054.4309385656,3
+"New Mexico",1,1,"may",79314.5811135822,5
+"New Mexico",1,1,"november",91595.1365932,11
+"New Mexico",1,1,"october",82292.70291362,10
+"New Mexico",1,1,"september",85646.3405258212,9
+"New Mexico",1,NA,"april",19157.6953868844,4
+"New Mexico",1,NA,"august",22438.3120388033,8
+"New Mexico",1,NA,"december",17363.25726433,12
+"New Mexico",1,NA,"february",14469.8832389911,2
+"New Mexico",1,NA,"january",16063.6625712511,1
+"New Mexico",1,NA,"july",22253.2563534256,7
+"New Mexico",1,NA,"june",21534.8869583211,6
+"New Mexico",1,NA,"march",17523.9361823711,3
+"New Mexico",1,NA,"may",20839.4697060478,5
+"New Mexico",1,NA,"november",26113.80270404,11
+"New Mexico",1,NA,"october",21612.2353780467,10
+"New Mexico",1,NA,"september",23059.1969283825,9
+"New York",0,0,"april",129726.530622696,4
+"New York",0,0,"august",159299.332154091,8
+"New York",0,0,"december",134350.36494807,12
+"New York",0,0,"february",106129.335310086,2
+"New York",0,0,"january",109125.204780663,1
+"New York",0,0,"july",145841.752960771,7
+"New York",0,0,"june",143618.48026415,6
+"New York",0,0,"march",118643.634583662,3
+"New York",0,0,"may",127737.092774096,5
+"New York",0,0,"november",189918.10635151,11
+"New York",0,0,"october",144832.737964729,10
+"New York",0,0,"september",160679.310814536,9
+"New York",0,1,"april",224681.139399772,4
+"New York",0,1,"august",253112.895648621,8
+"New York",0,1,"december",206506.060969955,12
+"New York",0,1,"february",202045.499500986,2
+"New York",0,1,"january",203143.86693163,1
+"New York",0,1,"july",243229.165709743,7
+"New York",0,1,"june",235653.643996832,6
+"New York",0,1,"march",214157.809433831,3
+"New York",0,1,"may",229543.824826761,5
+"New York",0,1,"november",248776.69857697,11
+"New York",0,1,"october",208492.682933253,10
+"New York",0,1,"september",243750.670890253,9
+"New York",0,NA,"april",87240.2535200222,4
+"New York",0,NA,"august",82120.3716345222,8
+"New York",0,NA,"december",178753.1832833,12
+"New York",0,NA,"february",64497.1109874667,2
+"New York",0,NA,"january",65239.6413389,1
+"New York",0,NA,"july",82601.3098634222,7
+"New York",0,NA,"june",85100.8207584222,6
+"New York",0,NA,"march",72924.2116216667,3
+"New York",0,NA,"may",84342.1735394889,5
+"New York",0,NA,"november",124257.751375533,11
+"New York",0,NA,"october",96100.3319892333,10
+"New York",0,NA,"september",87142.5901803875,9
+"New York",1,0,"april",85209.2912467178,4
+"New York",1,0,"august",96945.50881977,8
+"New York",1,0,"december",104077.190457105,12
+"New York",1,0,"february",68034.8359582567,2
+"New York",1,0,"january",68034.8359582567,1
+"New York",1,0,"july",97397.2200823089,7
+"New York",1,0,"june",117647.907018706,6
+"New York",1,0,"march",76415.8561342989,3
+"New York",1,0,"may",93592.2779242844,5
+"New York",1,0,"november",138402.119539477,11
+"New York",1,0,"october",117384.846011265,10
+"New York",1,0,"september",105005.362404704,9
+"New York",1,1,"april",366202.71831979,4
+"New York",1,1,"august",376801.64611623,8
+"New York",1,1,"december",315942.54567913,12
+"New York",1,1,"february",333164.521166798,2
+"New York",1,1,"january",335657.831833342,1
+"New York",1,1,"july",374509.490970663,7
+"New York",1,1,"june",385704.725869125,6
+"New York",1,1,"march",348054.756860792,3
+"New York",1,1,"may",379538.431014492,5
+"New York",1,1,"november",398589.222290145,11
+"New York",1,1,"october",383781.627621864,10
+"New York",1,1,"september",400092.755280371,9
+"New York",1,NA,"april",166214.764469112,4
+"New York",1,NA,"august",179050.186953846,8
+"New York",1,NA,"december",201262.3211738,12
+"New York",1,NA,"february",149837.492184746,2
+"New York",1,NA,"january",148083.692868534,1
+"New York",1,NA,"july",170922.003664723,7
+"New York",1,NA,"june",185702.768900257,6
+"New York",1,NA,"march",153912.773253346,3
+"New York",1,NA,"may",168313.037119334,5
+"New York",1,NA,"november",188969.061575833,11
+"New York",1,NA,"october",148439.35496055,10
+"New York",1,NA,"september",210840.621592362,9
+"North Carolina",0,0,"april",42581.8422274173,4
+"North Carolina",0,0,"august",50083.0859288222,8
+"North Carolina",0,0,"december",37140.3260219,12
+"North Carolina",0,0,"february",36657.2498257278,2
+"North Carolina",0,0,"january",34835.5762098611,1
+"North Carolina",0,0,"july",48600.3051436444,7
+"North Carolina",0,0,"june",45733.8264729,6
+"North Carolina",0,0,"march",38312.3457766944,3
+"North Carolina",0,0,"may",42775.2965499222,5
+"North Carolina",0,0,"november",51029.3522730833,11
+"North Carolina",0,0,"october",48808.4372733733,10
+"North Carolina",0,0,"september",51722.1244202188,9
+"North Carolina",0,1,"april",117533.278765101,4
+"North Carolina",0,1,"august",149148.14218641,8
+"North Carolina",0,1,"december",93816.352630235,12
+"North Carolina",0,1,"february",107042.717176557,2
+"North Carolina",0,1,"january",108057.680916346,1
+"North Carolina",0,1,"july",141002.760658737,7
+"North Carolina",0,1,"june",132506.543066193,6
+"North Carolina",0,1,"march",111559.139087712,3
+"North Carolina",0,1,"may",123366.73201672,5
+"North Carolina",0,1,"november",150529.72378009,11
+"North Carolina",0,1,"october",167646.247064512,10
+"North Carolina",0,1,"september",160437.777401541,9
+"North Carolina",0,NA,"april",23956.3687942267,4
+"North Carolina",0,NA,"august",32946.7819787175,8
+"North Carolina",0,NA,"december",19620.24445045,12
+"North Carolina",0,NA,"february",20017.9963133,2
+"North Carolina",0,NA,"january",27371.8205503125,1
+"North Carolina",0,NA,"july",26849.4955430675,7
+"North Carolina",0,NA,"june",27592.9796911933,6
+"North Carolina",0,NA,"march",20738.739108555,3
+"North Carolina",0,NA,"may",27009.1573154489,5
+"North Carolina",0,NA,"november",29006.3970411667,11
+"North Carolina",0,NA,"october",24147.63625108,10
+"North Carolina",0,NA,"september",23557.1322973429,9
+"North Carolina",1,0,"april",42713.3331928156,4
+"North Carolina",1,0,"august",55148.7290289478,8
+"North Carolina",1,0,"december",48633.16398797,12
+"North Carolina",1,0,"february",24982.3779590956,2
+"North Carolina",1,0,"january",24421.9522661178,1
+"North Carolina",1,0,"july",71778.5229745556,7
+"North Carolina",1,0,"june",64418.8502610222,6
+"North Carolina",1,0,"march",30293.7260932456,3
+"North Carolina",1,0,"may",52755.8487824078,5
+"North Carolina",1,0,"november",45112.7999656433,11
+"North Carolina",1,0,"october",61322.779190205,10
+"North Carolina",1,0,"september",57845.4299726075,9
+"North Carolina",1,1,"april",246179.186153898,4
+"North Carolina",1,1,"august",276864.359958851,8
+"North Carolina",1,1,"december",145703.02344577,12
+"North Carolina",1,1,"february",189148.739707611,2
+"North Carolina",1,1,"january",179114.914115511,1
+"North Carolina",1,1,"july",278019.41570154,7
+"North Carolina",1,1,"june",257555.807358562,6
+"North Carolina",1,1,"march",217782.723508794,3
+"North Carolina",1,1,"may",241658.850599569,5
+"North Carolina",1,1,"november",359742.188779178,11
+"North Carolina",1,1,"october",279520.324880929,10
+"North Carolina",1,1,"september",276775.193080364,9
+"North Carolina",1,NA,"april",139068.245114694,4
+"North Carolina",1,NA,"august",149207.394389683,8
+"North Carolina",1,NA,"december",40020.3365138,12
+"North Carolina",1,NA,"february",110315.968952689,2
+"North Carolina",1,NA,"january",118033.2131274,1
+"North Carolina",1,NA,"july",151451.619162317,7
+"North Carolina",1,NA,"june",152034.130964406,6
+"North Carolina",1,NA,"march",124055.777460906,3
+"North Carolina",1,NA,"may",144019.541108406,5
+"North Carolina",1,NA,"november",139511.7925985,11
+"North Carolina",1,NA,"october",148034.017458867,10
+"North Carolina",1,NA,"september",161918.441354813,9
+"North Dakota",0,0,"april",2109.331162804,4
+"North Dakota",0,0,"august",2300.46284971667,8
+"North Dakota",0,0,"december",1195.386179885,12
+"North Dakota",0,0,"february",2109.331162804,2
+"North Dakota",0,0,"january",2568.5315120075,1
+"North Dakota",0,0,"july",2212.85742551167,7
+"North Dakota",0,0,"june",2069.81035483,6
+"North Dakota",0,0,"march",1986.12257050333,3
+"North Dakota",0,0,"may",1986.12257050333,5
+"North Dakota",0,0,"november",1356.514098055,11
+"North Dakota",0,0,"october",1361.03593503667,10
+"North Dakota",0,0,"september",986.799734858,9
+"North Dakota",0,1,"april",2968.96393366222,4
+"North Dakota",0,1,"august",3396.65839140333,8
+"North Dakota",0,1,"december",489.19405317,12
+"North Dakota",0,1,"february",2784.04789027889,2
+"North Dakota",0,1,"january",2784.04789027889,1
+"North Dakota",0,1,"july",3322.32780041667,7
+"North Dakota",0,1,"june",3231.70956926111,6
+"North Dakota",0,1,"march",2968.96393366222,3
+"North Dakota",0,1,"may",3214.04399968444,5
+"North Dakota",0,1,"november",2225.28623359,11
+"North Dakota",0,1,"october",3204.96910822667,10
+"North Dakota",0,1,"september",3520.03276188375,9
+"North Dakota",0,NA,"april",2013.7620534,4
+"North Dakota",0,NA,"august",2146.68236488333,8
+"North Dakota",0,NA,"december",3112.18535082,12
+"North Dakota",0,NA,"february",1804.25097693,2
+"North Dakota",0,NA,"january",1804.25097693,1
+"North Dakota",0,NA,"july",2146.68236488333,7
+"North Dakota",0,NA,"june",2146.68236488333,6
+"North Dakota",0,NA,"march",2092.468003816,3
+"North Dakota",0,NA,"may",2146.68236488333,5
+"North Dakota",0,NA,"november",3112.18535082,11
+"North Dakota",0,NA,"october",2950.503982,10
+"North Dakota",0,NA,"september",2136.217564398,9
+"North Dakota",1,0,"april",2048.15621800414,4
+"North Dakota",1,0,"august",2395.58343043857,8
+"North Dakota",1,0,"december",2817.67477896,12
+"North Dakota",1,0,"february",2180.2045268715,2
+"North Dakota",1,0,"january",2118.9159615415,1
+"North Dakota",1,0,"july",2438.96117730571,7
+"North Dakota",1,0,"june",2192.18707305143,6
+"North Dakota",1,0,"march",2332.3869345365,3
+"North Dakota",1,0,"may",1819.65608995862,5
+"North Dakota",1,0,"november",2677.97452162333,11
+"North Dakota",1,0,"october",2065.565568908,10
+"North Dakota",1,0,"september",2555.03518749857,9
+"North Dakota",1,1,"april",6507.56885072667,4
+"North Dakota",1,1,"august",7538.119317313,8
+"North Dakota",1,1,"december",2285.958867175,12
+"North Dakota",1,1,"february",5968.30697693444,2
+"North Dakota",1,1,"january",5875.44278442,1
+"North Dakota",1,1,"july",6857.34466798967,7
+"North Dakota",1,1,"june",5894.14111367078,6
+"North Dakota",1,1,"march",6335.03965785444,3
+"North Dakota",1,1,"may",6040.51448508222,5
+"North Dakota",1,1,"november",6487.40482758333,11
+"North Dakota",1,1,"october",7692.48785328617,10
+"North Dakota",1,1,"september",7766.57507552337,9
+"North Dakota",1,NA,"april",2834.68876630667,4
+"North Dakota",1,NA,"august",3277.48998507778,8
+"North Dakota",1,NA,"december",3640.52288315,12
+"North Dakota",1,NA,"february",2652.48265224556,2
+"North Dakota",1,NA,"january",2617.29827996,1
+"North Dakota",1,NA,"july",2944.16080028556,7
+"North Dakota",1,NA,"june",2979.34517257111,6
+"North Dakota",1,NA,"march",2732.0379166,3
+"North Dakota",1,NA,"may",2907.44175286444,5
+"North Dakota",1,NA,"november",5730.45349636667,11
+"North Dakota",1,NA,"october",3719.699591075,10
+"North Dakota",1,NA,"september",3786.9389702375,9
+"Ohio",0,0,"april",43984.8828515178,4
+"Ohio",0,0,"august",49725.9294685622,8
+"Ohio",0,0,"december",76213.29222586,12
+"Ohio",0,0,"february",34328.6455288489,2
+"Ohio",0,0,"january",35369.2182509156,1
+"Ohio",0,0,"july",46033.6015001956,7
+"Ohio",0,0,"june",45896.1017410067,6
+"Ohio",0,0,"march",39739.9362554378,3
+"Ohio",0,0,"may",43783.8809723289,5
+"Ohio",0,0,"november",61558.26482676,11
+"Ohio",0,0,"october",49800.3261588633,10
+"Ohio",0,0,"september",47112.69687117,9
+"Ohio",0,1,"april",155182.970924353,4
+"Ohio",0,1,"august",172930.111924437,8
+"Ohio",0,1,"december",119321.96639488,12
+"Ohio",0,1,"february",133732.43100645,2
+"Ohio",0,1,"january",132597.696626069,1
+"Ohio",0,1,"july",174536.450036015,7
+"Ohio",0,1,"june",169310.199824949,6
+"Ohio",0,1,"march",144354.618847312,3
+"Ohio",0,1,"may",162398.443310449,5
+"Ohio",0,1,"november",205170.811384273,11
+"Ohio",0,1,"october",166600.577417539,10
+"Ohio",0,1,"september",176571.410326802,9
+"Ohio",0,NA,"april",30108.6733205778,4
+"Ohio",0,NA,"august",28581.5903670222,8
+"Ohio",0,NA,"december",16509.7727402,12
+"Ohio",0,NA,"february",28217.7467984889,2
+"Ohio",0,NA,"january",28391.3953528889,1
+"Ohio",0,NA,"july",29747.8996071889,7
+"Ohio",0,NA,"june",29408.2756123556,6
+"Ohio",0,NA,"march",28217.7467984889,3
+"Ohio",0,NA,"may",32484.3028156,5
+"Ohio",0,NA,"november",48254.8860730667,11
+"Ohio",0,NA,"october",35304.3103328167,10
+"Ohio",0,NA,"september",24514.2451726625,9
+"Ohio",1,0,"april",35247.4690841044,4
+"Ohio",1,0,"august",33910.3972069378,8
+"Ohio",1,0,"december",40017.59757,12
+"Ohio",1,0,"february",26620.12113106,2
+"Ohio",1,0,"january",26381.7254891989,1
+"Ohio",1,0,"july",29811.2236268156,7
+"Ohio",1,0,"june",31500.2335959044,6
+"Ohio",1,0,"march",30832.8811266033,3
+"Ohio",1,0,"may",33210.0937202933,5
+"Ohio",1,0,"november",23836.0798680267,11
+"Ohio",1,0,"october",30815.11829878,10
+"Ohio",1,0,"september",34744.3812130537,9
+"Ohio",1,1,"april",188212.416868823,4
+"Ohio",1,1,"august",214838.10513991,8
+"Ohio",1,1,"december",142737.7684976,12
+"Ohio",1,1,"february",165842.714851803,2
+"Ohio",1,1,"january",170892.614416947,1
+"Ohio",1,1,"july",214519.942448568,7
+"Ohio",1,1,"june",204452.023018358,6
+"Ohio",1,1,"march",180953.6734886,3
+"Ohio",1,1,"may",205177.480458356,5
+"Ohio",1,1,"november",204274.26304558,11
+"Ohio",1,1,"october",218393.818534797,10
+"Ohio",1,1,"september",200540.754920028,9
+"Ohio",1,NA,"april",86685.2427154,4
+"Ohio",1,NA,"august",117542.930140233,8
+"Ohio",1,NA,"december",108010.0683481,12
+"Ohio",1,NA,"february",75823.5500299111,2
+"Ohio",1,NA,"january",76984.5056956111,1
+"Ohio",1,NA,"july",102877.524292933,7
+"Ohio",1,NA,"june",100713.215883356,6
+"Ohio",1,NA,"march",81237.4290173444,3
+"Ohio",1,NA,"may",97546.5483862778,5
+"Ohio",1,NA,"november",101369.107520267,11
+"Ohio",1,NA,"october",128832.359885867,10
+"Ohio",1,NA,"september",119948.238081437,9
+"Oklahoma",0,0,"april",17914.5338031544,4
+"Oklahoma",0,0,"august",22036.4643785457,8
+"Oklahoma",0,0,"december",1983.78459437,12
+"Oklahoma",0,0,"february",14403.5290856433,2
+"Oklahoma",0,0,"january",13865.3221889411,1
+"Oklahoma",0,0,"july",22056.1425169234,7
+"Oklahoma",0,0,"june",20443.3859773423,6
+"Oklahoma",0,0,"march",16693.6499405511,3
+"Oklahoma",0,0,"may",18686.5149618356,5
+"Oklahoma",0,0,"november",15962.3527761733,11
+"Oklahoma",0,0,"october",20816.7814922233,10
+"Oklahoma",0,0,"september",18930.0356971513,9
+"Oklahoma",0,1,"april",54576.29591764,4
+"Oklahoma",0,1,"august",65024.0909835611,8
+"Oklahoma",0,1,"december",42756.529366705,12
+"Oklahoma",0,1,"february",47357.8718749222,2
+"Oklahoma",0,1,"january",48567.6743870667,1
+"Oklahoma",0,1,"july",61355.9788193144,7
+"Oklahoma",0,1,"june",59904.2659296656,6
+"Oklahoma",0,1,"march",49537.6658236267,3
+"Oklahoma",0,1,"may",57112.8325864478,5
+"Oklahoma",0,1,"november",56401.9535178367,11
+"Oklahoma",0,1,"october",66736.20283237,10
+"Oklahoma",0,1,"september",61080.7699839562,9
+"Oklahoma",0,NA,"april",12258.2964458125,4
+"Oklahoma",0,NA,"august",12136.8329832889,8
+"Oklahoma",0,NA,"december",11216.9852772,12
+"Oklahoma",0,NA,"february",10266.2873820625,2
+"Oklahoma",0,NA,"january",10622.91294185,1
+"Oklahoma",0,NA,"july",11793.8221692667,7
+"Oklahoma",0,NA,"june",12341.2083981111,6
+"Oklahoma",0,NA,"march",11535.9536863625,3
+"Oklahoma",0,NA,"may",12258.2964458125,5
+"Oklahoma",0,NA,"november",16877.2646538333,11
+"Oklahoma",0,NA,"october",14150.0499568833,10
+"Oklahoma",0,NA,"september",11979.2836506912,9
+"Oklahoma",1,0,"april",14536.0468521211,4
+"Oklahoma",1,0,"august",19985.4469992022,8
+"Oklahoma",1,0,"december",17186.22560352,12
+"Oklahoma",1,0,"february",8690.41928481111,2
+"Oklahoma",1,0,"january",7915.33157324444,1
+"Oklahoma",1,0,"july",16302.5096903067,7
+"Oklahoma",1,0,"june",14837.00670954,6
+"Oklahoma",1,0,"march",11108.4063971111,3
+"Oklahoma",1,0,"may",15285.5718854689,5
+"Oklahoma",1,0,"november",24501.00340758,11
+"Oklahoma",1,0,"october",25733.4996377317,10
+"Oklahoma",1,0,"september",25712.5156202888,9
+"Oklahoma",1,1,"april",86657.7350245089,4
+"Oklahoma",1,1,"august",104060.173437466,8
+"Oklahoma",1,1,"december",57133.12105567,12
+"Oklahoma",1,1,"february",74849.7673928056,2
+"Oklahoma",1,1,"january",72459.8222457833,1
+"Oklahoma",1,1,"july",98063.9787365933,7
+"Oklahoma",1,1,"june",94497.5007619989,6
+"Oklahoma",1,1,"march",84608.8331208533,3
+"Oklahoma",1,1,"may",92234.5986018033,5
+"Oklahoma",1,1,"november",105209.19680554,11
+"Oklahoma",1,1,"october",102610.088713793,10
+"Oklahoma",1,1,"september",112231.069634646,9
+"Oklahoma",1,NA,"april",32121.0805566378,4
+"Oklahoma",1,NA,"august",38609.7589186133,8
+"Oklahoma",1,NA,"december",23935.39925315,12
+"Oklahoma",1,NA,"february",27958.1446242078,2
+"Oklahoma",1,NA,"january",28820.3920391967,1
+"Oklahoma",1,NA,"july",38369.54030356,7
+"Oklahoma",1,NA,"june",37630.8590520044,6
+"Oklahoma",1,NA,"march",30104.9537957233,3
+"Oklahoma",1,NA,"may",35477.5674603822,5
+"Oklahoma",1,NA,"november",42299.82255172,11
+"Oklahoma",1,NA,"october",36516.9375135383,10
+"Oklahoma",1,NA,"september",41047.5300272488,9
+"Oregon",0,0,"april",61516.122775968,4
+"Oregon",0,0,"august",70025.7372270713,8
+"Oregon",0,0,"december",47114.382433645,12
+"Oregon",0,0,"february",45168.0169025936,2
+"Oregon",0,0,"january",43871.3322199047,1
+"Oregon",0,0,"july",67334.3489825602,7
+"Oregon",0,0,"june",65993.640451738,6
+"Oregon",0,0,"march",52232.663559468,3
+"Oregon",0,0,"may",66097.2414324024,5
+"Oregon",0,0,"november",67365.391500044,11
+"Oregon",0,0,"october",65916.5307266053,10
+"Oregon",0,0,"september",72009.3134732727,9
+"Oregon",0,1,"april",108933.979308241,4
+"Oregon",0,1,"august",118240.911332779,8
+"Oregon",0,1,"december",95295.314357275,12
+"Oregon",0,1,"february",96444.1538443433,2
+"Oregon",0,1,"january",96764.2489532722,1
+"Oregon",0,1,"july",116474.537338041,7
+"Oregon",0,1,"june",114743.79714267,6
+"Oregon",0,1,"march",102489.377896647,3
+"Oregon",0,1,"may",111368.9223663,5
+"Oregon",0,1,"november",127079.93758223,11
+"Oregon",0,1,"october",109732.616703085,10
+"Oregon",0,1,"september",118046.087369848,9
+"Oregon",0,NA,"april",22513.9092311722,4
+"Oregon",0,NA,"august",26636.9145660044,8
+"Oregon",0,NA,"december",20386.9584198,12
+"Oregon",0,NA,"february",17768.3997351856,2
+"Oregon",0,NA,"january",17706.0244072867,1
+"Oregon",0,NA,"july",25720.9010451311,7
+"Oregon",0,NA,"june",24411.3509077633,6
+"Oregon",0,NA,"march",19342.4529081533,3
+"Oregon",0,NA,"may",22894.7048199578,5
+"Oregon",0,NA,"november",25387.98991997,11
+"Oregon",0,NA,"october",27848.2197794333,10
+"Oregon",0,NA,"september",27475.2186511813,9
+"Oregon",1,0,"april",26331.4565562511,4
+"Oregon",1,0,"august",35468.4338818178,8
+"Oregon",1,0,"december",22494.244493735,12
+"Oregon",1,0,"february",16363.9463027011,2
+"Oregon",1,0,"january",16132.40377121,1
+"Oregon",1,0,"july",31108.2467331,7
+"Oregon",1,0,"june",29585.3431724844,6
+"Oregon",1,0,"march",20476.9842719078,3
+"Oregon",1,0,"may",27963.3028216011,5
+"Oregon",1,0,"november",35992.7807843967,11
+"Oregon",1,0,"october",36669.6014046717,10
+"Oregon",1,0,"september",34051.3760114687,9
+"Oregon",1,1,"april",106661.824116436,4
+"Oregon",1,1,"august",118898.338084801,8
+"Oregon",1,1,"december",80690.93208029,12
+"Oregon",1,1,"february",86113.9835101533,2
+"Oregon",1,1,"january",86237.5470047178,1
+"Oregon",1,1,"july",114865.07461658,7
+"Oregon",1,1,"june",114230.624478494,6
+"Oregon",1,1,"march",97995.3548953878,3
+"Oregon",1,1,"may",110151.957831831,5
+"Oregon",1,1,"november",132612.8587225,11
+"Oregon",1,1,"october",115166.59904024,10
+"Oregon",1,1,"september",123033.717241868,9
+"Oregon",1,NA,"april",43409.9594927767,4
+"Oregon",1,NA,"august",51348.8855349389,8
+"Oregon",1,NA,"december",21684.95103783,12
+"Oregon",1,NA,"february",35629.4074377822,2
+"Oregon",1,NA,"january",34092.50528295,1
+"Oregon",1,NA,"july",49174.1597131089,7
+"Oregon",1,NA,"june",49015.4970088844,6
+"Oregon",1,NA,"march",39519.5345010089,3
+"Oregon",1,NA,"may",44647.9567570456,5
+"Oregon",1,NA,"november",42687.3817773467,11
+"Oregon",1,NA,"october",49194.8613081817,10
+"Oregon",1,NA,"september",54464.75648421,9
+"Pennsylvania",0,0,"april",103643.534414422,4
+"Pennsylvania",0,0,"august",122410.852416464,8
+"Pennsylvania",0,0,"december",94696.02030091,12
+"Pennsylvania",0,0,"february",79763.6881678833,2
+"Pennsylvania",0,0,"january",77355.9959177944,1
+"Pennsylvania",0,0,"july",115455.775706293,7
+"Pennsylvania",0,0,"june",116690.799721986,6
+"Pennsylvania",0,0,"march",93069.9209966833,3
+"Pennsylvania",0,0,"may",113364.757318601,5
+"Pennsylvania",0,0,"november",97774.7154457967,11
+"Pennsylvania",0,0,"october",118616.44994638,10
+"Pennsylvania",0,0,"september",117583.617854784,9
+"Pennsylvania",0,1,"april",175078.587513284,4
+"Pennsylvania",0,1,"august",191425.79581414,8
+"Pennsylvania",0,1,"december",135982.301370205,12
+"Pennsylvania",0,1,"february",154722.108735985,2
+"Pennsylvania",0,1,"january",154881.52314412,1
+"Pennsylvania",0,1,"july",181305.157114763,7
+"Pennsylvania",0,1,"june",179944.613226936,6
+"Pennsylvania",0,1,"march",164918.52560694,3
+"Pennsylvania",0,1,"may",177720.897310414,5
+"Pennsylvania",0,1,"november",196754.902719426,11
+"Pennsylvania",0,1,"october",180995.734399245,10
+"Pennsylvania",0,1,"september",191888.457250713,9
+"Pennsylvania",0,NA,"april",50261.6285028778,4
+"Pennsylvania",0,NA,"august",52056.6291740889,8
+"Pennsylvania",0,NA,"december",52128.66064705,12
+"Pennsylvania",0,NA,"february",46086.2496171889,2
+"Pennsylvania",0,NA,"january",47773.6527772667,1
+"Pennsylvania",0,NA,"july",50288.6517774778,7
+"Pennsylvania",0,NA,"june",50161.3376465889,6
+"Pennsylvania",0,NA,"march",52574.4543068222,3
+"Pennsylvania",0,NA,"may",51183.9534137556,5
+"Pennsylvania",0,NA,"november",58197.147636,11
+"Pennsylvania",0,NA,"october",52888.6882349833,10
+"Pennsylvania",0,NA,"september",52100.552254975,9
+"Pennsylvania",1,0,"april",59501.8120707378,4
+"Pennsylvania",1,0,"august",69971.32526965,8
+"Pennsylvania",1,0,"december",45482.457798055,12
+"Pennsylvania",1,0,"february",44619.0770082067,2
+"Pennsylvania",1,0,"january",41264.9242727622,1
+"Pennsylvania",1,0,"july",68186.0347040756,7
+"Pennsylvania",1,0,"june",67751.6442155556,6
+"Pennsylvania",1,0,"march",51834.7585728189,3
+"Pennsylvania",1,0,"may",67767.0705905167,5
+"Pennsylvania",1,0,"november",80048.69108927,11
+"Pennsylvania",1,0,"october",67048.9562093467,10
+"Pennsylvania",1,0,"september",64553.9599835437,9
+"Pennsylvania",1,1,"april",220849.20660728,4
+"Pennsylvania",1,1,"august",239334.711101627,8
+"Pennsylvania",1,1,"december",90712.757926415,12
+"Pennsylvania",1,1,"february",194621.353142474,2
+"Pennsylvania",1,1,"january",194011.465606322,1
+"Pennsylvania",1,1,"july",235524.311542182,7
+"Pennsylvania",1,1,"june",235238.311017849,6
+"Pennsylvania",1,1,"march",211962.50667663,3
+"Pennsylvania",1,1,"may",229304.360989549,5
+"Pennsylvania",1,1,"november",196717.09270267,11
+"Pennsylvania",1,1,"october",210013.54403284,10
+"Pennsylvania",1,1,"september",236264.172970144,9
+"Pennsylvania",1,NA,"april",113523.123663322,4
+"Pennsylvania",1,NA,"august",113952.944229267,8
+"Pennsylvania",1,NA,"december",63685.56180496,12
+"Pennsylvania",1,NA,"february",94675.6689709556,2
+"Pennsylvania",1,NA,"january",94460.3175996778,1
+"Pennsylvania",1,NA,"july",112617.807095733,7
+"Pennsylvania",1,NA,"june",112389.712187689,6
+"Pennsylvania",1,NA,"march",106084.913274351,3
+"Pennsylvania",1,NA,"may",115756.598462644,5
+"Pennsylvania",1,NA,"november",129866.945250107,11
+"Pennsylvania",1,NA,"october",100706.14486332,10
+"Pennsylvania",1,NA,"september",101789.736303511,9
+"Rhode Island",0,0,"april",9514.87336213444,4
+"Rhode Island",0,0,"august",8851.66920727778,8
+"Rhode Island",0,0,"december",10226.183146565,12
+"Rhode Island",0,0,"february",8078.65895777444,2
+"Rhode Island",0,0,"january",8033.34349646333,1
+"Rhode Island",0,0,"july",9161.89863591778,7
+"Rhode Island",0,0,"june",8977.73393004889,6
+"Rhode Island",0,0,"march",8766.55870793889,3
+"Rhode Island",0,0,"may",9006.29600250778,5
+"Rhode Island",0,0,"november",13190.9199555833,11
+"Rhode Island",0,0,"october",8872.99371785667,10
+"Rhode Island",0,0,"september",8713.50451288,9
+"Rhode Island",0,1,"april",18385.6977020663,4
+"Rhode Island",0,1,"august",19535.3412857074,8
+"Rhode Island",0,1,"december",11484.43793321,12
+"Rhode Island",0,1,"february",16483.4972602808,2
+"Rhode Island",0,1,"january",16839.581066983,1
+"Rhode Island",0,1,"july",19262.2278667574,7
+"Rhode Island",0,1,"june",19240.3764024619,6
+"Rhode Island",0,1,"march",17594.9408417608,3
+"Rhode Island",0,1,"may",20003.0424821597,5
+"Rhode Island",0,1,"november",17444.1796363167,11
+"Rhode Island",0,1,"october",20082.1309563167,10
+"Rhode Island",0,1,"september",21550.9124416171,9
+"Rhode Island",0,NA,"april",4541.07804822555,4
+"Rhode Island",0,NA,"august",4566.49834833556,8
+"Rhode Island",0,NA,"december",5474.32094613,12
+"Rhode Island",0,NA,"february",3958.84960751333,2
+"Rhode Island",0,NA,"january",3958.84960751333,1
+"Rhode Island",0,NA,"july",4454.68889586222,7
+"Rhode Island",0,NA,"june",4454.68889586222,6
+"Rhode Island",0,NA,"march",4676.87082569667,3
+"Rhode Island",0,NA,"may",4652.01004487444,5
+"Rhode Island",0,NA,"november",4855.17149636667,11
+"Rhode Island",0,NA,"october",4686.63331600667,10
+"Rhode Island",0,NA,"september",4478.63104626375,9
+"Rhode Island",1,0,"april",6689.77778139375,4
+"Rhode Island",1,0,"august",4542.04435779667,8
+"Rhode Island",1,0,"december",10877.55814916,12
+"Rhode Island",1,0,"february",4954.29818111625,2
+"Rhode Island",1,0,"january",4514.98478692875,1
+"Rhode Island",1,0,"july",4395.37000067556,7
+"Rhode Island",1,0,"june",6554.29203526,6
+"Rhode Island",1,0,"march",5370.74166700375,3
+"Rhode Island",1,0,"may",6988.73296821375,5
+"Rhode Island",1,0,"november",9271.65376109333,11
+"Rhode Island",1,0,"october",4282.734822074,10
+"Rhode Island",1,0,"september",6167.66931207,9
+"Rhode Island",1,1,"april",16730.2646633311,4
+"Rhode Island",1,1,"august",16802.5736468033,8
+"Rhode Island",1,1,"december",9253.517752235,12
+"Rhode Island",1,1,"february",14889.1315306978,2
+"Rhode Island",1,1,"january",15427.9074459967,1
+"Rhode Island",1,1,"july",16200.3490091167,7
+"Rhode Island",1,1,"june",16821.6008759778,6
+"Rhode Island",1,1,"march",16447.9390834433,3
+"Rhode Island",1,1,"may",16877.6476085211,5
+"Rhode Island",1,1,"november",17966.44203474,11
+"Rhode Island",1,1,"october",16420.8158160217,10
+"Rhode Island",1,1,"september",17099.4260404888,9
+"Rhode Island",1,NA,"april",6086.07695812667,4
+"Rhode Island",1,NA,"august",5499.1943555,8
+"Rhode Island",1,NA,"december",3479.34046711,12
+"Rhode Island",1,NA,"february",5468.78621274667,2
+"Rhode Island",1,NA,"january",5437.55117901444,1
+"Rhode Island",1,NA,"july",5423.33096306889,7
+"Rhode Island",1,NA,"june",6447.43522842222,6
+"Rhode Island",1,NA,"march",5956.4559057,3
+"Rhode Island",1,NA,"may",6471.93806468111,5
+"Rhode Island",1,NA,"november",7085.86738171667,11
+"Rhode Island",1,NA,"october",5764.28650480833,10
+"Rhode Island",1,NA,"september",5938.974025855,9
+"South Carolina",0,0,"april",13919.1161414989,4
+"South Carolina",0,0,"august",15949.7032505311,8
+"South Carolina",0,0,"december",9367.2446909,12
+"South Carolina",0,0,"february",8565.05247535,2
+"South Carolina",0,0,"january",9111.1977170625,1
+"South Carolina",0,0,"july",15448.8052584989,7
+"South Carolina",0,0,"june",14832.8154484211,6
+"South Carolina",0,0,"march",12477.1163773125,3
+"South Carolina",0,0,"may",14832.8154484211,5
+"South Carolina",0,0,"november",17405.8557602667,11
+"South Carolina",0,0,"october",18304.0304339067,10
+"South Carolina",0,0,"september",15753.64696143,9
+"South Carolina",0,1,"april",63480.8098035376,4
+"South Carolina",0,1,"august",62870.1188982009,8
+"South Carolina",0,1,"december",54449.887357165,12
+"South Carolina",0,1,"february",58790.7670909576,2
+"South Carolina",0,1,"january",57610.525078382,1
+"South Carolina",0,1,"july",65968.2153728609,7
+"South Carolina",0,1,"june",65135.4790270464,6
+"South Carolina",0,1,"march",61110.5070588876,3
+"South Carolina",0,1,"may",63650.7462835831,5
+"South Carolina",0,1,"november",107885.334240777,11
+"South Carolina",0,1,"october",76459.159460643,10
+"South Carolina",0,1,"september",70520.311924216,9
+"South Carolina",0,NA,"april",7971.09730394125,4
+"South Carolina",0,NA,"august",9885.43014177875,8
+"South Carolina",0,NA,"february",7784.52644663333,2
+"South Carolina",0,NA,"january",7784.52644663333,1
+"South Carolina",0,NA,"july",9918.10816400333,7
+"South Carolina",0,NA,"june",8550.35618973667,6
+"South Carolina",0,NA,"march",8214.68990573333,3
+"South Carolina",0,NA,"may",8139.30017506625,5
+"South Carolina",0,NA,"november",8177.43528875,11
+"South Carolina",0,NA,"october",11882.05901846,10
+"South Carolina",0,NA,"september",11372.0703449757,9
+"South Carolina",1,0,"april",8283.84961756778,4
+"South Carolina",1,0,"august",17535.9954212644,8
+"South Carolina",1,0,"december",30513.5157742,12
+"South Carolina",1,0,"february",7528.94051850778,2
+"South Carolina",1,0,"january",6958.74675748556,1
+"South Carolina",1,0,"july",13402.6060117789,7
+"South Carolina",1,0,"june",11170.39698899,6
+"South Carolina",1,0,"march",7290.56222147889,3
+"South Carolina",1,0,"may",11261.5958531956,5
+"South Carolina",1,0,"november",28861.3746044367,11
+"South Carolina",1,0,"october",20984.7816114683,10
+"South Carolina",1,0,"september",16805.592068605,9
+"South Carolina",1,1,"april",108234.805436083,4
+"South Carolina",1,1,"august",132860.256122111,8
+"South Carolina",1,1,"december",63286.571236815,12
+"South Carolina",1,1,"february",91471.4747463267,2
+"South Carolina",1,1,"january",93597.2820021711,1
+"South Carolina",1,1,"july",121303.28671318,7
+"South Carolina",1,1,"june",125483.220962918,6
+"South Carolina",1,1,"march",104068.686725251,3
+"South Carolina",1,1,"may",114606.409070163,5
+"South Carolina",1,1,"november",127348.737050573,11
+"South Carolina",1,1,"october",134025.276120028,10
+"South Carolina",1,1,"september",124875.724453751,9
+"South Carolina",1,NA,"april",50383.9096637867,4
+"South Carolina",1,NA,"august",52523.6609239744,8
+"South Carolina",1,NA,"december",36457.8584878,12
+"South Carolina",1,NA,"february",39393.2786920867,2
+"South Carolina",1,NA,"january",43998.1770342089,1
+"South Carolina",1,NA,"july",53114.9508392967,7
+"South Carolina",1,NA,"june",50711.0602908522,6
+"South Carolina",1,NA,"march",53054.1013751533,3
+"South Carolina",1,NA,"may",50979.6368896533,5
+"South Carolina",1,NA,"november",75506.3753915567,11
+"South Carolina",1,NA,"october",61122.660531285,10
+"South Carolina",1,NA,"september",53133.6836812788,9
+"South Dakota",0,0,"april",1535.79846433,4
+"South Dakota",0,0,"august",2418.07034229286,8
+"South Dakota",0,0,"december",680.41199943,12
+"South Dakota",0,0,"february",1417.01368907667,2
+"South Dakota",0,0,"january",1374.21703016571,1
+"South Dakota",0,0,"july",2353.03512278714,7
+"South Dakota",0,0,"june",1712.85563693333,6
+"South Dakota",0,0,"march",1509.3722735,3
+"South Dakota",0,0,"may",1509.3722735,5
+"South Dakota",0,0,"november",3424.992617215,11
+"South Dakota",0,0,"october",2061.825393662,10
+"South Dakota",0,0,"september",2566.64276866667,9
+"South Dakota",0,1,"april",6207.28315619911,4
+"South Dakota",0,1,"august",6746.10304479356,8
+"South Dakota",0,1,"december",3031.553604625,12
+"South Dakota",0,1,"february",5152.51721055578,2
+"South Dakota",0,1,"january",5002.39740957578,1
+"South Dakota",0,1,"july",6191.67397873689,7
+"South Dakota",0,1,"june",6298.82432869244,6
+"South Dakota",0,1,"march",5931.20780476911,3
+"South Dakota",0,1,"may",6249.64180011578,5
+"South Dakota",0,1,"november",4943.93113761333,11
+"South Dakota",0,1,"october",5869.65521178033,10
+"South Dakota",0,1,"september",5775.11763571525,9
+"South Dakota",0,NA,"april",1730.91301983333,4
+"South Dakota",0,NA,"august",1483.33273048667,8
+"South Dakota",0,NA,"february",1236.38006232,2
+"South Dakota",0,NA,"january",1236.38006232,1
+"South Dakota",0,NA,"july",1313.01814758333,7
+"South Dakota",0,NA,"june",1313.01814758333,6
+"South Dakota",0,NA,"march",1313.01814758333,3
+"South Dakota",0,NA,"may",1394.52279040167,5
+"South Dakota",0,NA,"november",2139.49557175,11
+"South Dakota",0,NA,"october",1509.17764676333,10
+"South Dakota",0,NA,"september",1574.15426181,9
+"South Dakota",1,0,"april",2177.964492756,4
+"South Dakota",1,0,"august",1896.66921160911,8
+"South Dakota",1,0,"december",568.951292275,12
+"South Dakota",1,0,"february",1447.70952447,2
+"South Dakota",1,0,"january",1504.19961608286,1
+"South Dakota",1,0,"july",2017.354806348,7
+"South Dakota",1,0,"june",1857.72544385244,6
+"South Dakota",1,0,"march",1931.612568926,3
+"South Dakota",1,0,"may",2246.37644229171,5
+"South Dakota",1,0,"november",2483.09204955333,11
+"South Dakota",1,0,"october",2036.99025227033,10
+"South Dakota",1,0,"september",1877.500786399,9
+"South Dakota",1,1,"april",8842.73010893111,4
+"South Dakota",1,1,"august",9699.60284722022,8
+"South Dakota",1,1,"december",6370.687457395,12
+"South Dakota",1,1,"february",8284.74980453689,2
+"South Dakota",1,1,"january",8377.13944629245,1
+"South Dakota",1,1,"july",9754.69633563244,7
+"South Dakota",1,1,"june",10536.2641775391,6
+"South Dakota",1,1,"march",8707.40712185022,3
+"South Dakota",1,1,"may",9306.03789107778,5
+"South Dakota",1,1,"november",12191.4958598267,11
+"South Dakota",1,1,"october",10134.271416987,10
+"South Dakota",1,1,"september",9663.4241170765,9
+"South Dakota",1,NA,"april",4664.31177150375,4
+"South Dakota",1,NA,"august",5316.5445802475,8
+"South Dakota",1,NA,"december",5981.34427443,12
+"South Dakota",1,NA,"february",4237.5307417275,2
+"South Dakota",1,NA,"january",4049.0662514775,1
+"South Dakota",1,NA,"july",4887.76026407875,7
+"South Dakota",1,NA,"june",4025.05030224778,6
+"South Dakota",1,NA,"march",4321.8612315475,3
+"South Dakota",1,NA,"may",4281.6278990075,5
+"South Dakota",1,NA,"november",6603.33850785,11
+"South Dakota",1,NA,"october",5828.97286674,10
+"South Dakota",1,NA,"september",5401.55854601714,9
+"Tennessee",0,0,"april",25498.30138399,4
+"Tennessee",0,0,"august",36170.9899240911,8
+"Tennessee",0,0,"december",21048.51567375,12
+"Tennessee",0,0,"february",20122.31584986,2
+"Tennessee",0,0,"january",20215.9979894656,1
+"Tennessee",0,0,"july",32511.7027748944,7
+"Tennessee",0,0,"june",27677.2732381578,6
+"Tennessee",0,0,"march",21666.1278985033,3
+"Tennessee",0,0,"may",25086.4148071111,5
+"Tennessee",0,0,"november",45598.45581567,11
+"Tennessee",0,0,"october",38063.229559095,10
+"Tennessee",0,0,"september",35340.0784246312,9
+"Tennessee",0,1,"april",101342.529428687,4
+"Tennessee",0,1,"august",106622.290142027,8
+"Tennessee",0,1,"december",44059.71653336,12
+"Tennessee",0,1,"february",91286.747424463,2
+"Tennessee",0,1,"january",90880.4233987408,1
+"Tennessee",0,1,"july",102131.364194226,7
+"Tennessee",0,1,"june",104409.79613918,6
+"Tennessee",0,1,"march",94882.7273365297,3
+"Tennessee",0,1,"may",98332.3053712097,5
+"Tennessee",0,1,"november",102873.445715287,11
+"Tennessee",0,1,"october",104529.355214413,10
+"Tennessee",0,1,"september",109885.80598972,9
+"Tennessee",0,NA,"april",15435.0467873,4
+"Tennessee",0,NA,"august",21628.9879562778,8
+"Tennessee",0,NA,"december",15423.2258128,12
+"Tennessee",0,NA,"february",12818.9106816625,2
+"Tennessee",0,NA,"january",15011.9663301222,1
+"Tennessee",0,NA,"july",17712.0799323556,7
+"Tennessee",0,NA,"june",16771.3478852889,6
+"Tennessee",0,NA,"march",15331.0677354962,3
+"Tennessee",0,NA,"may",16361.4148419,5
+"Tennessee",0,NA,"november",14456.7327004333,11
+"Tennessee",0,NA,"october",16664.6542876383,10
+"Tennessee",0,NA,"september",22450.0384003875,9
+"Tennessee",1,0,"april",24293.9142892078,4
+"Tennessee",1,0,"august",27058.72587866,8
+"Tennessee",1,0,"december",28247.026766645,12
+"Tennessee",1,0,"february",14917.26951174,2
+"Tennessee",1,0,"january",14917.26951174,1
+"Tennessee",1,0,"july",23608.8259694633,7
+"Tennessee",1,0,"june",25926.2701053467,6
+"Tennessee",1,0,"march",23116.0458187633,3
+"Tennessee",1,0,"may",26422.7718422689,5
+"Tennessee",1,0,"november",44937.7393088633,11
+"Tennessee",1,0,"october",29578.4724269917,10
+"Tennessee",1,0,"september",31007.4065693313,9
+"Tennessee",1,1,"april",143244.137782293,4
+"Tennessee",1,1,"august",160426.306298016,8
+"Tennessee",1,1,"december",77235.161545865,12
+"Tennessee",1,1,"february",117870.417869577,2
+"Tennessee",1,1,"january",115618.205862919,1
+"Tennessee",1,1,"july",158434.479654462,7
+"Tennessee",1,1,"june",151784.053090581,6
+"Tennessee",1,1,"march",131838.42958503,3
+"Tennessee",1,1,"may",150553.476960248,5
+"Tennessee",1,1,"november",190975.399308177,11
+"Tennessee",1,1,"october",170508.701952273,10
+"Tennessee",1,1,"september",155604.808847029,9
+"Tennessee",1,NA,"april",51585.8795071411,4
+"Tennessee",1,NA,"august",54039.8827257122,8
+"Tennessee",1,NA,"december",37009.768975,12
+"Tennessee",1,NA,"february",43946.9884040567,2
+"Tennessee",1,NA,"january",43535.3279191456,1
+"Tennessee",1,NA,"july",50894.9179110533,7
+"Tennessee",1,NA,"june",55803.2323007744,6
+"Tennessee",1,NA,"march",48534.4198924633,3
+"Tennessee",1,NA,"may",51234.2154822633,5
+"Tennessee",1,NA,"november",42065.7328242333,11
+"Tennessee",1,NA,"october",39900.706289485,10
+"Tennessee",1,NA,"september",52835.7897060387,9
+"Texas",0,0,"april",110222.111055727,4
+"Texas",0,0,"august",147339.852346806,8
+"Texas",0,0,"december",86681.021758565,12
+"Texas",0,0,"february",88677.8752393078,2
+"Texas",0,0,"january",84478.7464894444,1
+"Texas",0,0,"july",129300.567093063,7
+"Texas",0,0,"june",123092.812908614,6
+"Texas",0,0,"march",96654.2019039622,3
+"Texas",0,0,"may",119878.559499933,5
+"Texas",0,0,"november",198792.701035073,11
+"Texas",0,0,"october",137980.553435463,10
+"Texas",0,0,"september",147982.536960249,9
+"Texas",0,1,"april",267510.381373767,4
+"Texas",0,1,"august",340771.273685392,8
+"Texas",0,1,"december",195720.470566915,12
+"Texas",0,1,"february",221948.872557951,2
+"Texas",0,1,"january",223625.688483313,1
+"Texas",0,1,"july",303453.457321228,7
+"Texas",0,1,"june",296524.245664593,6
+"Texas",0,1,"march",255092.316941634,3
+"Texas",0,1,"may",287625.233474842,5
+"Texas",0,1,"november",352657.08056209,11
+"Texas",0,1,"october",321265.177242995,10
+"Texas",0,1,"september",318722.981460062,9
+"Texas",0,NA,"april",71475.3929727711,4
+"Texas",0,NA,"august",115944.622339137,8
+"Texas",0,NA,"december",42363.77471575,12
+"Texas",0,NA,"february",52038.5122404156,2
+"Texas",0,NA,"january",54916.8004980167,1
+"Texas",0,NA,"july",111864.495266281,7
+"Texas",0,NA,"june",111500.09068337,6
+"Texas",0,NA,"march",58416.6902790933,3
+"Texas",0,NA,"may",74627.3746010822,5
+"Texas",0,NA,"november",75114.7523317667,11
+"Texas",0,NA,"october",66769.0405202833,10
+"Texas",0,NA,"september",112382.118728929,9
+"Texas",1,0,"april",112727.558175243,4
+"Texas",1,0,"august",132105.714174838,8
+"Texas",1,0,"december",95895.2476084,12
+"Texas",1,0,"february",63360.53744931,2
+"Texas",1,0,"january",62197.9767410189,1
+"Texas",1,0,"july",134066.322075162,7
+"Texas",1,0,"june",126025.851781606,6
+"Texas",1,0,"march",91556.97677299,3
+"Texas",1,0,"may",119622.186918621,5
+"Texas",1,0,"november",141454.53529037,11
+"Texas",1,0,"october",106031.326214767,10
+"Texas",1,0,"september",132959.207150233,9
+"Texas",1,1,"april",570568.568218187,4
+"Texas",1,1,"august",649042.929688297,8
+"Texas",1,1,"december",439350.600791595,12
+"Texas",1,1,"february",422035.697306062,2
+"Texas",1,1,"january",426363.156822651,1
+"Texas",1,1,"july",647055.765600693,7
+"Texas",1,1,"june",635480.728939347,6
+"Texas",1,1,"march",503901.114939536,3
+"Texas",1,1,"may",588579.656852701,5
+"Texas",1,1,"november",724382.954792923,11
+"Texas",1,1,"october",631258.476045123,10
+"Texas",1,1,"september",643117.917702236,9
+"Texas",1,NA,"april",256961.872239033,4
+"Texas",1,NA,"august",300366.131133439,8
+"Texas",1,NA,"december",255789.93481265,12
+"Texas",1,NA,"february",221019.79776257,2
+"Texas",1,NA,"january",220431.368921103,1
+"Texas",1,NA,"july",289167.154758728,7
+"Texas",1,NA,"june",286920.223047808,6
+"Texas",1,NA,"march",240897.548775221,3
+"Texas",1,NA,"may",271647.93710311,5
+"Texas",1,NA,"november",541607.164916947,11
+"Texas",1,NA,"october",370791.17807874,10
+"Texas",1,NA,"september",297856.427365434,9
+"Utah",0,0,"april",5850.31752144889,4
+"Utah",0,0,"august",6654.06104791111,8
+"Utah",0,0,"december",3365.62166031,12
+"Utah",0,0,"february",4575.68910594,2
+"Utah",0,0,"january",4531.64173830778,1
+"Utah",0,0,"july",6715.16668093778,7
+"Utah",0,0,"june",7026.29760676111,6
+"Utah",0,0,"march",4830.84234768444,3
+"Utah",0,0,"may",6574.26855456111,5
+"Utah",0,0,"november",11259.4214722533,11
+"Utah",0,0,"october",6988.03144316833,10
+"Utah",0,0,"september",6298.7154440575,9
+"Utah",0,1,"april",9761.92431691267,4
+"Utah",0,1,"august",9866.87310031933,8
+"Utah",0,1,"december",3623.279294235,12
+"Utah",0,1,"february",8996.97721007111,2
+"Utah",0,1,"january",9502.83558162778,1
+"Utah",0,1,"july",9818.12971495267,7
+"Utah",0,1,"june",10070.3469898116,6
+"Utah",0,1,"march",8995.96693009933,3
+"Utah",0,1,"may",9787.96624355045,5
+"Utah",0,1,"november",7726.330137538,11
+"Utah",0,1,"october",12640.8675111157,10
+"Utah",0,1,"september",9655.28124417425,9
+"Utah",0,NA,"april",4306.311850797,4
+"Utah",0,NA,"august",4132.014260357,8
+"Utah",0,NA,"december",13020.5426477,12
+"Utah",0,NA,"february",4150.70135682657,2
+"Utah",0,NA,"january",4078.260846142,1
+"Utah",0,NA,"july",3972.811328602,7
+"Utah",0,NA,"june",3498.19651178289,6
+"Utah",0,NA,"march",3755.87867687075,3
+"Utah",0,NA,"may",3836.859411122,5
+"Utah",0,NA,"november",8352.28276048467,11
+"Utah",0,NA,"october",5171.4549101812,10
+"Utah",0,NA,"september",3841.36172295825,9
+"Utah",1,0,"april",7518.78618340933,4
+"Utah",1,0,"august",9494.48680706578,8
+"Utah",1,0,"december",10988.79253579,12
+"Utah",1,0,"february",5152.07379599044,2
+"Utah",1,0,"january",4991.00696724267,1
+"Utah",1,0,"july",8416.793115748,7
+"Utah",1,0,"june",8260.75711414156,6
+"Utah",1,0,"march",6155.68495917822,3
+"Utah",1,0,"may",8427.02943387267,5
+"Utah",1,0,"november",16157.4903983567,11
+"Utah",1,0,"october",11895.80275021,10
+"Utah",1,0,"september",10990.4458362397,9
+"Utah",1,1,"april",18045.3956111062,4
+"Utah",1,1,"august",24697.930947634,8
+"Utah",1,1,"december",18083.00945214,12
+"Utah",1,1,"february",16983.5101759522,2
+"Utah",1,1,"january",15781.2162505567,1
+"Utah",1,1,"july",21305.9962808284,7
+"Utah",1,1,"june",19420.5290352329,6
+"Utah",1,1,"march",17709.3523593378,3
+"Utah",1,1,"may",19426.5988804029,5
+"Utah",1,1,"november",23773.79039262,11
+"Utah",1,1,"october",22276.90983276,10
+"Utah",1,1,"september",26494.0495005957,9
+"Utah",1,NA,"april",6692.14380106667,4
+"Utah",1,NA,"august",10454.7306410611,8
+"Utah",1,NA,"december",3822.55713315,12
+"Utah",1,NA,"february",6907.60259451556,2
+"Utah",1,NA,"january",6567.18691799667,1
+"Utah",1,NA,"july",10008.0191189133,7
+"Utah",1,NA,"june",7169.11395805111,6
+"Utah",1,NA,"march",7733.64357674111,3
+"Utah",1,NA,"may",6645.38664133333,5
+"Utah",1,NA,"november",9142.40537234667,11
+"Utah",1,NA,"october",8674.42271738667,10
+"Utah",1,NA,"september",9933.4744953375,9
+"Vermont",0,0,"april",2252.17580093222,4
+"Vermont",0,0,"august",2470.33709996667,8
+"Vermont",0,0,"december",1385.60263804,12
+"Vermont",0,0,"february",1936.86849651111,2
+"Vermont",0,0,"january",1883.15765510556,1
+"Vermont",0,0,"july",2261.70760213778,7
+"Vermont",0,0,"june",2261.70760213778,6
+"Vermont",0,0,"march",1919.78313964111,3
+"Vermont",0,0,"may",2172.37436399,5
+"Vermont",0,0,"november",2885.37904153,11
+"Vermont",0,0,"october",2140.200310485,10
+"Vermont",0,0,"september",2419.7251329285,9
+"Vermont",0,1,"april",10814.0296922319,4
+"Vermont",0,1,"august",9897.16409986522,8
+"Vermont",0,1,"december",17847.141152221,12
+"Vermont",0,1,"february",9101.69271650022,2
+"Vermont",0,1,"january",9224.36770586022,1
+"Vermont",0,1,"july",10430.4946482419,7
+"Vermont",0,1,"june",10198.6725697219,6
+"Vermont",0,1,"march",9761.30007548856,3
+"Vermont",0,1,"may",10282.7113114786,5
+"Vermont",0,1,"november",14436.0203713093,11
+"Vermont",0,1,"october",12363.8683855552,10
+"Vermont",0,1,"september",12177.0036522529,9
+"Vermont",0,NA,"april",2082.35508998188,4
+"Vermont",0,NA,"august",2113.67032979722,8
+"Vermont",0,NA,"december",1638.07125436,12
+"Vermont",0,NA,"february",2265.77204367386,2
+"Vermont",0,NA,"january",2220.19026701814,1
+"Vermont",0,NA,"july",1885.573614195,7
+"Vermont",0,NA,"june",1885.573614195,6
+"Vermont",0,NA,"march",2338.74127936957,3
+"Vermont",0,NA,"may",2082.35508998188,5
+"Vermont",0,NA,"november",1172.48145116667,11
+"Vermont",0,NA,"october",2452.689652723,10
+"Vermont",0,NA,"september",2237.1475734735,9
+"Vermont",1,0,"april",3458.246269319,4
+"Vermont",1,0,"august",3576.31919766022,8
+"Vermont",1,0,"december",5157.98253349,12
+"Vermont",1,0,"february",3001.22854225888,2
+"Vermont",1,0,"january",3255.47146397138,1
+"Vermont",1,0,"july",3412.20882755025,7
+"Vermont",1,0,"june",3467.246024598,6
+"Vermont",1,0,"march",3290.04107748738,3
+"Vermont",1,0,"may",3463.09922937275,5
+"Vermont",1,0,"november",3460.26343509,11
+"Vermont",1,0,"october",2477.287105157,10
+"Vermont",1,0,"september",3349.49521331413,9
+"Vermont",1,1,"april",7365.01405017811,4
+"Vermont",1,1,"august",8292.27039518367,8
+"Vermont",1,1,"december",8027.22496174,12
+"Vermont",1,1,"february",6146.90916742267,2
+"Vermont",1,1,"january",6072.31704025044,1
+"Vermont",1,1,"july",7737.87495755656,7
+"Vermont",1,1,"june",8015.50435989878,6
+"Vermont",1,1,"march",6835.48831772933,3
+"Vermont",1,1,"may",7509.18324645589,5
+"Vermont",1,1,"november",12479.5481297233,11
+"Vermont",1,1,"october",8777.24737818667,10
+"Vermont",1,1,"september",7966.04040011112,9
+"Vermont",1,NA,"april",2050.65209126,4
+"Vermont",1,NA,"august",2735.48379187778,8
+"Vermont",1,NA,"december",3712.44007115,12
+"Vermont",1,NA,"february",1647.96403815333,2
+"Vermont",1,NA,"january",2047.70425025111,1
+"Vermont",1,NA,"july",2211.65365336333,7
+"Vermont",1,NA,"june",2582.51459182778,6
+"Vermont",1,NA,"march",2010.38167082667,3
+"Vermont",1,NA,"may",2703.45158080111,5
+"Vermont",1,NA,"november",3192.76821836333,11
+"Vermont",1,NA,"october",3015.83255237667,10
+"Vermont",1,NA,"september",3144.51315249625,9
+"Virginia",0,0,"april",39861.1908644278,4
+"Virginia",0,0,"august",43057.4604308922,8
+"Virginia",0,0,"december",26638.9182757,12
+"Virginia",0,0,"february",33305.68980826,2
+"Virginia",0,0,"january",35825.4897499811,1
+"Virginia",0,0,"july",42410.4289136689,7
+"Virginia",0,0,"june",40435.2050745067,6
+"Virginia",0,0,"march",35746.5485918622,3
+"Virginia",0,0,"may",39663.9896000067,5
+"Virginia",0,0,"november",46581.0518964267,11
+"Virginia",0,0,"october",42906.019425095,10
+"Virginia",0,0,"september",50218.4685877045,9
+"Virginia",0,1,"april",54818.8857466089,4
+"Virginia",0,1,"august",72096.2641191989,8
+"Virginia",0,1,"december",34618.47220279,12
+"Virginia",0,1,"february",46834.39166032,2
+"Virginia",0,1,"january",51819.5388966678,1
+"Virginia",0,1,"july",67184.1015429133,7
+"Virginia",0,1,"june",64374.2082720867,6
+"Virginia",0,1,"march",49975.8400009311,3
+"Virginia",0,1,"may",59042.2176183111,5
+"Virginia",0,1,"november",65944.9637035933,11
+"Virginia",0,1,"october",75067.732800885,10
+"Virginia",0,1,"september",74585.1419468037,9
+"Virginia",0,NA,"april",18882.3575428743,4
+"Virginia",0,NA,"august",17894.2763628025,8
+"Virginia",0,NA,"december",12062.0305491,12
+"Virginia",0,NA,"february",12422.3885291029,2
+"Virginia",0,NA,"january",13486.67391972,1
+"Virginia",0,NA,"july",16204.4639204775,7
+"Virginia",0,NA,"june",17964.2266799314,6
+"Virginia",0,NA,"march",12673.9141151525,3
+"Virginia",0,NA,"may",17964.2266799314,5
+"Virginia",0,NA,"november",17134.4623919,11
+"Virginia",0,NA,"october",21639.676659025,10
+"Virginia",0,NA,"september",20080.3331751886,9
+"Virginia",1,0,"april",27191.7473445591,4
+"Virginia",1,0,"august",32640.2923443913,8
+"Virginia",1,0,"december",16415.77771182,12
+"Virginia",1,0,"february",19311.0262846278,2
+"Virginia",1,0,"january",19006.61471923,1
+"Virginia",1,0,"july",34070.0773857736,7
+"Virginia",1,0,"june",33060.6745337391,6
+"Virginia",1,0,"march",23699.9973758378,3
+"Virginia",1,0,"may",27636.7341843169,5
+"Virginia",1,0,"november",42388.7540398567,11
+"Virginia",1,0,"october",39012.5904033267,10
+"Virginia",1,0,"september",30279.5585277177,9
+"Virginia",1,1,"april",101865.546147941,4
+"Virginia",1,1,"august",121622.022955507,8
+"Virginia",1,1,"december",68120.19056179,12
+"Virginia",1,1,"february",91077.6990065622,2
+"Virginia",1,1,"january",102185.692867118,1
+"Virginia",1,1,"july",114203.560680028,7
+"Virginia",1,1,"june",114309.189934503,6
+"Virginia",1,1,"march",97589.1753668744,3
+"Virginia",1,1,"may",107074.057186698,5
+"Virginia",1,1,"november",118499.865637883,11
+"Virginia",1,1,"october",121205.867845428,10
+"Virginia",1,1,"september",132518.81895865,9
+"Virginia",1,NA,"april",47614.8233646022,4
+"Virginia",1,NA,"august",47965.7341857456,8
+"Virginia",1,NA,"december",37990.04372235,12
+"Virginia",1,NA,"february",40987.4918794522,2
+"Virginia",1,NA,"january",35660.4846421744,1
+"Virginia",1,NA,"july",45894.1234190567,7
+"Virginia",1,NA,"june",45033.2958630689,6
+"Virginia",1,NA,"march",38766.1063291911,3
+"Virginia",1,NA,"may",45543.0600388911,5
+"Virginia",1,NA,"november",73805.0406918,11
+"Virginia",1,NA,"october",51998.623397195,10
+"Virginia",1,NA,"september",51036.0863879637,9
+"Washington",0,0,"april",75570.1016779778,4
+"Washington",0,0,"august",88377.0595435289,8
+"Washington",0,0,"december",52275.608366685,12
+"Washington",0,0,"february",60051.80145228,2
+"Washington",0,0,"january",62635.2491205544,1
+"Washington",0,0,"july",83072.8372359578,7
+"Washington",0,0,"june",81770.6136931356,6
+"Washington",0,0,"march",70816.7004620978,3
+"Washington",0,0,"may",80808.6467286,5
+"Washington",0,0,"november",98805.3375122967,11
+"Washington",0,0,"october",93688.017044405,10
+"Washington",0,0,"september",90507.4478137737,9
+"Washington",0,1,"april",109257.622329253,4
+"Washington",0,1,"august",120630.387182589,8
+"Washington",0,1,"december",73281.54878015,12
+"Washington",0,1,"february",97859.2373853401,2
+"Washington",0,1,"january",98974.8857186601,1
+"Washington",0,1,"july",117684.959836625,7
+"Washington",0,1,"june",118141.549859707,6
+"Washington",0,1,"march",104862.114391928,3
+"Washington",0,1,"may",110617.190688113,5
+"Washington",0,1,"november",111961.320655917,11
+"Washington",0,1,"october",102223.969954248,10
+"Washington",0,1,"september",114941.769765249,9
+"Washington",0,NA,"april",23673.1132871744,4
+"Washington",0,NA,"august",22114.93785973,8
+"Washington",0,NA,"december",22585.912636865,12
+"Washington",0,NA,"february",18894.4838037622,2
+"Washington",0,NA,"january",18816.3903993122,1
+"Washington",0,NA,"july",25265.06890553,7
+"Washington",0,NA,"june",25124.36907483,6
+"Washington",0,NA,"march",22615.0778514867,3
+"Washington",0,NA,"may",24821.5665300856,5
+"Washington",0,NA,"november",41412.3807093833,11
+"Washington",0,NA,"october",29757.4815373333,10
+"Washington",0,NA,"september",24625.6066794238,9
+"Washington",1,0,"april",43813.5470651088,4
+"Washington",1,0,"august",52106.1433304421,8
+"Washington",1,0,"december",22394.768864405,12
+"Washington",1,0,"february",31224.5016850643,2
+"Washington",1,0,"january",30801.7831610621,1
+"Washington",1,0,"july",48047.3147851066,7
+"Washington",1,0,"june",46681.5609990132,6
+"Washington",1,0,"march",38683.3845343554,3
+"Washington",1,0,"may",45200.6506426899,5
+"Washington",1,0,"november",46417.92751416,11
+"Washington",1,0,"october",48285.9463423117,10
+"Washington",1,0,"september",49291.7650338561,9
+"Washington",1,1,"april",105254.180843028,4
+"Washington",1,1,"august",125114.548965534,8
+"Washington",1,1,"december",71985.99923797,12
+"Washington",1,1,"february",87571.7132764967,2
+"Washington",1,1,"january",87886.5984916922,1
+"Washington",1,1,"july",119409.735239009,7
+"Washington",1,1,"june",115062.780805104,6
+"Washington",1,1,"march",95520.7280474978,3
+"Washington",1,1,"may",107927.467809238,5
+"Washington",1,1,"november",142918.10586534,11
+"Washington",1,1,"october",123801.256469103,10
+"Washington",1,1,"september",122926.321695535,9
+"Washington",1,NA,"april",42440.2702311322,4
+"Washington",1,NA,"august",51273.0769603978,8
+"Washington",1,NA,"december",38682.83879729,12
+"Washington",1,NA,"february",34366.4031398856,2
+"Washington",1,NA,"january",34689.6009821411,1
+"Washington",1,NA,"july",45253.1003243311,7
+"Washington",1,NA,"june",45269.5431385333,6
+"Washington",1,NA,"march",38059.18477961,3
+"Washington",1,NA,"may",43063.9497830433,5
+"Washington",1,NA,"november",63177.7235451267,11
+"Washington",1,NA,"october",46924.7865817167,10
+"Washington",1,NA,"september",48664.6332380225,9
+"West Virginia",0,0,"april",11873.5949021067,4
+"West Virginia",0,0,"august",12222.4954856333,8
+"West Virginia",0,0,"december",15820.129124845,12
+"West Virginia",0,0,"february",10132.6401848633,2
+"West Virginia",0,0,"january",9475.80855153222,1
+"West Virginia",0,0,"july",12013.8017109333,7
+"West Virginia",0,0,"june",11493.8750960922,6
+"West Virginia",0,0,"march",11321.3727955289,3
+"West Virginia",0,0,"may",12209.9806349722,5
+"West Virginia",0,0,"november",16487.12447546,11
+"West Virginia",0,0,"october",12947.5146807217,10
+"West Virginia",0,0,"september",12345.3185697213,9
+"West Virginia",0,1,"april",27416.5172218889,4
+"West Virginia",0,1,"august",34355.6075415944,8
+"West Virginia",0,1,"december",35917.99111516,12
+"West Virginia",0,1,"february",25600.3416075322,2
+"West Virginia",0,1,"january",25640.8556736144,1
+"West Virginia",0,1,"july",33696.31617707,7
+"West Virginia",0,1,"june",28492.3474039156,6
+"West Virginia",0,1,"march",26707.40562149,3
+"West Virginia",0,1,"may",27564.1579759611,5
+"West Virginia",0,1,"november",40829.6723703,11
+"West Virginia",0,1,"october",25867.5432163817,10
+"West Virginia",0,1,"september",34759.2753235413,9
+"West Virginia",0,NA,"april",4941.33427271,4
+"West Virginia",0,NA,"august",5564.04142554,8
+"West Virginia",0,NA,"december",8526.95331141,12
+"West Virginia",0,NA,"february",4366.94745322125,2
+"West Virginia",0,NA,"january",4366.94745322125,1
+"West Virginia",0,NA,"july",5279.276877215,7
+"West Virginia",0,NA,"june",4900.77367194,6
+"West Virginia",0,NA,"march",4578.87913764,3
+"West Virginia",0,NA,"may",5165.62287956625,5
+"West Virginia",0,NA,"november",8271.424763755,11
+"West Virginia",0,NA,"october",6306.27576107167,10
+"West Virginia",0,NA,"september",5769.74846431,9
+"West Virginia",1,0,"april",9996.95434976111,4
+"West Virginia",1,0,"august",11808.2263233667,8
+"West Virginia",1,0,"december",5383.05241631,12
+"West Virginia",1,0,"february",10432.7517632843,2
+"West Virginia",1,0,"january",9296.9864279375,1
+"West Virginia",1,0,"july",10451.8897647244,7
+"West Virginia",1,0,"june",9971.92601840667,6
+"West Virginia",1,0,"march",8819.39760382111,3
+"West Virginia",1,0,"may",9885.68142226667,5
+"West Virginia",1,0,"november",8853.72634008,11
+"West Virginia",1,0,"october",9473.89513630833,10
+"West Virginia",1,0,"september",9379.05399332375,9
+"West Virginia",1,1,"april",43999.9856684156,4
+"West Virginia",1,1,"august",48702.0443461233,8
+"West Virginia",1,1,"december",34956.18028734,12
+"West Virginia",1,1,"february",40849.6623904422,2
+"West Virginia",1,1,"january",40557.0104827867,1
+"West Virginia",1,1,"july",47258.4014414067,7
+"West Virginia",1,1,"june",47138.8951053333,6
+"West Virginia",1,1,"march",41670.3204252144,3
+"West Virginia",1,1,"may",46721.7615499278,5
+"West Virginia",1,1,"november",46390.62976721,11
+"West Virginia",1,1,"october",48561.2950184417,10
+"West Virginia",1,1,"september",48891.2268190663,9
+"West Virginia",1,NA,"april",15821.7248349267,4
+"West Virginia",1,NA,"august",16331.1685881633,8
+"West Virginia",1,NA,"december",5546.448576685,12
+"West Virginia",1,NA,"february",13698.3793052278,2
+"West Virginia",1,NA,"january",13588.4003697289,1
+"West Virginia",1,NA,"july",15566.8294803522,7
+"West Virginia",1,NA,"june",15987.3536763167,6
+"West Virginia",1,NA,"march",15480.7417259989,3
+"West Virginia",1,NA,"may",16214.2903888189,5
+"West Virginia",1,NA,"november",26394.0304595167,11
+"West Virginia",1,NA,"october",16579.397137905,10
+"West Virginia",1,NA,"september",16673.1254204587,9
+"Wisconsin",0,0,"april",38784.6034797789,4
+"Wisconsin",0,0,"august",43772.80868722,8
+"Wisconsin",0,0,"december",105107.34637607,12
+"Wisconsin",0,0,"february",33549.3962354033,2
+"Wisconsin",0,0,"january",33679.9364889033,1
+"Wisconsin",0,0,"july",42176.0342742956,7
+"Wisconsin",0,0,"june",40351.0034653244,6
+"Wisconsin",0,0,"march",36657.4410446889,3
+"Wisconsin",0,0,"may",40492.0307658878,5
+"Wisconsin",0,0,"november",58099.5897177633,11
+"Wisconsin",0,0,"october",43794.26859518,10
+"Wisconsin",0,0,"september",44232.3935061462,9
+"Wisconsin",0,1,"april",47810.7760549433,4
+"Wisconsin",0,1,"august",55422.7446717311,8
+"Wisconsin",0,1,"december",34957.15070346,12
+"Wisconsin",0,1,"february",45347.8869833044,2
+"Wisconsin",0,1,"january",44050.1748641733,1
+"Wisconsin",0,1,"july",52042.6430687567,7
+"Wisconsin",0,1,"june",51212.0962531567,6
+"Wisconsin",0,1,"march",47972.9709472567,3
+"Wisconsin",0,1,"may",49533.9885086056,5
+"Wisconsin",0,1,"november",69117.7938102733,11
+"Wisconsin",0,1,"october",55044.7939250617,10
+"Wisconsin",0,1,"september",59546.9835423,9
+"Wisconsin",0,NA,"april",11935.5117243063,4
+"Wisconsin",0,NA,"august",15429.4560144611,8
+"Wisconsin",0,NA,"december",6785.65848435,12
+"Wisconsin",0,NA,"february",9035.11211247375,2
+"Wisconsin",0,NA,"january",9697.48863438625,1
+"Wisconsin",0,NA,"july",14831.8378696389,7
+"Wisconsin",0,NA,"june",14081.2025258833,6
+"Wisconsin",0,NA,"march",11355.6066916488,3
+"Wisconsin",0,NA,"may",13028.8733398611,5
+"Wisconsin",0,NA,"november",6859.67567576667,11
+"Wisconsin",0,NA,"october",15514.3501652667,10
+"Wisconsin",0,NA,"september",14362.2347637313,9
+"Wisconsin",1,0,"april",17492.968734225,4
+"Wisconsin",1,0,"august",22919.3570569083,8
+"Wisconsin",1,0,"december",38799.3404961,12
+"Wisconsin",1,0,"february",11795.4467474783,2
+"Wisconsin",1,0,"january",11795.4467474783,1
+"Wisconsin",1,0,"july",22400.5972444794,7
+"Wisconsin",1,0,"june",18775.3448689439,6
+"Wisconsin",1,0,"march",14953.771912245,3
+"Wisconsin",1,0,"may",18211.4762516028,5
+"Wisconsin",1,0,"november",35303.209565,11
+"Wisconsin",1,0,"october",26729.1541856908,10
+"Wisconsin",1,0,"september",24127.2019898119,9
+"Wisconsin",1,1,"april",99587.5763211533,4
+"Wisconsin",1,1,"august",113950.068425827,8
+"Wisconsin",1,1,"december",83571.50935655,12
+"Wisconsin",1,1,"february",79034.9760978789,2
+"Wisconsin",1,1,"january",76813.9992718233,1
+"Wisconsin",1,1,"july",107576.43169061,7
+"Wisconsin",1,1,"june",105969.209075166,6
+"Wisconsin",1,1,"march",88786.8971455867,3
+"Wisconsin",1,1,"may",106124.773970052,5
+"Wisconsin",1,1,"november",121738.03074298,11
+"Wisconsin",1,1,"october",115740.213747155,10
+"Wisconsin",1,1,"september",111701.915434526,9
+"Wisconsin",1,NA,"april",36400.0006384544,4
+"Wisconsin",1,NA,"august",37043.5239358067,8
+"Wisconsin",1,NA,"december",15185.77297495,12
+"Wisconsin",1,NA,"february",29514.84082083,2
+"Wisconsin",1,NA,"january",30856.8475097967,1
+"Wisconsin",1,NA,"july",32173.5644427844,7
+"Wisconsin",1,NA,"june",31887.8008863067,6
+"Wisconsin",1,NA,"march",32278.57595561,3
+"Wisconsin",1,NA,"may",32568.70747834,5
+"Wisconsin",1,NA,"november",24796.96459784,11
+"Wisconsin",1,NA,"october",41466.70855607,10
+"Wisconsin",1,NA,"september",39314.7883341825,9
+"Wyoming",0,0,"april",1111.673005706,4
+"Wyoming",0,0,"august",1519.58046607237,8
+"Wyoming",0,0,"december",3895.36268707,12
+"Wyoming",0,0,"february",948.964066713143,2
+"Wyoming",0,0,"january",948.964066713143,1
+"Wyoming",0,0,"july",1024.70600315613,7
+"Wyoming",0,0,"june",978.563649164875,6
+"Wyoming",0,0,"march",1066.34690352886,3
+"Wyoming",0,0,"may",978.563649164875,5
+"Wyoming",0,0,"november",2182.33023135,11
+"Wyoming",0,0,"october",1673.49570326,10
+"Wyoming",0,0,"september",1584.279909707,9
+"Wyoming",0,1,"april",2396.12105142944,4
+"Wyoming",0,1,"august",2734.41895868833,8
+"Wyoming",0,1,"december",2878.975020925,12
+"Wyoming",0,1,"february",1675.803738675,2
+"Wyoming",0,1,"january",1607.47332098611,1
+"Wyoming",0,1,"july",2744.89462272056,7
+"Wyoming",0,1,"june",2463.639297025,6
+"Wyoming",0,1,"march",1798.18498121722,3
+"Wyoming",0,1,"may",2409.57409214278,5
+"Wyoming",0,1,"november",3453.14385236,11
+"Wyoming",0,1,"october",2644.03859472333,10
+"Wyoming",0,1,"september",2611.9908977465,9
+"Wyoming",0,NA,"april",444.471090885,4
+"Wyoming",0,NA,"august",1247.71914758,8
+"Wyoming",0,NA,"february",620.36254581,2
+"Wyoming",0,NA,"january",620.36254581,1
+"Wyoming",0,NA,"july",1120.590978275,7
+"Wyoming",0,NA,"june",721.63050806675,6
+"Wyoming",0,NA,"march",620.36254581,3
+"Wyoming",0,NA,"may",444.471090885,5
+"Wyoming",0,NA,"october",896.192428805,10
+"Wyoming",0,NA,"september",1157.26971857,9
+"Wyoming",1,0,"april",1015.29245046714,4
+"Wyoming",1,0,"august",1150.69301338,8
+"Wyoming",1,0,"december",993.68691567,12
+"Wyoming",1,0,"february",481.895702337333,2
+"Wyoming",1,0,"january",481.895702337333,1
+"Wyoming",1,0,"july",915.436988027143,7
+"Wyoming",1,0,"june",1024.05073648143,6
+"Wyoming",1,0,"march",897.563639813429,3
+"Wyoming",1,0,"may",1045.06981951286,5
+"Wyoming",1,0,"november",2550.94102361133,11
+"Wyoming",1,0,"october",2462.63041456733,10
+"Wyoming",1,0,"september",1506.32033947486,9
+"Wyoming",1,1,"april",3796.93387894989,4
+"Wyoming",1,1,"august",4810.966122011,8
+"Wyoming",1,1,"december",6913.27852031,12
+"Wyoming",1,1,"february",3665.17206229878,2
+"Wyoming",1,1,"january",3638.56130812656,1
+"Wyoming",1,1,"july",4717.15172141211,7
+"Wyoming",1,1,"june",4417.48942192322,6
+"Wyoming",1,1,"march",3665.17206229878,3
+"Wyoming",1,1,"may",3806.45669824878,5
+"Wyoming",1,1,"november",6479.33183391333,11
+"Wyoming",1,1,"october",6557.24789041983,10
+"Wyoming",1,1,"september",5520.23361910738,9
+"Wyoming",1,NA,"april",2445.57227893875,4
+"Wyoming",1,NA,"august",2411.02019913444,8
+"Wyoming",1,NA,"december",1627.970630685,12
+"Wyoming",1,NA,"february",2481.9129586775,2
+"Wyoming",1,NA,"january",2366.5578614675,1
+"Wyoming",1,NA,"july",2273.12267616889,7
+"Wyoming",1,NA,"june",2364.87038448556,6
+"Wyoming",1,NA,"march",2366.5578614675,3
+"Wyoming",1,NA,"may",2196.17572331556,5
+"Wyoming",1,NA,"november",3895.23072777333,11
+"Wyoming",1,NA,"october",3635.08636091,10
+"Wyoming",1,NA,"september",3872.97111792429,9
